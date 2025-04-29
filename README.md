@@ -31,6 +31,7 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 ## 🔧 Tech & Tools I Use:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux)
+![Linux](https://img.shields.io/badge/Platform-Linux-brightgreen)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6F00?style=flat&logo=burpsuite)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-3F3F3F?style=flat)
