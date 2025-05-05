@@ -4,6 +4,7 @@
 I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defense, and finding vulnerabilities before the bad guys do.
 
 ## 👀 I’m interested in:
+- I’m focused on testing and experimenting with different network systems and tools to deepen my understanding of networking.
 - Penetration Testing (Web, Network, and Wireless)
 - Malware Analysis & Reverse Engineering
 - Capture the Flag (CTF) Challenges
