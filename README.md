@@ -35,9 +35,11 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 ![WSL](https://img.shields.io/badge/WSL-brightgreen)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6F00?style=flat&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/-Metasploit-3F3F3F?style=flat)
+![Metasploit Framework](https://img.shields.io/badge/-Metasploit-3F3F3F?style=flat)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Web%20Application%20Security%20Testing-red)
+![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-Malware%20Analysis-purple)
 
 ---
 
