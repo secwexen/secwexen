@@ -38,8 +38,8 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 ![Metasploit Framework](https://img.shields.io/badge/-Metasploit-3F3F3F?style=flat)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Web%20Application%20Security%20Testing-red)
-![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-Malware%20Analysis-purple)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%20Testing-red)
+![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-purple)
 
 ---
 
