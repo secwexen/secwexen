@@ -40,7 +40,6 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF0000?style=flat&logo=OWASPZAP)
 ![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-800080?style=flat&logo=CuckooSandbox)
-![Sherlock](https://img.shields.io/badge/Sherlock-blue?logo=Sherlock)
 
 - And More...
 ---
