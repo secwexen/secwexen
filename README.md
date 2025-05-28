@@ -10,6 +10,11 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 - Capture the Flag (CTF) Challenges
 - OSINT & Digital Forensics
 
+## 🧠 Recent Focus Areas:
+- Learning Rust for secure systems
+- Creating my own CTF challenges
+- Writing custom payloads & exploits
+
 ## 🌱 I’m currently learning:
 - Buffer Overflow Exploits & Shellcode
 - Advanced Persistent Threats (APT)
@@ -22,18 +27,6 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 - 🍓 **Raspberry Pi** – DIY projects and edge computing
 - 🦆 **USB Rubber Ducky** – Scripting and testing HID attacks (for ethical purposes only)
 
-## 💞️ I’m looking to collaborate on:
-- Offensive security research, vulnerability discovery, and building open-source tools for ethical hackers.
-- Open-source cybersecurity tools
-- CTF teams or hackathons
-- Threat Intelligence research projects
-
-## 📫 How to reach me:
-- 📧 Email: 
-- 💬 Discord: 
-- 🐦 Twitter: []()
-
----
 
 ## 🔧 Cyber Tech & Tools I Use:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -48,9 +41,14 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 ![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-800080?style=flat&logo=CuckooSandbox)
 
 - And More...
----
 
-## 🧠 Recent Focus Areas:
-- Learning Rust for secure systems
-- Creating my own CTF challenges
-- Writing custom payloads & exploits
+## 💞️ I’m looking to collaborate on:
+- Offensive security research, vulnerability discovery, and building open-source tools for ethical hackers.
+- Open-source cybersecurity tools
+- CTF teams or hackathons
+- Threat Intelligence research projects
+
+## 📫 How to reach me:
+- 📧 Email: 
+- 💬 Discord: 
+- 🐦 Twitter: []()
