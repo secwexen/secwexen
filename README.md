@@ -35,7 +35,7 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 
 ---
 
-## 🔧 Tech & Tools I Use:
+## 🔧 Cyber Tech & Tools I Use:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux)
 ![WSL](https://img.shields.io/badge/WSL-brightgreen)
