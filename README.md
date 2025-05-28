@@ -3,14 +3,23 @@
 ## 👋 Hi, I’m @X99874  
 I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defense, and finding vulnerabilities before the bad guys do.
 
-## 👀 I’m interested in:
-- I’m focused on testing and experimenting with different network systems and tools to deepen my understanding of networking.
-- Penetration Testing (Web, Network, and Wireless)
-- Malware Analysis & Reverse Engineering
-- Capture the Flag (CTF) Challenges
-- OSINT & Digital Forensics
-- 📡 Learning and configuring networking equipment (Cisco, switching, routing)
-- 🗄️ Hands-on experience with databases and database security
+## 👀 Areas I'm Interested In:
+
+- 🌐 Exploring and experimenting with diverse network systems and security tools  
+- 🔓 Conducting thorough penetration testing in Web, Network, and Wireless environments  
+- 🦠 Diving deep into malware analysis, reverse engineering, and unpacking complex binaries  
+- 🎯 Solving and creating Capture The Flag (CTF) challenges to enhance cybersecurity skills  
+- 🕵️ Leveraging OSINT techniques and performing digital forensic investigations for threat intelligence  
+- 🦀 Developing secure and efficient systems using the Rust programming language  
+- 🛠️ Designing, building, and deploying custom CTF challenges to educate and challenge others  
+- 💥 Crafting advanced custom payloads, writing exploits, and developing proof-of-concept attacks  
+- 📡 Setting up and managing enterprise-grade network labs involving Cisco switches, routing, and VLANs  
+- 🔐 Practicing secure coding, auditing, and vulnerability assessments in Rust, Python, Bash, and C  
+- 📊 Analyzing network traffic with tools like Wireshark and creating custom packet manipulations with Scapy  
+- 🐳 Exploring container security with Docker and Kubernetes for modern cloud-native environments  
+- ☁️ Understanding cloud security principles across platforms like AWS, Azure, and Google Cloud  
+- 🤖 Automating penetration testing and security workflows through scripting and tool development  
+- 🗄️ Practical experience in managing databases and applying security best practices to protect data integrity. Skilled in configuring, maintaining, and securing databases to ensure high availability and data protection  
 
 ## 🚧 Current Focus
 
