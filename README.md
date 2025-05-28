@@ -22,18 +22,34 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 
 I'm always experimenting, breaking, fixing, and learning.
 
-## 🌱 I’m currently learning:
-- Buffer Overflow Exploits & Shellcode
-- Advanced Persistent Threats (APT)
-- Red Teaming Techniques
-- Python for Pentesting (pwntools, scapy, etc.)
+## 🌱 I'm currently learning:
+
+- 🦀 Rust for secure and efficient system programming  
+- 🖧 Advanced Cisco networking concepts (Switching, Routing, VLANs, ACLs, QoS)  
+- 🗄️ Database management systems and best security practices (MySQL, PostgreSQL, MongoDB)  
+- 💥 Writing custom exploits, payloads, and advanced proof-of-concept attacks  
+- 🎯 Designing and deploying custom CTF challenges for different skill levels  
+- 🔍 Reverse engineering techniques, malware unpacking, and dynamic analysis  
+- 🕵️ Threat hunting methodologies and incident response automation  
+- 🛰️ OSINT (Open Source Intelligence) tools and techniques  
+- 🧑‍💻 Digital forensics and log analysis for cyber incident investigations  
+- 🐳 Container security and orchestration with Docker and Kubernetes  
+- ☁️ Cloud security fundamentals (AWS, Azure, GCP)  
+- 🔐 Secure coding practices in Rust, Python, Bash, and C  
+- 🤖 Automation and scripting for penetration testing (Python, PowerShell, Bash)  
+- 📡 Network protocol analysis and packet crafting (Wireshark, Scapy)  
+- 🌐 Web application security, including modern frameworks and APIs  
+- 📶 Wireless security and penetration testing techniques  
+- 🔒 Cryptography basics and practical applications in security  
+- 🧰 Building and using custom security tools and red team utilities  
+- 🎮 Continuous learning through CTF competitions and collaborative projects  
+- 🧠 Developing skills in social engineering and human factor analysis  
 
 ## 🧰 Developer Tools & Gadgets
 
 - 🐬 **Flipper Zero** – Experimenting with RF, IR, RFID, and more
 - 🍓 **Raspberry Pi** – DIY projects and edge computing
 - 🦆 **USB Rubber Ducky** – Scripting and testing HID attacks (for ethical purposes only)
-
 
 ## 🔧 Cyber Tech & Tools I Use:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
