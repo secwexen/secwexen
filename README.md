@@ -49,11 +49,16 @@ I'm always experimenting, breaking, fixing, and learning.
 
 - And More...
 
-## 💞️ I’m looking to collaborate on:
-- Offensive security research, vulnerability discovery, and building open-source tools for ethical hackers.
-- Open-source cybersecurity tools
-- CTF teams or hackathons
-- Threat Intelligence research projects
+## 💞 I'm open to collaboration on the following cybersecurity-focused topics:
+
+- 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
+- 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
+- 🧬 Malware analysis, unpacking, and reverse engineering
+- 🛰️ Threat hunting, OSINT, and digital forensics investigations
+- 📡 Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
+- 🧪 Developing custom exploits, payloads, and proof-of-concept attacks
+- 🔐 Secure coding and auditing in Rust, Python, and Bash
+- 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
 ## 📫 How to reach me:
 - 📧 Email: 
