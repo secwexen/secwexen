@@ -91,7 +91,7 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🔐 Secure coding and auditing in Rust, Python, and Bash
 - 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
-## 📫 How to reach me:
+## 📫 How to reach me
 - 📧 Email: 
 - 💬 Discord: 
 - 🐦 Twitter: []()
