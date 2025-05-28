@@ -65,6 +65,14 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🐬 **Flipper Zero** – Experimenting with RF, IR, RFID, and more
 - 🍓 **Raspberry Pi** – DIY projects and edge computing
 - 🦆 **USB Rubber Ducky** – Scripting and testing HID attacks (for ethical purposes only)
+- 🔐 **YubiKey** – Hardware authentication token for secure login and 2FA  
+- 📡 **HackRF One** – Software-defined radio (SDR) for analyzing wireless signals  
+- 🛠️ **Proxmark3 RDV4** – Advanced RFID/NFC research tool for reading/cloning tags  
+- 🔍 **LAN Turtle** – Covert network implant for remote access and sniffing  
+- 🔌 **Packet Squirrel** – USB-powered device for packet capture and MITM attacks  
+- 🧲 **Key Grabber** – Hardware keylogger (used for testing physical endpoint security)  
+- 🔌 **USB Kill** – Tests surge protection by delivering high-voltage pulses to USB ports  
+- 🎛️ **WiFi Pineapple** – Wireless auditing device for rogue AP detection and testing  
 
 ## 🔧 Cyber Tech & Tools I Use
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
