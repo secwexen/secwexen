@@ -9,7 +9,7 @@ My goal is to strengthen digital environments by anticipating and analyzing pote
 
 Driven by curiosity and a proactive mindset, I actively participate in Capture The Flag (CTF) competitions, develop custom security challenges, and explore advanced topics such as reverse engineering and exploit development. I believe that true cybersecurity is a continuous process of learning, adapting, and innovating to protect our increasingly connected world.
 
-## 👀 Areas I'm Interested In:
+## 👀 Areas I'm Interested In
 
 - 🌐 Exploring and experimenting with diverse network systems and security tools  
 - 🔓 Conducting thorough penetration testing in Web, Network, and Wireless environments  
@@ -37,7 +37,7 @@ Driven by curiosity and a proactive mindset, I actively participate in Capture T
 
 I'm always experimenting, breaking, fixing, and learning.
 
-## 🌱 I'm currently learning:
+## 🌱 I'm currently learning
 
 - 🦀 Rust for secure and efficient system programming  
 - 🖧 Advanced Cisco networking concepts (Switching, Routing, VLANs, ACLs, QoS)  
@@ -66,7 +66,7 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🍓 **Raspberry Pi** – DIY projects and edge computing
 - 🦆 **USB Rubber Ducky** – Scripting and testing HID attacks (for ethical purposes only)
 
-## 🔧 Cyber Tech & Tools I Use:
+## 🔧 Cyber Tech & Tools I Use
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux)
 ![WSL](https://img.shields.io/badge/WSL-brightgreen)
@@ -80,7 +80,7 @@ I'm always experimenting, breaking, fixing, and learning.
 
 - And More...
 
-## 💞 I'm open to collaboration on the following cybersecurity-focused topics:
+## 💞 I'm open to collaboration on the following cybersecurity-focused topics
 
 - 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
 - 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
