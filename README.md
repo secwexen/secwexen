@@ -9,11 +9,18 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 - Malware Analysis & Reverse Engineering
 - Capture the Flag (CTF) Challenges
 - OSINT & Digital Forensics
+- 📡 Learning and configuring networking equipment (Cisco, switching, routing)
+- 🗄️ Hands-on experience with databases and database security
 
-## 🧠 Recent Focus Areas:
-- Learning Rust for secure systems
-- Creating my own CTF challenges
-- Writing custom payloads & exploits
+## 🚧 Current Focus
+
+- 🦀 Learning **Rust** to build secure systems
+- 🎯 Creating my own **CTF challenges**
+- 💥 Writing **custom payloads and exploits**
+- 🔧 Setting up and experimenting with **Cisco switches and routers**
+- 🛢️ Exploring **database management** and secure configurations
+
+I'm always experimenting, breaking, fixing, and learning.
 
 ## 🌱 I’m currently learning:
 - Buffer Overflow Exploits & Shellcode
