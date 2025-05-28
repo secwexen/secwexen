@@ -101,5 +101,6 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ## 📫 How to reach me
 - 📧 Email: 
-- 💬 Discord: 
-- 🐦 Twitter: []()
+- 💬 Discord: **** 
+- 🐦 [X]()
+- 💼 [LinkedIn]()
