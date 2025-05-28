@@ -16,6 +16,12 @@ I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defen
 - Red Teaming Techniques
 - Python for Pentesting (pwntools, scapy, etc.)
 
+## 🧰 Developer Tools & Gadgets
+
+- 🐬 **Flipper Zero** – Experimenting with RF, IR, RFID, and more
+- 🍓 **Raspberry Pi** – DIY projects and edge computing
+- 🦆 **USB Rubber Ducky** – Scripting and testing HID attacks (for ethical purposes only)
+
 ## 💞️ I’m looking to collaborate on:
 - Offensive security research, vulnerability discovery, and building open-source tools for ethical hackers.
 - Open-source cybersecurity tools
