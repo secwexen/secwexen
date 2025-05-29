@@ -25,7 +25,8 @@ Driven by curiosity and a proactive mindset, I actively participate in Capture T
 - 🐳 Exploring container security with Docker and Kubernetes for modern cloud-native environments  
 - ☁️ Understanding cloud security principles across platforms like AWS, Azure, and Google Cloud  
 - 🤖 Automating penetration testing and security workflows through scripting and tool development  
-- 🗄️ Practical experience in managing databases and applying security best practices to protect data integrity. Skilled in configuring, maintaining, and securing databases to ensure high availability and data protection  
+- 🗄️ Practical experience in managing databases and applying security best practices to protect data integrity. Skilled in configuring, maintaining, and securing databases to ensure high availability and data protection
+- ⚡I'm passionate about Electrical and Electronics Engineering, focusing on circuit design, sensor systems, and microcontrollers like Arduino and STM32. I enjoy building embedded and IoT projects while constantly learning and improving.
 
 ## 🚧 Current Focus
 
