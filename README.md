@@ -30,6 +30,7 @@ Driven by curiosity and a proactive mindset, I actively participate in Capture T
 
 ## 🚧 Current Focus
 
+- 🌐 Exploring and experimenting with diverse network systems and security tools  
 - 🦀 Learning **Rust** to build secure systems
 - 🎯 Creating my own **CTF challenges**
 - 💥 Writing **custom payloads and exploits**
