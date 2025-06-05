@@ -92,6 +92,7 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ## 💞 I'm open to collaboration on the following cybersecurity-focused topics
 
+- 🧩 We are open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both Jeopardy-style and Attack-Defense CTF challenges.
 - 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
 - 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
 - 🧬 Malware analysis, unpacking, and reverse engineering
