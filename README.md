@@ -1,4 +1,4 @@
-# I'm stronger with every line of code. Closer with every vulnerability. | 🛡️ CyberSecurity & Ethical Hacking
+# I'm stronger with every line of code. Closer with every vulnerability. | CyberSecurity & Ethical Hacking
 
 ## 👋 Hi, I’m @X99874  
 I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defense, and finding vulnerabilities before the bad guys do.
