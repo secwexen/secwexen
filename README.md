@@ -103,7 +103,7 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
 ## 📫 How to reach me
-- 📧 Email: 
-- 💬 Discord: **** 
+- 📧 [Email]()
+- 💬 [Discord]() 
 - 🐦 [X]()
 - 💼 [LinkedIn]()
