@@ -9,6 +9,8 @@
 
 ### Driven by curiosity and a proactive mindset, I actively participate in Capture The Flag (CTF) competitions, develop custom security challenges, and explore advanced topics such as reverse engineering and exploit development. I believe that true cybersecurity is a continuous process of learning, adapting, and innovating to protect our increasingly connected world.
 
+---
+
 ## Areas I'm Interested In
 
 - 🌐 Exploring and experimenting with diverse network systems and security tools  
@@ -28,6 +30,8 @@
 - 🗄️ Hands-on experience in managing databases and implementing security best practices to maintain data integrity. Skilled in configuring, maintaining and securing databases to ensure high availability and data protection
 - ⚡I'm passionate about Electrical and Electronics Engineering, focusing on circuit design, sensor systems, and microcontrollers like Arduino and STM32. I enjoy building embedded and IoT projects while constantly learning and improving.
 
+---
+
 ## Current Focus
 
 - 🌐 Exploring and experimenting with diverse network systems and security tools  
@@ -38,6 +42,8 @@
 - 🛢️ Exploring **database management** and secure configurations
 
 I'm always experimenting, breaking, fixing, and learning.
+
+---
 
 ## I'm currently learning
 
@@ -62,7 +68,9 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🎮 Continuous learning through CTF competitions and collaborative projects  
 - 🧠 Developing skills in social engineering and human factor analysis  
 
-## Developer Tools & Gadgets
+---
+
+## Developer Tools
 
 - 🐬 **Flipper Zero** – Experimenting with RF, IR, RFID, and more
 - 🍓 **Raspberry Pi** – DIY projects and edge computing
@@ -76,6 +84,8 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🔌 **USB Kill** – Tests surge protection by delivering high-voltage pulses to USB ports  
 - 🎛️ **WiFi Pineapple** – Wireless auditing device for rogue AP detection and testing  
 
+---
+
 ## Platform I Use
 
 - 🐉 Kali Linux
@@ -83,9 +93,11 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🐧 Ubuntu 
 - 🪟 Windows 
 
+---
+
 ## I'm open to collaboration on the following cybersecurity-focused topics
 
-- 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both .
+- 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
 - 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
 - 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
 - 🧬 Malware analysis, unpacking, and reverse engineering
@@ -95,9 +107,19 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🔐 Secure coding and auditing in Rust, Python, and Bash
 - 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
-## How to reach me
+---
 
-- [Email]()
-- [WebSite]()
-- [X]()
-- [LinkedIn]()
+## Featured Projects
+
+- [🔗 Soon]()
+
+---
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn]()
+- 🐦 [X]()
+- 📷 [Instagram]()
+- 🎥 [YouTube]()
+- 💬 [Discord]()
+
