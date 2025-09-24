@@ -1,16 +1,16 @@
-# I'm stronger with every line of code. Closer with every vulnerability. | CyberSecurity & Ethical Hacking
+# Cybersecurity & Ethical Hacking Specialist
 
 ---
 
 ## 👋 Hi, I’m @X99874  
 
-I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defense, and finding vulnerabilities before the bad guys do.
+I am a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before malicious actors can exploit them. My work is driven by a strong commitment to protecting digital assets and understanding the adversarial mindset — not to imitate it, but to stay ahead of it.
 
-With a strong commitment to safeguarding digital assets, I focus on understanding the tactics and techniques used by attackers in order to stay one step ahead.
+I focus on analyzing and anticipating potential threats, strengthening systems against evolving cyberattacks, and ensuring resilience in increasingly complex digital environments. My technical expertise spans penetration testing, vulnerability assessment, malware analysis, and incident response — all reinforced through hands-on experience and continuous learning.
 
-My goal is to strengthen digital environments by anticipating and analyzing potential threats, ensuring systems remain resilient against evolving cyber attacks and emerging risks. I specialize in penetration testing, vulnerability assessment, malware analysis, and incident response, constantly refining my skills through hands-on experience and continuous learning.
+Rather than relying solely on theory, I actively design custom security scenarios, explore advanced topics such as reverse engineering and exploit development, and build tools that simulate real-world attack vectors in controlled environments. This practical approach allows me to understand how systems fail, so I can help ensure they don’t.
 
-Driven by curiosity and a proactive mindset, I actively participate in Capture The Flag (CTF) competitions, develop custom security challenges, and explore advanced topics such as reverse engineering and exploit development. I believe that true cybersecurity is a continuous process of learning, adapting, and innovating to protect our increasingly connected world.
+I believe cybersecurity is not a destination but a discipline — one that demands curiosity, precision, and adaptability. In a world where threats evolve daily, I strive to evolve faster. My mission is to contribute to a safer digital future by combining ethical research, technical excellence, and strategic foresight.
 
 ---
 
@@ -37,12 +37,21 @@ Driven by curiosity and a proactive mindset, I actively participate in Capture T
 
 ## Current Focus
 
-- 🌐 Exploring and experimenting with diverse network systems and security tools  
-- 🦀 Learning **Rust** to build secure systems
-- 🎯 Creating my own **CTF challenges**
-- 💥 Writing **custom payloads and exploits**
-- 🔧 Setting up and experimenting with **Cisco switches and routers**
-- 🛢️ Exploring **database management** and secure configurations
+**I am actively developing expertise across key domains of cybersecurity, with a strong emphasis on hands-on learning and practical application:**
+
+- Investigating diverse network architectures and security tools in lab environments  
+- Learning **Rust** to develop memory-safe and secure system-level applications  
+- Designing and testing custom **CTF-style challenges** for internal use and skill development  
+- Writing and analyzing **custom payloads and exploits** to understand adversarial techniques  
+- Configuring and experimenting with **Cisco switches and routers** to deepen network infrastructure knowledge  
+- Studying **database management** with a focus on secure configurations and access control
+- **Penetration Testing** – Simulating attacks to identify and remediate vulnerabilities  
+- **Vulnerability Assessment** – Systematic evaluation of security weaknesses  
+- **Malware Analysis** – Dissecting malicious code to understand behavior and impact  
+- **Incident Response** – Investigating and mitigating security breaches  
+- **Reverse Engineering** – Deconstructing binaries to reveal internal mechanisms  
+- **Exploit Development** – Crafting and analyzing proof-of-concept exploits  
+- **Secure Software Practices** – Integrating security into the development lifecycle
 
 I'm always experimenting, breaking, fixing, and learning.
 
@@ -73,19 +82,21 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ---
 
-## Developer Tools
+## Hardware & Security Toolset
 
-- 🐬 **Flipper Zero** – Experimenting with RF, IR, RFID, and more
-- 🍓 **Raspberry Pi** – DIY projects and edge computing
-- 🦆 **USB Rubber Ducky** – Scripting and testing HID attacks (for ethical purposes only)
-- 🔐 **YubiKey** – Hardware authentication token for secure login and 2FA  
-- 📡 **HackRF One** – Software-defined radio (SDR) for analyzing wireless signals  
-- 🛠️ **Proxmark3 RDV4** – Advanced RFID/NFC research tool for reading/cloning tags  
-- 🔍 **LAN Turtle** – Covert network implant for remote access and sniffing  
-- 🔌 **Packet Squirrel** – USB-powered device for packet capture and MITM attacks  
-- 🧲 **Key Grabber** – Hardware keylogger (used for testing physical endpoint security)  
-- 🔌 **USB Kill** – Tests surge protection by delivering high-voltage pulses to USB ports  
-- 🎛️ **WiFi Pineapple** – Wireless auditing device for rogue AP detection and testing  
+*Used strictly for ethical research, penetration testing, and hardware-level security validation.*
+
+- 🐬 **Flipper Zero** – RF, IR, RFID experimentation  
+- 🍓 **Raspberry Pi** – DIY projects and edge computing  
+- 🦆 **USB Rubber Ducky** – HID scripting for Red Team simulations  
+- 🔐 **YubiKey** – Hardware-based 2FA authentication  
+- 📡 **HackRF One** – SDR for wireless signal analysis  
+- 🛠️ **Proxmark3 RDV4** – Advanced RFID/NFC research  
+- 🔍 **LAN Turtle** – Covert remote access testing  
+- 🔌 **Packet Squirrel** – MITM and packet capture device  
+- 🧲 **Key Grabber** – Endpoint security validation (used in lab conditions only)  
+- 🔌 **USB Kill** – Surge protection testing (non-destructive lab use)  
+- 🎛️ **WiFi Pineapple** – Rogue AP detection and wireless auditing
 
 ---
 
@@ -112,18 +123,48 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ---
 
-## Featured Projects
+## 🎓 Certification Goals & Academic Focus
 
-- [🔗 Soon]()
+I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
+
+Planned certifications and academic milestones include:
+
+- **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
+- **Certified Ethical Hacker (CEH)** – Ethical hacking methodologies and threat analysis  
+- **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense  
+- **Cybersecurity Coursework** – Focused on secure system design, malware analysis, and incident response  
+- **MITRE ATT&CK & NIST Frameworks** – Studied and applied in lab environments   
+- **CISSP – Certified Information Systems Security Professional**
+- **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 
 ---
 
-## 📫 Connect with me
+## Selected Projects & Professional Contributions
 
-- 📧 Email: 
-- 💼 [LinkedIn]()
-- 🐦 [X]()
-- 📷 [Instagram]()
-- 🎥 [YouTube]()
-- 💬 [Discord]()
+I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
 
+- **Coming Soon** - A technical project.
+
+Stay tuned — detailed write-ups and repositories will be published soon.
+
+---
+
+## GitHub Stats & Activity
+
+This section reflects my ongoing contributions, technical experiments, and repository activity. I actively engage in hands-on development, security research, and system-level exploration.
+
+---
+
+## Contact Details & Links
+
+- Email: [Email]()
+- LinkedIn: [LinkedIn]()
+- X: [X]()
+- Instagram: [Instagram]()
+- YouTube: [YouTube]()
+- Discord: [Discord]()
+- GitHub: [github.com]()
+
+---
+
+**Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
