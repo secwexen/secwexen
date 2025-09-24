@@ -76,7 +76,7 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🔌 **USB Kill** – Tests surge protection by delivering high-voltage pulses to USB ports  
 - 🎛️ **WiFi Pineapple** – Wireless auditing device for rogue AP detection and testing  
 
-## Cyber Tech & Platform I Use
+## Platform I Use
 
 - 🐉 Kali Linux
 - 🐚 WSL 
@@ -96,7 +96,8 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
 ## How to reach me
-- 📧 [Email]()
-- 💬 [Discord]() 
-- 🐦 [X]()
-- 💼 [LinkedIn]()
+
+- [Email]()
+- [WebSite]()
+- [X]()
+- [LinkedIn]()
