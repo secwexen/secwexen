@@ -9,7 +9,7 @@
 
 ### Driven by curiosity and a proactive mindset, I actively participate in Capture The Flag (CTF) competitions, develop custom security challenges, and explore advanced topics such as reverse engineering and exploit development. I believe that true cybersecurity is a continuous process of learning, adapting, and innovating to protect our increasingly connected world.
 
-## 👀 Areas I'm Interested In
+## Areas I'm Interested In
 
 - 🌐 Exploring and experimenting with diverse network systems and security tools  
 - 🔓 Conducting thorough penetration testing in Web, Network, and Wireless environments  
@@ -28,7 +28,7 @@
 - 🗄️ Hands-on experience in managing databases and implementing security best practices to maintain data integrity. Skilled in configuring, maintaining and securing databases to ensure high availability and data protection
 - ⚡I'm passionate about Electrical and Electronics Engineering, focusing on circuit design, sensor systems, and microcontrollers like Arduino and STM32. I enjoy building embedded and IoT projects while constantly learning and improving.
 
-## 🚧 Current Focus
+## Current Focus
 
 - 🌐 Exploring and experimenting with diverse network systems and security tools  
 - 🦀 Learning **Rust** to build secure systems
@@ -39,7 +39,7 @@
 
 I'm always experimenting, breaking, fixing, and learning.
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
 - 🦀 Rust for secure and efficient system programming  
 - 🖧 Advanced Cisco networking concepts (Switching, Routing, VLANs, ACLs, QoS)  
@@ -62,7 +62,7 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🎮 Continuous learning through CTF competitions and collaborative projects  
 - 🧠 Developing skills in social engineering and human factor analysis  
 
-## 🧰 Developer Tools & Gadgets
+## Developer Tools & Gadgets
 
 - 🐬 **Flipper Zero** – Experimenting with RF, IR, RFID, and more
 - 🍓 **Raspberry Pi** – DIY projects and edge computing
@@ -76,21 +76,21 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🔌 **USB Kill** – Tests surge protection by delivering high-voltage pulses to USB ports  
 - 🎛️ **WiFi Pineapple** – Wireless auditing device for rogue AP detection and testing  
 
-## 🔧 Cyber Tech & Tools I Use
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux)
-![WSL](https://img.shields.io/badge/WSL-brightgreen)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6F00?style=flat&logo=burpsuite)
-![Metasploit Framework](https://img.shields.io/badge/-Metasploit-3F3F3F?style=flat)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-FF0000?style=flat&logo=OWASPZAP)
-![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-800080?style=flat&logo=CuckooSandbox)
+## Cyber Tech & Tools I Use
 
+- Python
+- Kali Linux
+- WSL
+- Ubuntu
+- Burp Suite
+- Metasploit Framework
+- Wireshark
+- Nmap
+- OWASP ZAP
+- Cuckoo Sandbox
 - And More...
 
-## 💞 I'm open to collaboration on the following cybersecurity-focused topics
+## I'm open to collaboration on the following cybersecurity-focused topics
 
 - 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both .
 - 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
@@ -102,7 +102,7 @@ I'm always experimenting, breaking, fixing, and learning.
 - 🔐 Secure coding and auditing in Rust, Python, and Bash
 - 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
-## 📫 How to reach me
+## How to reach me
 - 📧 [Email]()
 - 💬 [Discord]() 
 - 🐦 [X]()
