@@ -116,6 +116,26 @@ This section reflects my ongoing contributions, technical experiments, and repos
 
 ---
 
+## I'm open to collaboration on the following cybersecurity-focused topics
+
+- 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
+- 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
+- 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
+- 🧬 Malware analysis, unpacking, and reverse engineering
+- 🛰️ Threat hunting, OSINT, and digital forensics investigations
+- 📡 Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
+- 🧪 Developing custom exploits, payloads, and proof-of-concept attacks
+- 🔐 Secure coding and auditing in Rust, Python, and Bash
+- 🧰 Contributing to open-source cybersecurity tools and red team utilities
+
+---
+
+## Languages I Speak
+
+- English
+
+---
+
 ## Certification Goals & Academic Focus
 
 I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
@@ -129,20 +149,6 @@ Planned certifications and academic milestones include:
 - **MITRE ATT&CK & NIST Frameworks** – Studied and applied in lab environments   
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
-
----
-
-## I'm open to collaboration on the following cybersecurity-focused topics
-
-- 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
-- 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
-- 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
-- 🧬 Malware analysis, unpacking, and reverse engineering
-- 🛰️ Threat hunting, OSINT, and digital forensics investigations
-- 📡 Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
-- 🧪 Developing custom exploits, payloads, and proof-of-concept attacks
-- 🔐 Secure coding and auditing in Rust, Python, and Bash
-- 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
 ---
 
