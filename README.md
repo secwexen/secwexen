@@ -116,7 +116,7 @@ This section reflects my ongoing contributions, technical experiments, and repos
 
 ---
 
-## 🎓 Certification Goals & Academic Focus
+## Certification Goals & Academic Focus
 
 I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
 
