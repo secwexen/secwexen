@@ -158,7 +158,6 @@ Planned certifications and academic milestones include:
 - LinkedIn: [LinkedIn]()
 - X: [X]()
 - Instagram: [Instagram]()
-- YouTube: [YouTube]()
 - Discord: [Discord]()
 - GitHub: [github.com]()
 
