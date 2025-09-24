@@ -1,13 +1,16 @@
 # I'm stronger with every line of code. Closer with every vulnerability. | CyberSecurity & Ethical Hacking
 
+---
+
 ## 👋 Hi, I’m @X99874  
-### I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defense, and finding vulnerabilities before the bad guys do.
 
-### With a strong commitment to safeguarding digital assets, I focus on understanding the tactics and techniques used by attackers in order to stay one step ahead.
+I'm a cybersecurity enthusiast with a passion for ethical hacking, digital defense, and finding vulnerabilities before the bad guys do.
 
-### My goal is to strengthen digital environments by anticipating and analyzing potential threats, ensuring systems remain resilient against evolving cyber attacks and emerging risks. I specialize in penetration testing, vulnerability assessment, malware analysis, and incident response, constantly refining my skills through hands-on experience and continuous learning.
+With a strong commitment to safeguarding digital assets, I focus on understanding the tactics and techniques used by attackers in order to stay one step ahead.
 
-### Driven by curiosity and a proactive mindset, I actively participate in Capture The Flag (CTF) competitions, develop custom security challenges, and explore advanced topics such as reverse engineering and exploit development. I believe that true cybersecurity is a continuous process of learning, adapting, and innovating to protect our increasingly connected world.
+My goal is to strengthen digital environments by anticipating and analyzing potential threats, ensuring systems remain resilient against evolving cyber attacks and emerging risks. I specialize in penetration testing, vulnerability assessment, malware analysis, and incident response, constantly refining my skills through hands-on experience and continuous learning.
+
+Driven by curiosity and a proactive mindset, I actively participate in Capture The Flag (CTF) competitions, develop custom security challenges, and explore advanced topics such as reverse engineering and exploit development. I believe that true cybersecurity is a continuous process of learning, adapting, and innovating to protect our increasingly connected world.
 
 ---
 
@@ -117,6 +120,7 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ## 📫 Connect with me
 
+- 📧 Email: 
 - 💼 [LinkedIn]()
 - 🐦 [X]()
 - 📷 [Instagram]()
