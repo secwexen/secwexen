@@ -100,26 +100,19 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ---
 
-## Platform I Use
+## Selected Projects & Professional Contributions
 
-- 🐉 Kali Linux
-- 🐚 WSL 
-- 🐧 Ubuntu 
-- 🪟 Windows 
+I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
+
+- **Coming Soon** - A technical project.
+
+Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
-## I'm open to collaboration on the following cybersecurity-focused topics
+## GitHub Stats & Activity
 
-- 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
-- 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
-- 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
-- 🧬 Malware analysis, unpacking, and reverse engineering
-- 🛰️ Threat hunting, OSINT, and digital forensics investigations
-- 📡 Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
-- 🧪 Developing custom exploits, payloads, and proof-of-concept attacks
-- 🔐 Secure coding and auditing in Rust, Python, and Bash
-- 🧰 Contributing to open-source cybersecurity tools and red team utilities
+This section reflects my ongoing contributions, technical experiments, and repository activity. I actively engage in hands-on development, security research, and system-level exploration.
 
 ---
 
@@ -139,19 +132,17 @@ Planned certifications and academic milestones include:
 
 ---
 
-## Selected Projects & Professional Contributions
+## I'm open to collaboration on the following cybersecurity-focused topics
 
-I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
-
-- **Coming Soon** - A technical project.
-
-Stay tuned — detailed write-ups and repositories will be published soon.
-
----
-
-## GitHub Stats & Activity
-
-This section reflects my ongoing contributions, technical experiments, and repository activity. I actively engage in hands-on development, security research, and system-level exploration.
+- 🧩 We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
+- 🛠️ Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
+- 🔍 Real-world penetration testing scenarios (Web, Network, Wireless)
+- 🧬 Malware analysis, unpacking, and reverse engineering
+- 🛰️ Threat hunting, OSINT, and digital forensics investigations
+- 📡 Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
+- 🧪 Developing custom exploits, payloads, and proof-of-concept attacks
+- 🔐 Secure coding and auditing in Rust, Python, and Bash
+- 🧰 Contributing to open-source cybersecurity tools and red team utilities
 
 ---
 
