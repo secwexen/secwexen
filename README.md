@@ -1,6 +1,6 @@
-# Cybersecurity & Ethical Hacking Specialist
-
----
+<h1 align="center">
+  Cybersecurity & Ethical Hacking Specialist
+</h1>
 
 ## 👋 Hi, I’m @X99874  
 
