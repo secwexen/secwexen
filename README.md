@@ -160,7 +160,6 @@ Planned certifications and academic milestones include:
 ---
 
 ```
-
 captain@kalilinux:~/missions$ _
 
 $ sudo cybersecurity --analyze --reinforce
@@ -178,7 +177,6 @@ $ echo "We understand. We secure."
 $ # Mission complete. System hardened.
 
 $ _  # Awaiting next command...
-
 ```
 
 **🐧 Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
