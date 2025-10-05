@@ -159,11 +159,26 @@ Planned certifications and academic milestones include:
 
 ---
 
-> **</> $ sudo cybersecurity --analyze --reinforce**
-> **</> [✓] Systems scanned**
-> **</> [✓] Vulnerabilities identified**
-> **</> [✓] Reinforcement protocols executed**
-> **</> $ echo "We understand. We secure."**
-> **</> _**
+```
+
+captain@kalilinux:~/missions$ _
+
+$ sudo cybersecurity --analyze --reinforce
+[sudo] password for captain: ********
+
+[✓] Scanning system files...
+[✓] Network interfaces analyzed
+[✓] Vulnerabilities identified: 3 critical, 12 moderate
+[✓] Reinforcement protocols executed
+[✓] Firewall rules updated
+[✓] SELinux policies enforced
+[✓] Logs archived and encrypted
+
+$ echo "We understand. We secure."
+$ # Mission complete. System hardened.
+
+$ _  # Awaiting next command...
+
+```
 
 **🐧 Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
