@@ -159,4 +159,11 @@ Planned certifications and academic milestones include:
 
 ---
 
-**Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
+> **</> $ sudo cybersecurity --analyze --reinforce**
+> **</> [✓] Systems scanned**
+> **</> [✓] Vulnerabilities identified**
+> **</> [✓] Reinforcement protocols executed**
+> **</> $ echo "We understand. We secure."**
+> **</> _**
+
+**🐧 Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
