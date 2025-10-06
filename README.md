@@ -160,6 +160,8 @@ Planned certifications and academic milestones include:
 ---
 
 ```
+🔴 🟡 🟢   Terminal — kali@linux
+
 captain@kalilinux:~/missions$ _
 
 $ sudo cybersecurity --analyze --reinforce
@@ -177,6 +179,30 @@ $ echo "We understand. We secure."
 $ # Mission complete. System hardened.
 
 $ _  # Awaiting next command...
+
+kali@linux:~$ neofetch
+
+            .-/+oossssoo+/-.               kali@linux
+        `:+ssssssssssssssssss+:`           --------------
+      -+ssssssssssssssssssyyssss+-         OS: Kali GNU/Linux
+    .ossssssssssssssssssdMMMNysssso.       Kernel: 6.3.0-kali7-amd64
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Shell: bash
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Terminal: xfce4-terminal
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3000+
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1920x1080
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Theme: Kali-Dark
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso
++sssshhhyNMMNyssssssssssssyNMMMysssssss+
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.`
+
 ```
 
 **🐧 Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
