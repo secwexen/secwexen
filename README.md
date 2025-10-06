@@ -163,23 +163,33 @@ Planned certifications and academic milestones include:
 🔴 🟡 🟢   Terminal — kalilinux
 
 ┌──(captain㉿kalilinux)-[~/missions]
-└─$ _
-
-$ sudo cybersecurity --analyze --reinforce
+└─$ sudo cybersecurity --analyze --reinforce
 [sudo] password for captain: ********
 
-[✓] Scanning system files...
-[✓] Network interfaces analyzed
+[INFO] Initializing cybersecurity module v2.4.7...
+[✓] Scanning system files... (completed in 3.2s)
+[✓] Network interfaces analyzed: eth0, wlan0
 [✓] Vulnerabilities identified: 3 critical, 12 moderate
-[✓] Reinforcement protocols executed
-[✓] Firewall rules updated
-[✓] SELinux policies enforced
-[✓] Logs archived and encrypted
+    ├─ CVE-2025-1423: Unpatched kernel exploit
+    ├─ CVE-2025-1876: OpenSSH misconfiguration
+    └─ CVE-2025-1999: Privilege escalation vector
+[✓] Reinforcement protocols executed:
+    ├─ Kernel patch applied
+    ├─ SSH hardened (key-only auth, port change)
+    └─ User privilege audit completed
+[✓] Firewall rules updated (iptables + nftables synced)
+[✓] SELinux policies enforced (strict mode)
+[✓] Logs archived and encrypted to /var/log/secure-archive/mission-1006.tar.gpg
 
-$ echo "We understand. We secure."
-$ # Mission complete. System hardened.
+┌──(captain㉿kalilinux)-[~/missions]
+└─$ echo "We understand. We secure."
+We understand. We secure.
 
-$ _  # Awaiting next command...
+┌──(captain㉿kalilinux)-[~/missions]
+└─$ # Mission complete. System hardened.
+
+┌──(captain㉿kalilinux)-[~/missions]
+└─$ _  # Awaiting next command...
 
 captain@kalilinux:~$ neofetch
             .-/+oossssoo+/-.               kalilinux
