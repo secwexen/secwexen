@@ -160,9 +160,9 @@ Planned certifications and academic milestones include:
 ---
 
 ```
-🔴 🟡 🟢   Terminal — kali@linux
+🔴 🟡 🟢   Terminal — kalilinux
 
-captain@kali@linux:~/missions$ _
+captain@kalilinux:~/missions$ _
 
 $ sudo cybersecurity --analyze --reinforce
 [sudo] password for captain: ********
@@ -180,8 +180,8 @@ $ # Mission complete. System hardened.
 
 $ _  # Awaiting next command...
 
-captain@kali@linux:~$ neofetch
-            .-/+oossssoo+/-.               kali@linux
+captain@kalilinux:~$ neofetch
+            .-/+oossssoo+/-.               kalilinux
         `:+ssssssssssssssssss+:`           --------------
       -+ssssssssssssssssssyyssss+-         OS: Kali GNU/Linux
     .ossssssssssssssssssdMMMNysssso.       Kernel: 6.3.0-kali7-amd64
