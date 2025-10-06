@@ -181,7 +181,6 @@ $ # Mission complete. System hardened.
 $ _  # Awaiting next command...
 
 captain@kali@linux:~$ neofetch
-
             .-/+oossssoo+/-.               kali@linux
         `:+ssssssssssssssssss+:`           --------------
       -+ssssssssssssssssssyyssss+-         OS: Kali GNU/Linux
