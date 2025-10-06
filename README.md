@@ -162,7 +162,8 @@ Planned certifications and academic milestones include:
 ```
 🔴 🟡 🟢   Terminal — kalilinux
 
-captain@kalilinux:~/missions$ _
+┌──(captain㉿kalilinux)-[~/missions]
+└─$ _
 
 $ sudo cybersecurity --analyze --reinforce
 [sudo] password for captain: ********
