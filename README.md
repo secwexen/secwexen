@@ -214,5 +214,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.`
 ```
-
-**Cybersecurity is not just about defense — it's about understanding how systems break, so we can build them stronger.**
+**Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
