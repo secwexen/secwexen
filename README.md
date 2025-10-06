@@ -191,7 +191,8 @@ We understand. We secure.
 ┌──(captain㉿kalilinux)-[~/missions]
 └─$ _  # Awaiting next command...
 
-captain@kalilinux:~$ neofetch
+┌──(captain㉿kalilinux)-[~]
+└─$ neofetch
             .-/+oossssoo+/-.               kalilinux
         `:+ssssssssssssssssss+:`           --------------
       -+ssssssssssssssssssyyssss+-         OS: Kali GNU/Linux
