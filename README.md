@@ -124,12 +124,6 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
-## GitHub Stats & Activity
-
-This section reflects my ongoing contributions, technical experiments, and repository activity. I actively engage in hands-on development, security research, and system-level exploration.
-
----
-
 ## Languages I Speak
 
 - English
