@@ -149,6 +149,9 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 ## Contact Details & Links
 
 - Email: []()
+- Website: []()
+- Portfolio: []()
+- Discord: []()
 
 ---
 
