@@ -160,7 +160,7 @@ Planned certifications and academic milestones include:
 ---
 
 ```
-🟣 ⚫ 🔵                               Terminal — captain@kalilinux: ~/missions
+⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
 
 ┌──(captain㉿kalilinux)-[~/missions]
 └─$ sudo cybersecurity --analyze --reinforce
