@@ -114,22 +114,6 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ---
 
-## Selected Projects & Professional Contributions
-
-I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
-
-- **Coming Soon** - A technical project.
-
-Stay tuned — detailed write-ups and repositories will be published soon.
-
----
-
-## Languages I Speak
-
-- English
-
----
-
 ## Certification Goals & Academic Focus
 
 I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
@@ -143,6 +127,22 @@ Planned certifications and academic milestones include:
 - **MITRE ATT&CK & NIST Frameworks** – Studied and applied in lab environments   
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
+
+---
+
+## Languages I Speak
+
+- English
+
+---
+
+## Selected Projects & Professional Contributions
+
+I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
+
+- **Coming Soon** - A technical project.
+
+Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
