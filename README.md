@@ -155,7 +155,6 @@ Planned certifications and academic milestones include:
 ## Contact Details & Links
 
 - Email: [Email]()
-- Discord: [Discord]()
 
 ---
 
