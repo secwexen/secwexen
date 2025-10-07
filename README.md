@@ -84,7 +84,7 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ## Hardware & Security Toolset
 
-*Used strictly for ethical research, penetration testing, and hardware-level security validation.*
+*Used strictly for ethical research, penetration testing, and hardware-level security validation.* Here are tools that inspire ethical security testing and Red Team simulations. Exploring wireless signals, RFID/NFC, and endpoint security.
 
 - **Flipper Zero** – RF, IR, RFID experimentation  
 - **Raspberry Pi** – DIY projects and edge computing  
