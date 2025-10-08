@@ -154,7 +154,6 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 - Discord: []()
 
 ---
-> **Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
 
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
@@ -211,3 +210,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.`
 ```
+**Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
