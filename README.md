@@ -2,7 +2,7 @@
   Cybersecurity & Ethical Hacking Specialist
 </h1>
 
-## Hi, I’m @X99874  
+## Hi, I’m @X99874 — Cybersecurity Specialist Focused on Offensive, Defensive & Applied Security Domains
 
 I am a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before malicious actors can exploit them. My work is driven by a strong commitment to protecting digital assets and understanding the adversarial mindset — not to imitate it, but to stay ahead of it.
 
@@ -14,7 +14,7 @@ I believe cybersecurity is not a destination but a discipline — one that deman
 
 ---
 
-## Areas I'm Interested In
+## Areas of Interest
 
 - Exploring and experimenting with diverse network systems and security tools  
 - Conducting thorough penetration testing in Web, Network, and Wireless environments  
@@ -35,7 +35,7 @@ I believe cybersecurity is not a destination but a discipline — one that deman
 
 ---
 
-## Current Focus
+## Cybersecurity Specialization Path
 
 **I am actively developing expertise across key domains of cybersecurity, with a strong emphasis on hands-on learning and practical application:**
 
@@ -57,7 +57,7 @@ I'm always experimenting, breaking, fixing, and learning.
 
 ---
 
-## I'm currently learning
+## Currently Advancing Expertise In
 
 - Rust for secure and efficient system programming  
 - Advanced Cisco networking concepts (Switching, Routing, VLANs, ACLs, QoS)  
@@ -154,6 +154,7 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 - Discord: []()
 
 ---
+> **Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
 
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
@@ -210,4 +211,3 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.`
 ```
-**Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
