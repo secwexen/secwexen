@@ -136,6 +136,14 @@ Planned certifications and academic milestones include:
 
 ---
 
+## Blog Posts
+
+Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
+
+- [The Architecture of Cyber Defense: A Multi Layered Approach to Modern Threats.md](https://github.com/X99874/X99874/blob/main/blog/The%20Architecture%20of%20Cyber%20Defense%3A%20A%20Multi%20Layered%20Approach%20to%20Modern%20Threats.md)
+
+---
+
 ## Selected Projects & Professional Contributions
 
 I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
