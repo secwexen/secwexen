@@ -10,7 +10,7 @@ I focus on analyzing and anticipating potential threats, strengthening systems a
 
 Rather than relying solely on theory, I actively design custom security scenarios, explore advanced topics such as reverse engineering and exploit development, and build tools that simulate real-world attack vectors in controlled environments. This practical approach allows me to understand how systems fail, so I can help ensure they don’t.
 
-I believe cybersecurity is not a destination but a discipline — one that demands curiosity, precision, and adaptability. In a world where threats evolve daily, I strive to evolve faster. My mission is to contribute to a safer digital future by combining ethical research, technical excellence, and strategic foresight.
+My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
 
 ---
 
