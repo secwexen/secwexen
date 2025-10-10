@@ -1,7 +1,7 @@
 function cleanJSON(input) {
   try {
     const parsed = JSON.parse(input);
-    const cleaned = JSON.stringify(parsed, null, 2); // Pretty-print with 2-space indentation
+    const cleaned = JSON.stringify(parsed, null, 2);
     console.log("Cleaned JSON:\n", cleaned);
     return cleaned;
   } catch (error) {
