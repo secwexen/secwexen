@@ -5,7 +5,7 @@ It is designed to support threat detection, SOC workflows, and forensic analysis
 
 ---
 
-## 📊 Diagram Overview
+## Diagram Overview
 
 The map includes:
 
@@ -15,7 +15,7 @@ The map includes:
 
 ---
 
-## 🧠 Use Cases
+## Use Cases
 
 - Visual reference for SOC analysts
 - Training material for cybersecurity teams
@@ -24,6 +24,6 @@ The map includes:
 
 ---
 
-## 📁 File Location
+## File Location
 
 Diagram image:  
