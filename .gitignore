@@ -1,0 +1,33 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor and IDE folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Swap and lock files
+*.swp
+*.lock
+
+# Build output
+dist/
+build/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
