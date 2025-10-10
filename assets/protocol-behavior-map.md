@@ -5,7 +5,7 @@ It serves as a reference for threat detection, forensic analysis, and intrusion 
 
 ---
 
-## 🧩 Protocols Overview
+## Protocols Overview
 
 | Protocol | Normal Behavior | Suspicious Behavior |
 |---------|------------------|----------------------|
@@ -19,7 +19,7 @@ It serves as a reference for threat detection, forensic analysis, and intrusion 
 
 ---
 
-## 🛡️ Use Cases
+## Use Cases
 
 - Threat hunting
 - Log correlation
@@ -28,7 +28,7 @@ It serves as a reference for threat detection, forensic analysis, and intrusion 
 
 ---
 
-## 📖 Notes
+## Notes
 
 - This map is not exhaustive. Protocol behavior may vary by environment.
 - Always correlate with endpoint and context data before flagging anomalies.
