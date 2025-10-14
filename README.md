@@ -138,7 +138,7 @@ Planned certifications and academic milestones include:
 
 ## Selected Projects & Professional Contributions
 
-I am currently working on several cybersecurity-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
+I am currently working on several software-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
 
 - **Coming Soon** - A technical project.
 
