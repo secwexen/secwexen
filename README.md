@@ -195,28 +195,5 @@ We understand. We secure.
 
 ┌──(captain㉿kalilinux)-[~/missions]
 └─$ _  # Awaiting next command...
-
-┌──(captain㉿kalilinux)-[~]
-└─$ neofetch
-            .-/+oossssoo+/-.               kalilinux
-        `:+ssssssssssssssssss+:`           --------------
-      -+ssssssssssssssssssyyssss+-         OS: Kali GNU/Linux
-    .ossssssssssssssssssdMMMNysssso.       Kernel: 6.3.0-kali7-amd64
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Shell: bash
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Terminal: xfce4-terminal
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3000+
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1920x1080
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Theme: Kali-Dark
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.`
 ```
 **Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
