@@ -4,11 +4,11 @@
 
 ## Hi, I’m @X99874 — Cybersecurity Specialist Focused on Offensive, Defensive & Applied Security Domains
 
-I am a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before malicious actors can exploit them. My work is driven by a strong commitment to protecting digital assets and understanding the adversarial mindset — not to imitate it, but to stay ahead of it.
+I'm a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before they can be exploited by malicious actors. My work is driven by a strong commitment to protecting digital assets and understanding adversarial mindsets—not to imitate, but to stay one step ahead.
 
-I focus on analyzing and anticipating potential threats, strengthening systems against evolving cyberattacks, and ensuring resilience in increasingly complex digital environments. My technical expertise spans penetration testing, vulnerability assessment, malware analysis, and incident response — all reinforced through hands-on experience and continuous learning.
+---
 
-Rather than relying solely on theory, I actively design custom security scenarios, explore advanced topics such as reverse engineering and exploit development, and build tools that simulate real-world attack vectors in controlled environments. This practical approach allows me to understand how systems fail, so I can help ensure they don’t.
+## Vision
 
 My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
 
