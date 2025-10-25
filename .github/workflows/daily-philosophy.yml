@@ -1,23 +1,29 @@
-name: Daily Cybersecurity Reflection Update
+name: Daily Cybersecurity Reflection
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 6 * * *' 
   workflow_dispatch:
 
 jobs:
-  update_file:
+  philosophy_commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate daily reflection
+      - name: Create file if missing and append daily quote
         run: |
-          FILE="philosophy/daily_reflections.txt"
-          mkdir -p philosophy
+          FILE="daily_reflections.txt"
 
+          # Create file if it doesn't exist
+          if [ ! -f "$FILE" ]; then
+            echo "Daily Cybersecurity Reflections" > $FILE
+            echo "" >> $FILE
+          fi
+
+          # List of quotes
           quotes=(
             "Privacy is not a luxury—it’s a digital necessity."
             "Security is a mindset, not a tool."
@@ -33,15 +39,16 @@ jobs:
 
           RANDOM_QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}
 
-          echo "📅 $(date '+%Y-%m-%d') — $RANDOM_QUOTE" >> $FILE
+          # Append today's quote
+          echo "$(date '+%Y-%m-%d') — $RANDOM_QUOTE" >> $FILE
 
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
-          git add philosophy/daily_reflections.txt
-          git commit -m "Daily cybersecurity reflection updated"
+          git add daily_reflections.txt
+          git commit -m "Appended daily cybersecurity reflection"
           git push
