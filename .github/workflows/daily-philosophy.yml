@@ -1,29 +1,29 @@
-name: Daily Cybersecurity Philosophy
+name: Daily Cybersecurity Reflection Update
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
 
 jobs:
-  philosophy_commit:
+  update_file:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate daily philosophy file
+      - name: Generate daily reflection
         run: |
+          FILE="philosophy/daily_reflections.txt"
           mkdir -p philosophy
 
-          # Create a list of cybersecurity philosophy reflections
           quotes=(
             "Privacy is not a luxury—it’s a digital necessity."
-            "Security is not a product, but a process of trust and vigilance."
-            "In cyberspace, identity is fluid—protect it like your fingerprint."
-            "The safest system is the one you understand deeply."
-            "Every click is a choice; every choice leaves a trace."
+            "Security is a mindset, not a tool."
+            "In cyberspace, identity is your currency—protect it wisely."
+            "The strongest firewall is human awareness."
+            "Every digital footprint is a story—be mindful of the narrative."
             "Encryption is the language of digital freedom."
             "Cyber ethics begin where firewalls end."
             "Security without empathy is just control."
@@ -31,23 +31,17 @@ jobs:
             "Hackers think in systems—so should defenders."
           )
 
-          # Pick a random quote
           RANDOM_QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}
 
-          # Write to today's file
-          echo "🧠 Cybersecurity Reflection" > philosophy/$(date '+%Y-%m-%d').txt
-          echo "" >> philosophy/$(date '+%Y-%m-%d').txt
-          echo "$RANDOM_QUOTE" >> philosophy/$(date '+%Y-%m-%d').txt
-          echo "" >> philosophy/$(date '+%Y-%m-%d').txt
-          echo "📅 Date: $(date '+%Y-%m-%d')" >> philosophy/$(date '+%Y-%m-%d').txt
+          echo "📅 $(date '+%Y-%m-%d') — $RANDOM_QUOTE" >> $FILE
 
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and Push
+      - name: Commit and Push changes
         run: |
-          git add philosophy/
-          git commit -m "Daily cybersecurity philosophy added"
+          git add philosophy/daily_reflections.txt
+          git commit -m "Daily cybersecurity reflection updated"
           git push
