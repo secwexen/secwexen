@@ -1,0 +1,53 @@
+name: Daily Cybersecurity Philosophy
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  philosophy_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate daily philosophy file
+        run: |
+          mkdir -p philosophy
+
+          # Create a list of cybersecurity philosophy reflections
+          quotes=(
+            "Privacy is not a luxury—it’s a digital necessity."
+            "Security is not a product, but a process of trust and vigilance."
+            "In cyberspace, identity is fluid—protect it like your fingerprint."
+            "The safest system is the one you understand deeply."
+            "Every click is a choice; every choice leaves a trace."
+            "Encryption is the language of digital freedom."
+            "Cyber ethics begin where firewalls end."
+            "Security without empathy is just control."
+            "Digital silence can be louder than data leaks."
+            "Hackers think in systems—so should defenders."
+          )
+
+          # Pick a random quote
+          RANDOM_QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}
+
+          # Write to today's file
+          echo "🧠 Cybersecurity Reflection" > philosophy/$(date '+%Y-%m-%d').txt
+          echo "" >> philosophy/$(date '+%Y-%m-%d').txt
+          echo "$RANDOM_QUOTE" >> philosophy/$(date '+%Y-%m-%d').txt
+          echo "" >> philosophy/$(date '+%Y-%m-%d').txt
+          echo "📅 Date: $(date '+%Y-%m-%d')" >> philosophy/$(date '+%Y-%m-%d').txt
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push
+        run: |
+          git add philosophy/
+          git commit -m "Daily cybersecurity philosophy added"
+          git push
