@@ -1,8 +1,8 @@
 <h1 align="center">
-  Cybersecurity & Ethical Hacking Specialist
+  CyberSecurity & Ethical Hacking Specialist
 </h1>
 
-## Hi, I’m @X99874 — Cybersecurity Specialist Focused on Offensive, Defensive & Applied Security Domains
+## Hi, I’m @X99874 — CyberSecurity Specialist Focused on Offensive, Defensive & Applied Security Domains
 
 I'm a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before they can be exploited by malicious actors. My work is driven by a strong commitment to protecting digital assets and understanding adversarial mindsets—not to imitate, but to stay one step ahead.
 
