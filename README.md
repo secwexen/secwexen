@@ -6,7 +6,7 @@
 
 I'm a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before they can be exploited by malicious actors. My work is driven by a strong commitment to protecting digital assets and understanding adversarial mindsets—not to imitate, but to stay one step ahead.
 
-I've been pursuing this journey with passion since 2023.
+I've been pursuing this journey with passion since 2021.
 
 `#cybersec` `#infosec` `#netsec` `#linuxsec` `#cloudsec` `#devsecops` `#forensics` `#malware` `#zerotrust` `#siem` `#redteam` `#blueteam`
 
