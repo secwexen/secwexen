@@ -148,6 +148,10 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
+## References
+
+---
+
 ## Documentation & Blog Posts
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
