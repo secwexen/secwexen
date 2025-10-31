@@ -8,7 +8,7 @@ I'm a cybersecurity-focused professional with a deep passion for ethical hacking
 
 **I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log`
 
-### Digital Signature 
+### Digital Command
 
 `(null@0x00000000@/dev/shm/.space) $ ./.p --zd --cc --et --gh --v`
 
