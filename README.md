@@ -90,7 +90,7 @@ All activities are conducted in controlled lab environments for non-destructive 
 
 ## I'm open to collaboration on the following cybersecurity-focused topics
 
-- We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
+- I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support CTF creation and scoring systems.
 - Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
 - Real-world penetration testing scenarios (Web, Network, Wireless)
 - Malware analysis, unpacking, and reverse engineering
@@ -102,16 +102,7 @@ All activities are conducted in controlled lab environments for non-destructive 
 
 ---
 
-## ⚖️ Code of Ethics
-
-- All research and experiments are conducted in controlled environments.  
-- I strictly follow responsible disclosure principles.  
-- I do not engage in or endorse illegal activity of any kind.  
-- The goal is always **learning**, **defense**, and **responsible innovation**.
-
----
-
-## Certification Goals & Academic Focus & Goals
+## Certification Goals & Academic Focus
 
 I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
 
@@ -124,6 +115,17 @@ Planned certifications and academic milestones include:
 - **MITRE ATT&CK & NIST Frameworks** – Studied and applied in lab environments   
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
+
+---
+
+## PGP Public Key
+`Coming soon — for secure communication and verification`
+
+---
+
+![Ethical Hacker](https://img.shields.io/badge/Ethical-Hacker-red?style=for-the-badge&logo=kalilinux)
+![Rust Developer](https://img.shields.io/badge/Rust-Developer-orange?style=for-the-badge&logo=rust)
+![OSINT Enthusiast](https://img.shields.io/badge/OSINT-Enthusiast-blue?style=for-the-badge&logo=protonmail)
 
 ---
 
@@ -172,6 +174,15 @@ Professional blog entries focused on hardware security, wireless protocol analys
 ## Contact Details & Links
 
 - 🌐 Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+
+---
+
+## Code of Ethics
+
+- All research and experiments are conducted in controlled environments.  
+- I strictly follow responsible disclosure principles.  
+- I do not engage in or endorse illegal activity of any kind.  
+- The goal is always **learning**, **defense**, and **responsible innovation**.
 
 ---
 
