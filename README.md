@@ -57,6 +57,11 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Red Team Simulation & Adversarial Behavior Analysis
 - Building and Hosting CTF Challenges
 - Continuous Learning through CTFs & Collaborative Projects
+- Advanced Threat Modeling and Risk Assessment
+- Zero Trust Architecture Design and Implementation
+- Firmware and Hardware Security Analysis (e.g., UEFI, JTAG, SPI)
+- Security Research and Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
+- Security Automation with CI/CD Integration (GitHub Actions, GitLab CI, Jenkins)
 
 > I believe in continuous experimentation — breaking, fixing, and rebuilding systems to truly understand how security works.
 
