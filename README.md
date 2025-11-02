@@ -153,7 +153,7 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 ## Achievements & Contributions  
 - Participated in several CTFs and cybersecurity competitions.  
 - Contributed to open-source security tools.  
-- Writing technical notes and research about ethical hacking. 
+- I write technical notes and conduct research on ethical hacking.
 
 ---
 
@@ -203,7 +203,7 @@ Thanks for visiting my profile! 🚀
 - Studying advanced malware analysis and reverse engineering  
 - Preparing for **OSCP** certification  
 - Building new **CTF challenges** for Red Team simulations  
-- Experimenting with **threat hunting automation** and **SIEM data analysis**
+- I am experimenting with **threat-hunting automation** and **SIEM data analysis.**
 
 ---
 
