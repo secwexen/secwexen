@@ -10,7 +10,7 @@ I'm a cybersecurity-focused professional with a deep passion for ethical hacking
 
 Alongside my cybersecurity skills, I have a strong background in software development. I build Python tools for automation, threat intelligence, and SIEM optimization—bridging security and code to create smarter, faster defenses.
 
-**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log` **(personal milestone marker — cybersecurity journey in progress)**
+**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log` ** (Personal milestone marker — cybersecurity journey in progress)**
 
 ### Operation Protocol vX
 
