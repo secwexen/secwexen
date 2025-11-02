@@ -18,7 +18,8 @@ Alongside my cybersecurity skills, I have a strong background in software develo
 
 ### Tagging
 
-`#cybersec` `#infosec` `#netsec` `#linuxsec` `#cloudsec` `#devsecops` `#forensics` `#malware` `#zerotrust` `#siem` `#redteam` `#blueteam`
+`#cybersec` `#infosec` `#netsec` `#linuxsec` `#cloudsec` `#devsecops`  
+`#forensics` `#malware` `#zerotrust` `#siem` `#redteam` `#blueteam`
 
 ---
 
