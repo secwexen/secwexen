@@ -167,8 +167,9 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- **Blog Posts** [The Architecture of Cyber Defense: A Multi Layered Approach to Modern Threats.md](https://github.com/X99874/X99874/blob/main/blog/The%20Architecture%20of%20Cyber%20Defense%3A%20A%20Multi%20Layered%20Approach%20to%20Modern%20Threats.md)
-- **Blog Posts** [Protocol Behavior Mapping: The Next Frontier in Cyber Threat Simulation.md](https://github.com/X99874/X99874/blob/main/blog/Protocol%20Behavior%20Mapping%3A%20The%20Next%20Frontier%20in%20Cyber%20Threat%20Simulation.md)
+- **Blog Posts** [architecture‐cyber‐defense‐multilayered‐approach.md](https://github.com/X99874/X99874/wiki/architecture%E2%80%90cyber%E2%80%90defense%E2%80%90multilayered%E2%80%90approach.md)
+- **Blog Posts** [protocol‐behavior‐mapping‐cyber‐threat‐simulation.md](https://github.com/X99874/X99874/wiki/protocol%E2%80%90behavior%E2%80%90mapping%E2%80%90cyber%E2%80%90threat%E2%80%90simulation.md)
+- **Blog Posts** [neuroadaptive‐code‐enclaves‐self‐aware‐security.md](https://github.com/X99874/X99874/wiki/neuroadaptive%E2%80%90code%E2%80%90enclaves%E2%80%90self%E2%80%90aware%E2%80%90security.md)
 
 ---
 
