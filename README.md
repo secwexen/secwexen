@@ -144,7 +144,7 @@ Planned certifications and academic milestones include:
 
 ## Languages I Speak
 
-- English A2+ (Upper-Beginner)
+- English
 - German A1 (Beginner Level)
 
 ---
