@@ -173,10 +173,11 @@ Thanks for visiting my profile! 🚀
 
 ## Current Mission
 
-🛰️ Building custom Rust-based security tools  
-🔍 Researching advanced malware analysis techniques  
-🎯 Preparing for OSCP certification  
-🧩 Developing new CTF challenges for community training
+- Developing Rust-based security tools for automation  
+- Studying advanced malware analysis and reverse engineering  
+- Preparing for **OSCP** certification  
+- Building new **CTF challenges** for Red Team simulations  
+- Experimenting with **threat hunting automation** and **SIEM data analysis**
 
 ---
 
@@ -217,18 +218,6 @@ We understand. We secure.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=X99874&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X99874&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=X99874&theme=matrix&margin-w=10&no-frame=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X99874&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
   <b>“We understand. We secure.”</b><br>
   — X99874 🛰️
 </p>
-
----
