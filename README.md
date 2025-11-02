@@ -176,7 +176,6 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 - Email: []()
 - Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
-- Portfolio: []()
 - Discord: []()
 
 ---
