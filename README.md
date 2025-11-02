@@ -26,89 +26,43 @@ My goal is to master every domain of cybersecurity — from threat intelligence 
 
 ---
 
-## Areas of Interest
+## Cybersecurity Focus Areas & Current Learning Path
 
-- Exploring and experimenting with diverse network systems and security tools  
-- Conducting thorough penetration testing in Web, Network, and Wireless environments  
-- Diving deep into malware analysis, reverse engineering, and unpacking complex binaries  
-- Solving and creating Capture The Flag (CTF) challenges to enhance cybersecurity skills  
-- Leveraging OSINT techniques and performing digital forensic investigations for threat intelligence  
-- Developing secure and efficient systems using the Rust programming language  
-- Designing, building, and deploying custom CTF challenges to educate and challenge others  
-- Crafting advanced custom payloads, writing exploits, and developing proof-of-concept attacks  
-- Setting up and managing enterprise-grade network labs involving Cisco switches, routing, and VLANs  
-- Practicing secure coding, auditing, and vulnerability assessments in Rust, Python, Bash, and C  
-- Analyzing network traffic with tools like Wireshark and creating custom packet manipulations with Scapy  
-- Exploring container security with Docker and Kubernetes for modern cloud-native environments  
-- Understanding cloud security principles across platforms like AWS, Azure, and Google Cloud  
-- Automating penetration testing and security workflows through scripting and tool development  
-- Hands-on experience in managing databases and implementing security best practices to maintain data integrity. Skilled in configuring, maintaining and securing databases to ensure high availability and data protection
-- I'm passionate about Electrical and Electronics Engineering, focusing on circuit design, sensor systems, and microcontrollers like Arduino and STM32. I enjoy building embedded and IoT projects while constantly learning and improving.
+I am actively developing expertise across key cybersecurity domains, emphasizing hands-on experience and continuous learning.
 
----
+- Penetration Testing (Web, Network, Wireless)
+- Vulnerability Assessment & Exploit Development
+- Malware Analysis & Reverse Engineering
+- Incident Response & Digital Forensics
+- Threat Hunting & OSINT Investigation
+- Secure Software Development (Rust, Python, Bash, C)
+- Network Protocol Analysis (Wireshark, Scapy)
+- Rust for Memory-Safe Systems Programming
+- Container & Cloud Security (Docker, Kubernetes, AWS, Azure, GCP)
+- Database Security (MySQL, PostgreSQL, MongoDB)
+- Secure Coding Practices & Auditing
+- Automation & Tool Development for Pentesting
+- Red Team Simulation & Adversarial Behavior Analysis
+- Building and Hosting CTF Challenges
+- Continuous Learning through CTFs & Collaborative Projects
 
-## Cybersecurity Specialization Path
-
-**I am actively developing expertise across key domains of cybersecurity, with a strong emphasis on hands-on learning and practical application:**
-
-- Investigating diverse network architectures and security tools in lab environments  
-- Learning **Rust** to develop memory-safe and secure system-level applications  
-- Designing and testing custom **CTF-style challenges** for internal use and skill development  
-- Writing and analyzing **custom payloads and exploits** to understand adversarial techniques  
-- Configuring and experimenting with **Cisco switches and routers** to deepen network infrastructure knowledge  
-- Studying **database management** with a focus on secure configurations and access control
-- **Penetration Testing** – Simulating attacks to identify and remediate vulnerabilities  
-- **Vulnerability Assessment** – Systematic evaluation of security weaknesses  
-- **Malware Analysis** – Dissecting malicious code to understand behavior and impact  
-- **Incident Response** – Investigating and mitigating security breaches  
-- **Reverse Engineering** – Deconstructing binaries to reveal internal mechanisms  
-- **Exploit Development** – Crafting and analyzing proof-of-concept exploits  
-- **Secure Software Practices** – Integrating security into the development lifecycle
-
-I'm always experimenting, breaking, fixing, and learning.
-
----
-
-## Currently Advancing Expertise In
-
-- Rust for secure and efficient system programming  
-- Advanced Cisco networking concepts (Switching, Routing, VLANs, ACLs, QoS)  
-- Database management systems and best security practices (MySQL, PostgreSQL, MongoDB)  
-- Writing custom exploits, payloads, and advanced proof-of-concept attacks  
-- Designing and deploying custom CTF challenges for different skill levels  
-- Reverse engineering techniques, malware unpacking, and dynamic analysis  
-- Threat hunting methodologies and incident response automation  
-- OSINT (Open Source Intelligence) tools and techniques  
-- Digital forensics and log analysis for cyber incident investigations  
-- Container security and orchestration with Docker and Kubernetes  
-- Cloud security fundamentals (AWS, Azure, GCP)  
-- Secure coding practices in Rust, Python, Bash, and C  
-- Automation and scripting for penetration testing (Python, PowerShell, Bash)  
-- Network protocol analysis and packet crafting (Wireshark, Scapy)  
-- Web application security, including modern frameworks and APIs  
-- Wireless security and penetration testing techniques  
-- Cryptography basics and practical applications in security  
-- Building and using custom security tools and red team utilities  
-- Continuous learning through CTF competitions and collaborative projects  
-- Developing skills in social engineering and human factor analysis  
+> I believe in continuous experimentation — breaking, fixing, and rebuilding systems to truly understand how security works.
 
 ---
 
 ## Hardware & Security Toolset
 
-**Used strictly for ethical research, penetration testing, and hardware-level security validation.** Here are tools that inspire ethical security testing and Red Team simulations. Exploring wireless signals, RFID/NFC, and endpoint security.
+**Used strictly for ethical research, penetration testing, and hardware-level security validation.**  
+All activities are conducted in controlled lab environments for non-destructive testing and educational purposes.
 
-- **Flipper Zero** – RF, IR, RFID experimentation  
-- **Raspberry Pi** – DIY projects and edge computing  
-- **USB Rubber Ducky** – HID scripting for Red Team simulations  
-- **YubiKey** – Hardware-based 2FA authentication  
-- **HackRF One** – SDR for wireless signal analysis  
+- **Flipper Zero** – RF, IR, and RFID experimentation  
+- **HackRF One** – Software-defined radio for wireless analysis  
 - **Proxmark3 RDV4** – Advanced RFID/NFC research  
-- **LAN Turtle** – Covert remote access testing  
-- **Packet Squirrel** – MITM and packet capture device  
-- **Key Grabber** – Endpoint security validation (used in lab conditions only)  
-- **USB Kill** – Surge protection testing (non-destructive lab use)  
-- **WiFi Pineapple** – Rogue AP detection and wireless auditing
+- **WiFi Pineapple** – Wireless auditing and rogue AP detection  
+- **Raspberry Pi** – Edge computing & portable pentesting setups  
+
+*Other specialized tools are used only in isolated lab conditions for responsible, ethical security research.*
+
 
 ---
 
@@ -168,23 +122,25 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 ## References
 
+References available upon request or through my GitHub collaborations.
+
 ---
 
 ## Documentation & Blog Posts
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- **Blog Posts** [architecture‐cyber‐defense‐multilayered‐approach.md](https://github.com/X99874/X99874/wiki/architecture%E2%80%90cyber%E2%80%90defense%E2%80%90multilayered%E2%80%90approach.md)
-- **Blog Posts** [protocol‐behavior‐mapping‐cyber‐threat‐simulation.md](https://github.com/X99874/X99874/wiki/protocol%E2%80%90behavior%E2%80%90mapping%E2%80%90cyber%E2%80%90threat%E2%80%90simulation.md)
-- **Blog Posts** [neuroadaptive‐code‐enclaves‐self‐aware‐security.md](https://github.com/X99874/X99874/wiki/neuroadaptive%E2%80%90code%E2%80%90enclaves%E2%80%90self%E2%80%90aware%E2%80%90security.md)
+## **Blog Posts**
+
+- [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/architecture%E2%80%90cyber%E2%80%90defense%E2%80%90multilayered%E2%80%90approach.md)
+- [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/protocol%E2%80%90behavior%E2%80%90mapping%E2%80%90cyber%E2%80%90threat%E2%80%90simulation.md)
+- [Neuroadaptive Code Enclaves — Self-Aware Security](https://github.com/X99874/X99874/wiki/neuroadaptive%E2%80%90code%E2%80%90enclaves%E2%80%90self%E2%80%90aware%E2%80%90security.md)
 
 ---
 
 ## Contact Details & Links
 
-- Email: []()
-- Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
-- Discord: []()
+- 🌐 Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
 
 ---
 
@@ -228,3 +184,12 @@ We understand. We secure.
 └─$ _  # Awaiting next command...
 ```
 **Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
+
+---
+
+<p align="center">
+  <b>“We understand. We secure.”</b><br>
+  — X99874 🛰️
+</p>
+
+---
