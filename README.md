@@ -159,6 +159,13 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
+## Achievements & Contributions  
+- Participated in several CTFs and cybersecurity competitions.  
+- Contributed to open-source security tools.  
+- Writing technical notes and research about ethical hacking. 
+
+---
+
 ## References
 
 ---
@@ -178,6 +185,13 @@ Professional blog entries focused on hardware security, wireless protocol analys
 - Email: []()
 - Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
 - Discord: []()
+
+---
+
+⭐ **If you find my projects useful, don't forget to give them a star!**  
+👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.
+
+Thanks for visiting my profile! 🚀
 
 ---
 
