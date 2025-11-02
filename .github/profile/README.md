@@ -10,7 +10,7 @@ I'm a cybersecurity-focused professional with a deep passion for ethical hacking
 
 Alongside my cybersecurity skills, I have a strong background in software development. I build Python tools for automation, threat intelligence, and SIEM optimization—bridging security and code to create smarter, faster defenses.
 
-**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log` **(personal milestone marker — cybersecurity journey in progress)**
+**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log` **(Personal milestone marker — cybersecurity journey in progress)**
 
 ### Operation Protocol vX
 
@@ -57,6 +57,11 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Red Team Simulation & Adversarial Behavior Analysis
 - Building and Hosting CTF Challenges
 - Continuous Learning through CTFs & Collaborative Projects
+- Advanced Threat Modeling and Risk Assessment
+- Zero Trust Architecture Design and Implementation
+- Firmware and Hardware Security Analysis (e.g., UEFI, JTAG, SPI)
+- Security Research and Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
+- Security Automation with CI/CD Integration (GitHub Actions, GitLab CI, Jenkins)
 
 > I believe in continuous experimentation — breaking, fixing, and rebuilding systems to truly understand how security works.
 
@@ -64,12 +69,12 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 ## Knowledge Stack
 
-**Offensive Security:** Metasploit, Burp Suite, Nmap, SQLMap, Hydra, Gobuster  
-**Defensive & Monitoring:** Splunk, ELK Stack, Wireshark, Suricata, Zeek, Wazuh  
-**Forensics:** Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free  
-**Programming & Scripting:** Rust, Python, Bash, C, PowerShell  
-**Cloud & Infrastructure:** Docker, Kubernetes, AWS, Azure, GCP  
-**Operating Systems:** Kali Linux, Parrot OS, Arch Linux, Windows Server
+- **Offensive Security:** Metasploit, Burp Suite, Nmap, SQLMap, Hydra, Gobuster  
+- **Defensive & Monitoring:** Splunk, ELK Stack, Wireshark, Suricata, Zeek, Wazuh  
+- **Forensics:** Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free  
+- **Programming & Scripting:** Rust, Python, Bash, C, PowerShell  
+- **Cloud & Infrastructure:** Docker, Kubernetes, AWS, Azure, GCP  
+- **Operating Systems:** Kali Linux, Parrot OS, Arch Linux, Windows Server
 
 ---
 
@@ -177,7 +182,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Contact Details & Links
 
-- 🌐 Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
 
 ---
 
