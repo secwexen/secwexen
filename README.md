@@ -125,9 +125,9 @@ Planned certifications and academic milestones include:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-%2300FF41.svg?style=for-the-badge&logo=kalilinux&logoColor=black">
-  <img src="https://img.shields.io/badge/Rust%20Developer-%23FF8800.svg?style=for-the-badge&logo=rust&logoColor=black">
-  <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%2300BFFF.svg?style=for-the-badge&logo=protonmail&logoColor=black">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-%23FF0055.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust%20Developer-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%230066FF.svg?style=for-the-badge&logo=protonmail&logoColor=white">
 </p>
 
 ---
