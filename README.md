@@ -1,3 +1,5 @@
+<!-- Cybersecurity | Ethical Hacking | Red Team | Blue Team | Rust | SIEM | Threat Hunting | Network Security -->
+
 <h1 align="center">
   CyberSecurity & Ethical Hacking Specialist
 </h1>
@@ -8,7 +10,7 @@ I'm a cybersecurity-focused professional with a deep passion for ethical hacking
 
 Alongside my cybersecurity skills, I have a strong background in software development. I build Python tools for automation, threat intelligence, and SIEM optimization—bridging security and code to create smarter, faster defenses.
 
-**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log`
+**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log` **(personal milestone marker — cybersecurity journey in progress)**
 
 ### Operation Protocol vX
 
@@ -24,6 +26,13 @@ Alongside my cybersecurity skills, I have a strong background in software develo
 
 My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
 
+---
+
+## Why Cybersecurity?
+
+I see cybersecurity as a modern battlefield — a place where curiosity meets discipline.  
+Every exploit tells a story, every patch a lesson.  
+For me, it’s not just about defense or offense — it’s about understanding how systems think, fail, and recover.
 ---
 
 ## Cybersecurity Focus Areas & Current Learning Path
@@ -47,6 +56,17 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Continuous Learning through CTFs & Collaborative Projects
 
 > I believe in continuous experimentation — breaking, fixing, and rebuilding systems to truly understand how security works.
+
+---
+
+## Knowledge Stack
+
+**Offensive Security:** Metasploit, Burp Suite, Nmap, SQLMap, Hydra, Gobuster  
+**Defensive & Monitoring:** Splunk, ELK Stack, Wireshark, Suricata, Zeek, Wazuh  
+**Forensics:** Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free  
+**Programming & Scripting:** Rust, Python, Bash, C, PowerShell  
+**Cloud & Infrastructure:** Docker, Kubernetes, AWS, Azure, GCP  
+**Operating Systems:** Kali Linux, Parrot OS, Arch Linux, Windows Server
 
 ---
 
@@ -151,6 +171,15 @@ Thanks for visiting my profile! 🚀
 
 ---
 
+## Current Mission
+
+🛰️ Building custom Rust-based security tools  
+🔍 Researching advanced malware analysis techniques  
+🎯 Preparing for OSCP certification  
+🧩 Developing new CTF challenges for community training
+
+---
+
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
 
@@ -184,6 +213,16 @@ We understand. We secure.
 └─$ _  # Awaiting next command...
 ```
 **Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=X99874&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X99874&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=X99874&theme=matrix&margin-w=10&no-frame=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X99874&theme=tokyonight" />
+</p>
 
 ---
 
