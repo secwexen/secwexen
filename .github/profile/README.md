@@ -18,7 +18,8 @@ Alongside my cybersecurity skills, I have a strong background in software develo
 
 ### Tagging
 
-`#cybersec` `#infosec` `#netsec` `#linuxsec` `#cloudsec` `#devsecops` `#forensics` `#malware` `#zerotrust` `#siem` `#redteam` `#blueteam`
+`#cybersec` `#infosec` `#netsec` `#linuxsec` `#cloudsec` `#devsecops`  
+`#forensics` `#malware` `#zerotrust` `#siem` `#redteam` `#blueteam`
 
 ---
 
@@ -30,9 +31,11 @@ My goal is to master every domain of cybersecurity — from threat intelligence 
 
 ## Why Cybersecurity?
 
-I see cybersecurity as a modern battlefield — a place where curiosity meets discipline.  
-Every exploit tells a story, every patch a lesson.  
-For me, it’s not just about defense or offense — it’s about understanding how systems think, fail, and recover.
+Because every system hides a story — of trust, logic, and flaws.  
+Exploring these layers isn't just about breaking things;  
+it's about understanding how they fail and how to make them stronger.  
+I believe true security comes from curiosity, ethics, and persistence.
+
 ---
 
 ## Cybersecurity Focus Areas & Current Learning Path
@@ -88,7 +91,7 @@ All activities are conducted in controlled lab environments for non-destructive 
 
 ## I'm open to collaboration on the following cybersecurity-focused topics
 
-- We are I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support the creation, deployment, and scoring of both.
+- I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support CTF creation and scoring systems.
 - Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
 - Real-world penetration testing scenarios (Web, Network, Wireless)
 - Malware analysis, unpacking, and reverse engineering
@@ -116,6 +119,20 @@ Planned certifications and academic milestones include:
 
 ---
 
+## PGP Public Key
+
+`Coming soon — for secure communication and verification`
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-%23FF0055.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust%20Developer-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%230066FF.svg?style=for-the-badge&logo=protonmail&logoColor=white">
+</p>
+
+---
+
 ## Languages I Speak
 
 - English
@@ -136,7 +153,7 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 ## Achievements & Contributions  
 - Participated in several CTFs and cybersecurity competitions.  
 - Contributed to open-source security tools.  
-- Writing technical notes and research about ethical hacking. 
+- I write technical notes and conduct research on ethical hacking.
 
 ---
 
@@ -150,17 +167,26 @@ References available upon request or through my GitHub collaborations.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-## **Blog Posts**
+## **Blog Posts & Notes & Research Wiki**
 
-- [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/architecture%E2%80%90cyber%E2%80%90defense%E2%80%90multilayered%E2%80%90approach.md)
-- [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/protocol%E2%80%90behavior%E2%80%90mapping%E2%80%90cyber%E2%80%90threat%E2%80%90simulation.md)
-- [Neuroadaptive Code Enclaves — Self-Aware Security](https://github.com/X99874/X99874/wiki/neuroadaptive%E2%80%90code%E2%80%90enclaves%E2%80%90self%E2%80%90aware%E2%80%90security.md)
+- [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/Architecture-Cyber-Defense-%E2%80%94-A-Multilayered-Approach)
+- [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/Protocol-Behavior-Mapping-in-Threat-Simulations)
+- [Neuroadaptive Code Enclaves — Self-Aware Security](https://github.com/X99874/X99874/wiki/Neuroadaptive-Code-Enclaves-%E2%80%94-Self%E2%80%90Aware-Security)
 
 ---
 
 ## Contact Details & Links
 
 - 🌐 Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+
+---
+
+## Code of Ethics
+
+- All research and experiments are conducted in controlled environments.  
+- I strictly follow responsible disclosure principles.  
+- I do not engage in or endorse illegal activity of any kind.  
+- The goal is always **learning**, **defense**, and **responsible innovation**.
 
 ---
 
@@ -173,12 +199,15 @@ Thanks for visiting my profile! 🚀
 
 ## Current Mission
 
-🛰️ Building custom Rust-based security tools  
-🔍 Researching advanced malware analysis techniques  
-🎯 Preparing for OSCP certification  
-🧩 Developing new CTF challenges for community training
+- Developing Rust-based security tools for automation  
+- Studying advanced malware analysis and reverse engineering  
+- Preparing for **OSCP** certification  
+- Building new **CTF challenges** for Red Team simulations  
+- I am experimenting with **threat-hunting automation** and **SIEM data analysis.**
 
 ---
+
+> **Mission Log — System Hardening Sequence (Simulated)**  
 
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
@@ -217,18 +246,11 @@ We understand. We secure.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=X99874&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X99874&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=X99874&theme=matrix&margin-w=10&no-frame=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X99874&theme=tokyonight" />
+  <b>“We understand. We secure.”</b><br>
+  <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
+  — X99874
 </p>
-
----
 
 <p align="center">
-  <b>“We understand. We secure.”</b><br>
-  — X99874 🛰️
+  © 2025 X99874 — All Rights Reserved
 </p>
-
----
