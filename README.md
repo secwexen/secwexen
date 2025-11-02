@@ -169,9 +169,9 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## **Blog Posts & Notes & Research Wiki**
 
-- [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/architecture%E2%80%90cyber%E2%80%90defense%E2%80%90multilayered%E2%80%90approach.md)
-- [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/protocol%E2%80%90behavior%E2%80%90mapping%E2%80%90cyber%E2%80%90threat%E2%80%90simulation.md)
-- [Neuroadaptive Code Enclaves — Self-Aware Security](https://github.com/X99874/X99874/wiki/neuroadaptive%E2%80%90code%E2%80%90enclaves%E2%80%90self%E2%80%90aware%E2%80%90security.md)
+- [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/Architecture-Cyber-Defense-%E2%80%94-A-Multilayered-Approach)
+- [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/Protocol-Behavior-Mapping-in-Threat-Simulations)
+- [Neuroadaptive Code Enclaves — Self-Aware Security](https://github.com/X99874/X99874/wiki/Neuroadaptive-Code-Enclaves-%E2%80%94-Self%E2%80%90Aware-Security)
 
 ---
 
@@ -248,7 +248,7 @@ We understand. We secure.
 <p align="center">
   <b>“We understand. We secure.”</b><br>
   <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
-  — X99874 🛰️
+  — X99874
 </p>
 
 <p align="center">
