@@ -119,13 +119,16 @@ Planned certifications and academic milestones include:
 ---
 
 ## PGP Public Key
+
 `Coming soon — for secure communication and verification`
 
 ---
 
-![Ethical Hacker](https://img.shields.io/badge/Ethical-Hacker-red?style=for-the-badge&logo=kalilinux)
-![Rust Developer](https://img.shields.io/badge/Rust-Developer-orange?style=for-the-badge&logo=rust)
-![OSINT Enthusiast](https://img.shields.io/badge/OSINT-Enthusiast-blue?style=for-the-badge&logo=protonmail)
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-%2300FF41.svg?style=for-the-badge&logo=kalilinux&logoColor=black">
+  <img src="https://img.shields.io/badge/Rust%20Developer-%23FF8800.svg?style=for-the-badge&logo=rust&logoColor=black">
+  <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%2300BFFF.svg?style=for-the-badge&logo=protonmail&logoColor=black">
+</p>
 
 ---
 
