@@ -206,6 +206,8 @@ Thanks for visiting my profile! 🚀
 
 ---
 
+> **Mission Log — System Hardening Sequence (Simulated)**  
+
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
 
@@ -246,4 +248,8 @@ We understand. We secure.
   <b>“We understand. We secure.”</b><br>
   <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
   — X99874 🛰️
+</p>
+
+<p align="center">
+  © 2025 X99874 — All Rights Reserved
 </p>
