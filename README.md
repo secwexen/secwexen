@@ -30,9 +30,10 @@ My goal is to master every domain of cybersecurity — from threat intelligence 
 
 ## Why Cybersecurity?
 
-I see cybersecurity as a modern battlefield — a place where curiosity meets discipline.  
-Every exploit tells a story, every patch a lesson.  
-For me, it’s not just about defense or offense — it’s about understanding how systems think, fail, and recover.
+Because every system hides a story — of trust, logic, and flaws.  
+Exploring these layers isn't just about breaking things;  
+it's about understanding how they fail and how to make them stronger.  
+I believe true security comes from curiosity, ethics, and persistence.
 
 ---
 
@@ -101,7 +102,16 @@ All activities are conducted in controlled lab environments for non-destructive 
 
 ---
 
-## Certification Goals & Academic Focus
+## ⚖️ Code of Ethics
+
+- All research and experiments are conducted in controlled environments.  
+- I strictly follow responsible disclosure principles.  
+- I do not engage in or endorse illegal activity of any kind.  
+- The goal is always **learning**, **defense**, and **responsible innovation**.
+
+---
+
+## Certification Goals & Academic Focus & Goals
 
 I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
 
@@ -151,7 +161,7 @@ References available upon request or through my GitHub collaborations.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-## **Blog Posts**
+## **Blog Posts & Notes & Research Wiki**
 
 - [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/architecture%E2%80%90cyber%E2%80%90defense%E2%80%90multilayered%E2%80%90approach.md)
 - [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/protocol%E2%80%90behavior%E2%80%90mapping%E2%80%90cyber%E2%80%90threat%E2%80%90simulation.md)
@@ -220,5 +230,6 @@ We understand. We secure.
 
 <p align="center">
   <b>“We understand. We secure.”</b><br>
+  <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
   — X99874 🛰️
 </p>
