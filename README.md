@@ -182,7 +182,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Contact Details & Links
 
-- 🌐 Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
 
 ---
 
