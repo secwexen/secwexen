@@ -118,7 +118,7 @@ Planned certifications and academic milestones include:
 - **Certified Ethical Hacker (CEH)** – Ethical hacking methodologies and threat analysis  
 - **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense  
 - **Cybersecurity Coursework** – Focused on secure system design, malware analysis, and incident response  
-- **MITRE ATT&CK & NIST Frameworks** – Studied and applied in lab environments   
+- **MITRE ATTACK & NIST Frameworks** – Studied and applied in lab environments   
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 
