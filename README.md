@@ -160,10 +160,13 @@ Core Features
 - Modular architecture enabling flexible analysis, monitoring, and intervention  
 - Automation templates and APIs for seamless workflow integration  
 - Logging-centric design to ensure traceability and forensic integrity  
-- Built with Python, Go, Docker, and CI/CD pipelines for scalability and reliability  
+- Built with Python, Go, Rust, PowerShell, Bash, C++, PostgreSQL, Assembly, Docker, and CI/CD pipelines for scalability and reliability  
 
 Status & Contact
-Version 1.0.0 — core modules complete, actively maintained  
+Version 1.0.0 — core modules complete, actively maintained
+
+License
+GNU General Public License v3.0 (GPLv3)
 ```
 
 Stay tuned — detailed write-ups and repositories will be published soon.
