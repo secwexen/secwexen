@@ -118,7 +118,7 @@ Planned certifications and academic milestones include:
 - **Certified Ethical Hacker (CEH)** – Ethical hacking methodologies and threat analysis  
 - **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense  
 - **Cybersecurity Coursework** – Focused on secure system design, malware analysis, and incident response  
-- **MITRE ATT&CK & NIST Frameworks** – Studied and applied in lab environments   
+- **MITRE ATTACK & NIST Frameworks** – Studied and applied in lab environments   
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 
@@ -132,7 +132,7 @@ Planned certifications and academic milestones include:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacker-%23FF0055.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust%20Developer-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20Developer-%23000000.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%230066FF.svg?style=for-the-badge&logo=protonmail&logoColor=white">
 </p>
 
