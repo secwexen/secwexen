@@ -269,7 +269,7 @@ We understand. We secure.
 ---
 
 <p align="center">
-  <b>“We understand. We secure.”</b><br>
+  <b>“From analysis to intelligence, one step ahead of data.”</b><br>
   <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
   — X99874
 </p>
