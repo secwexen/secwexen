@@ -150,22 +150,22 @@ Planned certifications and academic milestones include:
 I am currently working on several software-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
 
 ```bash
-Obscuron — Stealth-Grade Cybersecurity Toolkit - (Private Project & Repository)
+# Obscuron — Stealth-Grade Cybersecurity Toolkit - (Private Project & Repository)
 
-About
-Obscuron is a modular cybersecurity platform for security professionals and red teams.
+## About
+**Obscuron is a modular cybersecurity platform for security professionals and red teams.**
 It integrates system analysis, incident response, memory forensics, and stealth-aware operations into a single, extensible framework for authorized, controlled environments.
 
-Core Features 
+## Core Features 
 - Modular architecture enabling flexible analysis, monitoring, and intervention  
 - Automation templates and APIs for seamless workflow integration  
 - Logging-centric design to ensure traceability and forensic integrity  
 - Built with Python, Go, Rust, PowerShell, Bash, C++, PostgreSQL, Assembly, Docker, and CI/CD pipelines for scalability and reliability  
 
-Status & Contact
+## Status & Contact
 Version 1.0.0 — core modules complete, actively maintained
 
-License
+## License
 GNU General Public License v3.0 (GPLv3)
 ```
 
@@ -269,7 +269,7 @@ We understand. We secure.
 ---
 
 <p align="center">
-  <b>“We understand. We secure.”</b><br>
+  <b>“From analysis to intelligence, one step ahead of data.”</b><br>
   <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
   — X99874
 </p>
