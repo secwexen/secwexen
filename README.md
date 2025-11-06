@@ -269,7 +269,7 @@ We understand. We secure.
 ---
 
 <p align="center">
-  <b>“From analysis to cyber intelligence, from cyber intelligence to data.”</b><br>
+  <b>“From data to analysis, from analysis to cyber intelligence.”</b><br>
   <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
   — X99874
 </p>
