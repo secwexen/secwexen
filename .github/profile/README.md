@@ -192,9 +192,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## **Blog Posts & Notes & Research Wiki**
 
-- [Architecture Cyber Defense — A Multilayered Approach](https://github.com/X99874/X99874/wiki/Architecture-Cyber-Defense-%E2%80%94-A-Multilayered-Approach)
-- [Protocol Behavior Mapping in Threat Simulations](https://github.com/X99874/X99874/wiki/Protocol-Behavior-Mapping-in-Threat-Simulations)
-- [Neuroadaptive Code Enclaves — Self-Aware Security](https://github.com/X99874/X99874/wiki/Neuroadaptive-Code-Enclaves-%E2%80%94-Self%E2%80%90Aware-Security)
+- [Wiki — Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
 
 ---
 
