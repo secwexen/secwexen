@@ -74,7 +74,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - **Forensics:** Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free  
 - **Programming & Scripting:** Rust, Python, Bash, C, PowerShell  
 - **Cloud & Infrastructure:** Docker, Kubernetes, AWS, Azure, GCP  
-- **Operating Systems:** Kali Linux, Parrot OS, Arch Linux, Windows Server
+- **Operating Systems:** Kali Linux, Parrot OS, Arch Linux, Ubuntu, Windows Server
 
 ---
 
