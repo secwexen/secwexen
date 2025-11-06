@@ -186,11 +186,9 @@ References available upon request or through my GitHub collaborations.
 
 ---
 
-## Documentation & Blog Posts
+## **Blog Posts & Notes & Research Wiki**
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
-
-## **Blog Posts & Notes & Research Wiki**
 
 - [Wiki — Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
 
