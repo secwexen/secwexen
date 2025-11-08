@@ -69,7 +69,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 ## Knowledge Stack
 
-- **Offensive Security:** Metasploit, Metasploitable 2, Burp Suite, Nmap, SQLMap, Hydra, Gobuster  
+- **Offensive Security:** Metasploit, Metasploitable 2, Burp Suite, Nmap, SQLMap, Hydra, Gobuster …and more.
 - **Defensive & Monitoring:** Splunk, ELK Stack, Wireshark, Suricata, Zeek, Wazuh  
 - **Forensics:** Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free  
 - **Programming & Scripting:** Rust, Python, Bash, C, PowerShell  
