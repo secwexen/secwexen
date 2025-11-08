@@ -163,7 +163,7 @@ It integrates system analysis, incident response, memory forensics, and stealth-
 - Built with Python, Go, Rust, PowerShell, Bash, C++, PostgreSQL, Assembly, Docker, and CI/CD pipelines for scalability and reliability  
 
 ## Status & Contact
-**Version:** 1.0.0  
+**Version:** v1.0.0  
 **Development:** Core modules complete, actively maintained  
 
 ## License
