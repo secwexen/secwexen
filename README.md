@@ -156,6 +156,8 @@ I am currently working on several software-focused projects aimed at strengtheni
 **Obscuron is a modular cybersecurity platform for security professionals and red teams.**
 It integrates system analysis, incident response, memory forensics, and stealth-aware operations into a single, extensible framework for authorized, controlled environments.
 
+**Tags:** `cybersecurity` • `red-team` • `incident-response` • `memory-forensics` • `stealth` • `plugin-system` • `security-automation` • `sandbox-evasion` • `rootkit-detection` • `covert-ops`
+
 ## Core Features 
 - Modular architecture enabling flexible analysis, monitoring, and intervention  
 - Automation templates and APIs for seamless workflow integration  
