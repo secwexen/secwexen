@@ -150,7 +150,7 @@ Planned certifications and academic milestones include:
 I am currently working on several software-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
 
 ```bash
-# Obscuron — Stealth-Grade Cybersecurity Toolkit - (Private Project & Repository)
+# Obscuron — Stealth-Grade Cybersecurity Toolkit - (Private project with a private repository)
 
 ## About
 **Obscuron is a modular cybersecurity platform for security professionals and red teams.**
