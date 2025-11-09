@@ -1,0 +1,13 @@
+user:
+  username: X99874
+  role: Cybersecurity Specialist
+  languages: [Rust, Python, Bash, C, Go, Assembly, JavaScript]
+  timezone: UTC
+preferences:
+  shell: zsh
+  editor: nvim
+  theme: gruvbox-dark
+security:
+  telemetry: false
+  logging: true
+  firewall: enabled
