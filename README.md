@@ -151,26 +151,10 @@ I am currently working on several software-focused projects aimed at strengtheni
 
 ```bash
 # Obscuron — Stealth-Grade Cybersecurity Toolkit - (Private project with a private repository)
-
-## About
-**Obscuron is a modular cybersecurity platform for security professionals and red teams.**
-It integrates system analysis, incident response, memory forensics, and stealth-aware operations into a single, extensible framework for authorized, controlled environments.
+Modular toolkit for red teams and security researchers, integrating **forensics, automation, and incident response**.  
+**Tech:** Python, Rust, Go, PowerShell, Bash, C++, Docker | **License:** GPLv3 | **Status:** v1.0.0
 
 **Tags:** `cybersecurity` • `red-team` • `incident-response` • `memory-forensics` • `stealth` • `plugin-system` • `security-automation` • `sandbox-evasion` • `rootkit-detection` • `covert-ops`
-
-## Core Features 
-- Modular architecture enabling flexible analysis, monitoring, and intervention  
-- Automation templates and APIs for seamless workflow integration  
-- Logging-centric design to ensure traceability and forensic integrity  
-- Built with Python, Go, Rust, PowerShell, Bash, C++, PostgreSQL, Assembly, Docker, and CI/CD pipelines for scalability and reliability  
-
-## Status & Contact
-**Version:** v1.0.0  
-**Development:** Core modules complete, actively maintained  
-
-## License
-GNU General Public License v3.0 (GPLv3)
-See [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) for full details.
 ```
 
 Stay tuned — detailed write-ups and repositories will be published soon.
