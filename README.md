@@ -166,7 +166,7 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 - Participated in several CTFs and cybersecurity competitions.  
 - Contributed to open-source security tools.  
 - I write technical notes and conduct research on ethical hacking.
-- Published articles on security blogs.  
+- I regularly follow and read articles published on cybersecurity blogs.
 - Conducts research in network security, reverse engineering, and malware analysis.  
 - Performed vulnerability analyses and developed Proof of Concept (PoC) exploits.
 
