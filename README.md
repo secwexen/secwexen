@@ -162,9 +162,13 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 ---
 
 ## Achievements & Contributions  
+
 - Participated in several CTFs and cybersecurity competitions.  
 - Contributed to open-source security tools.  
 - I write technical notes and conduct research on ethical hacking.
+- Published articles on security blogs.  
+- Actively involved in university cybersecurity community.  
+- Performed vulnerability analyses and developed Proof of Concept (PoC) exploits.
 
 ---
 
