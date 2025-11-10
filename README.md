@@ -200,7 +200,12 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Contact Details & Links
 
-- Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- **Website:** [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- **Portfolio:** [x99874.github.io/X99874](https://x99874.github.io/X99874/)
+- **CTF Writeups & Labs:** [./portfolio](https://github.com/X99874/X99874/tree/main/portfolio)
+- **Research Notes:** [./reflections](https://github.com/X99874/X99874/tree/main/reflections)
+- **GitHub:** [github.com/X99874](https://github.com/X99874)
+- **PGP Key:** Available upon request
 
 ---
 
