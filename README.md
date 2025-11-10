@@ -210,7 +210,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 - **CTF Writeups & Labs:** [https://github.com/X99874/X99874/tree/main/portfolio](https://github.com/X99874/X99874/tree/main/portfolio)
 - **Research Notes:** [https://github.com/X99874/X99874/tree/main/reflections](https://github.com/X99874/X99874/tree/main/reflections)
 - **GitHub:** [https://github.com/X99874](https://github.com/X99874)
-- **PGP Key:** `Coming soon — for secure communication and verification`
+- **PGP Public Key:** `Coming soon — for secure communication and verification`
 
 ---
 
