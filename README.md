@@ -167,7 +167,7 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 - Contributed to open-source security tools.  
 - I write technical notes and conduct research on ethical hacking.
 - Published articles on security blogs.  
-- Actively involved in university cybersecurity community.  
+- Conducts research in network security, reverse engineering, and malware analysis.  
 - Performed vulnerability analyses and developed Proof of Concept (PoC) exploits.
 
 ---
