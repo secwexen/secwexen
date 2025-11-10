@@ -178,9 +178,13 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 ---
 
 ## Achievements & Contributions  
+
 - Participated in several CTFs and cybersecurity competitions.  
 - Contributed to open-source security tools.  
 - I write technical notes and conduct research on ethical hacking.
+- I regularly follow and read articles published on cybersecurity blogs.
+- Conducts research in network security, reverse engineering, and malware analysis.  
+- Performed vulnerability analyses and developed Proof of Concept (PoC) exploits.
 
 ---
 
@@ -200,7 +204,13 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Contact Details & Links
 
-- Website: [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- **Website:** [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- **Email:** Coming soon
+- **Portfolio:** [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- **CTF Writeups & Labs:** [https://github.com/X99874/X99874/tree/main/portfolio](https://github.com/X99874/X99874/tree/main/portfolio)
+- **Research Notes:** [https://github.com/X99874/X99874/tree/main/reflections](https://github.com/X99874/X99874/tree/main/reflections)
+- **GitHub:** [https://github.com/X99874](https://github.com/X99874)
+- **PGP Key:** `Coming soon — for secure communication and verification`
 
 ---
 
