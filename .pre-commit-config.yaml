@@ -1,0 +1,54 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0  # Updated to the latest stable version
+    hooks:
+      - id: trailing-whitespace        # Removes trailing whitespace
+      - id: end-of-file-fixer          # Ensures files end with a newline
+      - id: check-yaml                 # Validates YAML syntax
+      - id: check-added-large-files    # Prevents committing large files
+
+  # Python hooks
+  - repo: https://github.com/pycqa/flake8
+    rev: 6.0.0
+    hooks:
+      - id: flake8
+        additional_dependencies: [flake8-bugbear]  # Adds extra linting rules
+
+  - repo: https://github.com/pre-commit/mirrors-isort
+    rev: v6.0.0
+    hooks:
+      - id: isort
+        additional_dependencies: [isort==5.12.0]   # Ensures consistent import sorting
+
+  - repo: https://github.com/pre-commit/mirrors-black
+    rev: 24.2.0
+    hooks:
+      - id: black
+        language_version: python3                 # Formats Python code using Black
+
+  # Rust hooks
+  - repo: https://github.com/rust-lang/rust-clippy
+    rev: pre-1.74.0
+    hooks:
+      - id: clippy
+        name: Rust Clippy
+        entry: cargo clippy -- -D warnings        # Lints Rust code and treats warnings as errors
+        language: rust
+        types: [rust]
+
+  - repo: https://github.com/rust-lang/rustfmt
+    rev: 1.74.0
+    hooks:
+      - id: rustfmt
+        name: Rustfmt
+        entry: cargo fmt -- --check               # Checks Rust code formatting
+        language: rust
+        types: [rust]
+
+# Optional: local custom scripts
+# - repo: local
+#   hooks:
+#     - id: custom-check
+#       name: Custom check
+#       entry: bash scripts/custom-check.sh
+#       language: system
