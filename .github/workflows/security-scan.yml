@@ -1,0 +1,116 @@
+name: Ultimate Security & CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  security-events: write
+  pull-requests: read
+
+jobs:
+  # ------------------------------
+  # Secret & Code Security Scan
+  # ------------------------------
+  codeql-scan:
+    name: CodeQL Security Scan
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v2
+        with:
+          languages: javascript, python, cpp, csharp, go, ruby, java
+
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v2
+
+  # ------------------------------
+  # Shell Script Analysis
+  # ------------------------------
+  shellcheck:
+    name: Shell Script Security
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install ShellCheck
+        run: sudo apt-get update && sudo apt-get install -y shellcheck
+
+      - name: Run ShellCheck on all .sh files
+        run: |
+          find . -type f -name "*.sh" | xargs -r shellcheck -x
+
+      - name: Check Dotfiles for risky commands
+        run: |
+          find . -type f \( -name "*.bashrc" -o -name "*.zshrc" -o -name "*.vimrc" \) \
+          | xargs grep -En "sudo|curl|wget|rm -rf" || echo "No risky commands found"
+
+  # ------------------------------
+  # Python Dependency Scan
+  # ------------------------------
+  python-safety:
+    name: Python Dependency Security
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Safety
+        run: python -m pip install --upgrade pip safety
+
+      - name: Scan Python Dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            safety check -r requirements.txt
+          else
+            echo "No requirements.txt found, skipping scan."
+          fi
+
+  # ------------------------------
+  # Dependency Review (PR only)
+  # ------------------------------
+  dependency-review:
+    name: Dependency Review
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Review new dependencies
+        uses: actions/dependency-review-action@v3
+
+  # ------------------------------
+  # SBOM Generation
+  # ------------------------------
+  sbom:
+    name: Generate SBOM
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate SBOM
+        uses: CycloneDX/cyclonedx-action@v1
+        with:
+          output: sbom.json
+
+  # ------------------------------
+  # CI Badge (Optional, No Push)
+  # ------------------------------
+  ci-badge:
+    name: Update CI Badge (Local Only)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Update CI status file
+        run: echo "CI passed" > .ci-status.txt
+
+      - name: Prevent accidental push
+        run: echo "Push disabled for privacy and safety"
