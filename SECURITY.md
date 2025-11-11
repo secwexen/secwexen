@@ -1,21 +1,14 @@
 # Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :white_check_mark: |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :white_check_mark: |
-
 ## Reporting a Vulnerability
+If you believe you have found a security vulnerability in this repository, please open an issue or contact me via email at [Soon]. Provide sufficient detail to reproduce or understand the issue.
 
-Use this section to tell people how to report a vulnerability.
+## Supported Versions
+This repository is a personal profile repository and does not follow a formal release schedule. Changes may occur without notification.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## We’ll respond to security reports by:
+- Reviewing reports in a timely manner.
+- Acknowledging the report (typically within a few days).
+- Taking remedial action if required, such as removing exposed credentials or replacing affected files.
+
+Thank you for helping keep this repository secure.
