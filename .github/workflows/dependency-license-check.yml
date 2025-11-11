@@ -1,0 +1,68 @@
+name: Dependency License Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  license-check:
+    name: Enforce GPL-Compatible Licenses
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Python dependencies
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install pip-licenses
+        run: python -m pip install --upgrade pip pip-licenses
+
+      - name: Check Python licenses
+        run: |
+          if [ -f requirements.txt ]; then
+            pip-licenses --from=mixed --format=plain-vertical > python-licenses.txt
+            echo "Python licenses saved."
+          else
+            echo "No requirements.txt found. Skipping Python license check."
+          fi
+
+      # Node.js dependencies
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*'
+
+      - name: Install license-checker
+        run: npm install -g license-checker
+
+      - name: Check Node.js licenses
+        run: |
+          if [ -f package.json ]; then
+            license-checker --summary > node-licenses.txt
+            echo "Node.js licenses saved."
+          else
+            echo "No package.json found. Skipping Node.js license check."
+          fi
+
+      - name: Fail if Python has non-GPL licenses
+        run: |
+          if grep -v "GPL" python-licenses.txt | grep -v "^$"; then
+            echo "Non-GPL license found in Python dependencies!"
+            exit 1
+          fi
+
+      - name: Fail if Node.js has non-GPL licenses
+        run: |
+          if grep -v "GPL" node-licenses.txt | grep -v "^$"; then
+            echo "Non-GPL license found in Node.js dependencies!"
+            exit 1
+          fi
