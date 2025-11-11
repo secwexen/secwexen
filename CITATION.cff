@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "X99874"
+version: "1.0.0"
+date-released: 2025-11-11
+authors:
+  - name: "X99874"
+    affiliation: "CyberSecurity & Ethical Hacking Specialist"
+license: "GPL-3.0"
+repository-code: "https://github.com/X99874/X99874"
+keywords:
+  - cybersecurity
+  - ethical hacking
+  - threat intelligence
+  - SIEM
+  - Python
+  - automation
+preferred-citation:
+  type: article
+  title: "X99874: Python Tools for Ethical Hacking, Threat Detection, and SIEM Automation"
+  authors:
+    - name: "X99874"
+  year: 2025
+  journal: "GitHub Repository"
+  url: "https://github.com/X99874/X99874"
