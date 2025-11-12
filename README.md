@@ -158,8 +158,7 @@ It provides an integrated environment for system analysis, memory forensics, and
 **Development:** Actively maintained  
 **License:** GNU General Public License v3.0
 
-> **Private Repository — Public release planned soon.**
-> Follow this my Github profile to be notified when Obscuron becomes publicly available.
+> To receive a notification when it becomes publicly available, follow my GitHub profile.
 
 Stay tuned — detailed write-ups and repositories will be published soon.
 
