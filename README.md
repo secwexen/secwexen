@@ -163,8 +163,10 @@ It combines **system analysis, incident response, memory forensics, and stealth-
 
 **Version:** v1.0.0  
 **Status:** Actively maintained  
-**License:** [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)  
-**Access:** [Private Repository](#)
+**License:** [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
+**Access:** [Private repository — public availability coming soon](#)
+
+**Contribute:** Currently private — follow my [GitHub profile](#) to get notified when access opens.
 
 Stay tuned — detailed write-ups and repositories will be published soon.
 
