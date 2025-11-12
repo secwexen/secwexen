@@ -170,9 +170,9 @@ It combines **system analysis, incident response, memory forensics, and stealth-
 
 **License:** [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
 
-> ⚠️ For Authorized Use Only — Operate exclusively in controlled, authorized environments
+> ⚠️ Use only in authorized environments
 
-**Contribute:** The repository is currently private, so direct PRs aren't possible. To get notified when access opens, **[follow the my GitHub profile](#)**.  
+**Contribute:** The repository is currently private, so direct PRs aren't possible. To get notified when access opens, **[follow the my GitHub profile](#)**. 
 
 Stay tuned — detailed write-ups and repositories will be published soon.
 
