@@ -168,7 +168,7 @@ It combines **system analysis, incident response, memory forensics, and stealth-
 **Status:** v1.0.0 — Core modules complete  
 **Development:** Actively maintained  
 
-**License:** [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
+**License:** [GNU General Public License v3.0 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html)  
 
 > ⚠️ Use only in authorized environments
 
