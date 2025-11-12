@@ -154,7 +154,10 @@ I am currently working on several software-focused projects aimed at strengtheni
 A modular and stealth-aware platform designed for red teams, security analysts, and incident responders.  
 It provides an integrated environment for system analysis, memory forensics, and controlled offensive operations — all within a secure, traceable, and automation-ready architecture.
 
-> **Development:** Actively maintained  
+**Status:** v1.0.0 — Core modules complete  
+**Development:** Actively maintained  
+**License:** GNU General Public License v3.0
+
 > **Private Repository — Public release planned soon.**
 > Follow this my Github profile to be notified when Obscuron becomes publicly available.
 
