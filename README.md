@@ -158,7 +158,7 @@ It provides an integrated environment for system analysis, memory forensics, and
 **Development:** Actively maintained  
 **License:** GNU General Public License v3.0
 
-> To receive a notification when it becomes publicly available, follow my GitHub profile.
+> Follow my GitHub profile to receive a notification and access when it becomes publicly available.
 
 Stay tuned — detailed write-ups and repositories will be published soon.
 
