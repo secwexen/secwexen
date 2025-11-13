@@ -8,7 +8,7 @@
 
 ## Open Source Projects & Tools
 
-This repository stands on the shoulders of many excellent open‑source efforts:
+Project repositorys stands on the shoulders of many excellent open‑source efforts:
 
 * The Linux distributions, utilities, and scripting tools that underpin the configuration files and automation.
 * Security toolkits, frameworks and educational resources that inform my work in offensive, defensive and cloud/infra domains.
