@@ -1,25 +1,28 @@
 <!-- Cybersecurity | Ethical Hacking | Red Team | Blue Team | Rust | SIEM | Threat Hunting | Network Security -->
 
-<h1 align="center">
-  CyberSecurity & Ethical Hacking Specialist
-</h1>
+# Cybersecurity & Ethical Hacking Expert
 
-## Hi, I’m @X99874 — CyberSecurity Specialist Focused on Offensive, Defensive & Applied Security Domains
+## About Me
 
-I'm a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before they can be exploited by malicious actors. My work is driven by a strong commitment to protecting digital assets and understanding adversarial mindsets—not to imitate, but to stay one step ahead.
+I am a cybersecurity professional specializing in **ethical hacking, digital defense, and vulnerability assessment**.  
+My primary focus is on proactively identifying and mitigating risks before they can be exploited by malicious actors.  
+I am strongly committed to safeguarding digital assets and anticipating adversarial tactics to remain one step ahead.  
 
-Alongside my cybersecurity skills, I have a strong background in software development. I build Python tools for automation, threat intelligence, and SIEM optimization—bridging security and code to create smarter, faster defenses.
+In addition to my cybersecurity expertise, I have a solid background in **software development**.  
+I design and implement Python-based tools for automation, threat intelligence, and SIEM optimization.  
+By integrating security and software engineering, I deliver efficient, resilient, and intelligent defense solutions.  
 
-**I've been pursuing this journey with passion since 2021.** `pulse_2026-01-01T00:00:00Z_v06.log` **(Personal milestone marker — cybersecurity journey in progress)**
+**I've been pursuing this journey with passion since 2021.** **(Personal milestone marker — cybersecurity journey in progress)**
 
-### Operation Protocol vX
+---
 
-`(null@0x00000000@/dev/shm/.space) $ ./.p --zd --cc --et --gh --v`
+## Summary of Expertise
 
-### Tagging
-
-`#cybersec` `#infosec` `#netsec` `#linuxsec` `#cloudsec` `#devsecops`  
-`#forensics` `#malware` `#zerotrust` `#siem` `#redteam` `#blueteam`
+- Offensive & Defensive Security  
+- Rust & Python Development  
+- OSCP Preparation | Threat Hunting | SIEM Automation  
+- Red Team & Blue Team Simulations  
+- CTF Builder & Participant
 
 ---
 
@@ -38,7 +41,7 @@ I believe true security comes from curiosity, ethics, and persistence.
 
 ---
 
-## Cybersecurity Focus Areas & Current Learning Path
+## Focus Areas & Current Learning Path
 
 I am actively developing expertise across key cybersecurity domains, emphasizing hands-on experience and continuous learning.
 
@@ -81,31 +84,23 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 ## Hardware & Security Toolset
 
-**Used strictly for ethical research, penetration testing, and hardware-level security validation.**  
-All activities are conducted in controlled lab environments for non-destructive testing and educational purposes.
+Specialized hardware used strictly in controlled lab environments for ethical research.
 
-- **Flipper Zero** – RF, IR, and RFID experimentation  
-- **HackRF One** – Software-defined radio for wireless analysis  
-- **Proxmark3 RDV4** – Advanced RFID/NFC research  
-- **WiFi Pineapple** – Wireless auditing and rogue AP detection  
-- **Raspberry Pi** – Edge computing & portable pentesting setups  
-
-*Other specialized tools are used only in isolated lab conditions for responsible, ethical security research.*
-
+- Flipper Zero
+- HackRF One
+- Proxmark3 RDV4
+- WiFi Pineapple
+- Raspberry Pi
 
 ---
 
-## I'm open to collaboration on the following cybersecurity-focused topics
+## Collaboration
 
-- I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support CTF creation and scoring systems.
-- Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
-- Real-world penetration testing scenarios (Web, Network, Wireless)
-- Malware analysis, unpacking, and reverse engineering
-- Threat hunting, OSINT, and digital forensics investigations
-- Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
-- Developing custom exploits, payloads, and proof-of-concept attacks
-- Secure coding and auditing in Rust, Python, and Bash
-- Contributing to open-source cybersecurity tools and red team utilities
+- Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)  
+- Real-world penetration testing scenarios (Web, Network, Wireless)  
+- Malware analysis, unpacking, and reverse engineering  
+- Secure coding and auditing in Rust, Python, and Bash  
+- Contributing to open-source cybersecurity tools and red team utilities 
 
 ---
 
@@ -125,9 +120,10 @@ Planned certifications and academic milestones include:
 
 ---
 
-## PGP Public Key
+## Languages
 
-`Coming soon — for secure communication and verification`
+- English
+- German A1 (Beginner Level)
 
 ---
 
@@ -139,29 +135,13 @@ Planned certifications and academic milestones include:
 
 ---
 
-## Languages I Speak
-
-- English
-- German A1 (Beginner Level)
-
----
-
-## Selected Projects & Professional Contributions
-
-I am currently working on several software-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
+## Projects & Contributions
 
 ### **Obscuron — Stealth-Grade Cybersecurity Framework**
-
-A modular and stealth-aware platform designed for red teams, security analysts, and incident responders.  
-It provides an integrated environment for system analysis, memory forensics, and controlled offensive operations — all within a secure, traceable, and automation-ready architecture.
-
-**Status:** v1.0.0 — Core modules complete  
-**Development:** Actively maintained  
-**License:** GNU General Public License v3.0
-
-> ⚠️ **Note:** Follow my GitHub profile to receive a notification and access when it becomes publicly available.
-
-Stay tuned — detailed write-ups and repositories will be published soon.
+A modular platform for red teams, analysts, and responders.  
+Provides system analysis, memory forensics, and controlled offensive operations.  
+**Status:** v1.0.0 — Actively maintained  
+**License:** GPL v3.0 
 
 ---
 
@@ -176,17 +156,11 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
-## References
-
-References available upon request or through my GitHub collaborations.
-
----
-
 ## **Blog Posts & Notes & Research Wiki**
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- [Wiki — Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
+- [Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
 
 ---
 
@@ -212,9 +186,10 @@ Professional blog entries focused on hardware security, wireless protocol analys
 ---
 
 ⭐ **If you find my projects useful, don't forget to give them a star!**  
-👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.
+👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.  
+🤝 **For collaboration or inquiries, please reach out via my portfolio or GitHub.**  
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 🚀  
 
 ---
 
@@ -227,8 +202,6 @@ Thanks for visiting my profile! 🚀
 - I am experimenting with **threat-hunting automation** and **SIEM data analysis.**
 
 ---
-
-> **Mission Log — System Hardening Sequence (Simulated)**  
 
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
@@ -266,12 +239,12 @@ We understand. We secure.
 
 ---
 
-<p align="center">
-  <b>“From data to analysis, from analysis to cyber intelligence.”</b><br>
-  <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
-  — X99874
-</p>
+**“From data to analysis, from analysis to cyber intelligence.”**  
+*"Curiosity fuels understanding. Understanding builds security."*  
 
-<p align="center">
-  © 2025 X99874 — All Rights Reserved
-</p>
+— **X99874**
+
+---
+
+© 2025 X99874 — All Rights Reserved    
+All research and projects are conducted under ethical cybersecurity practices and responsible disclosure principles.  
