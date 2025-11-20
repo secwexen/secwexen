@@ -250,5 +250,4 @@ All research and projects are conducted under ethical cybersecurity practices an
 
 ---
 
-Disclaimer: All tools and research are developed for educational and ethical purposes only.  
-Unauthorized use outside controlled environments is strictly prohibited.  
+Disclaimer: All tools and research are developed for educational and ethical purposes only.
