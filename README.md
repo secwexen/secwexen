@@ -148,6 +148,7 @@ Planned certifications and academic milestones include:
   <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%230066FF.svg?style=for-the-badge&logo=protonmail&logoColor=white">
 </p>
 
+---
 
 ## Projects & Contributions
 
