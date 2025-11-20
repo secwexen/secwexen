@@ -14,16 +14,6 @@ Alongside my cybersecurity skills, I have a strong background in software develo
 
 ---
 
-## TL;DR
-Quick snapshot of my journey & focus areas:
-- Offensive + Defensive Security  
-- Rust & Python Developer  
-- OSCP Prep | Threat Hunting | SIEM Automation  
-- Red Team & Blue Team Simulations  
-- CTF Builder & Participant
-
----
-
 ## Vision
 
 My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
