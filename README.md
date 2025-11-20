@@ -190,7 +190,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ---
 
-## ⚖️ Code of Ethics
+## Code of Ethics
 
 - All research and experiments are conducted in controlled environments.  
 - I strictly follow responsible disclosure principles.  
