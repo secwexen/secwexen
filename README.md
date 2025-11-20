@@ -239,8 +239,6 @@ We understand. We secure.
 
 ---
 
-## Vision Statement
-
 **“From data to analysis, from analysis to cyber intelligence.”**  
 *"Curiosity fuels understanding. Understanding builds security."*  
 
@@ -248,4 +246,5 @@ We understand. We secure.
 
 ---
 
-© 2025 X99874 — All Rights Reserved  
+© 2025 X99874 — All Rights Reserved    
+All research and projects are conducted under ethical cybersecurity practices and responsible disclosure principles.  
