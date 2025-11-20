@@ -248,3 +248,8 @@ We understand. We secure.
 
 © 2025 X99874 — All Rights Reserved    
 All research and projects are conducted under ethical cybersecurity practices and responsible disclosure principles.  
+
+---
+
+Disclaimer: All tools and research are developed for educational and ethical purposes only.  
+Unauthorized use outside controlled environments is strictly prohibited.  
