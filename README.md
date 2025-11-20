@@ -14,6 +14,16 @@ Alongside my cybersecurity skills, I have a strong background in software develo
 
 ---
 
+## Summary of Expertise
+
+- Offensive & Defensive Security  
+- Rust & Python Development  
+- OSCP Preparation | Threat Hunting | SIEM Automation  
+- Red Team & Blue Team Simulations  
+- CTF Builder & Participant
+
+---
+
 ## Vision
 
 My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
@@ -175,6 +185,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ⭐ **If you find my projects useful, don't forget to give them a star!**  
 👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.
+🤝 **For collaboration or inquiries, please reach out via my portfolio or GitHub.**
 
 Thanks for visiting my profile! 🚀
 
@@ -189,8 +200,6 @@ Thanks for visiting my profile! 🚀
 - I am experimenting with **threat-hunting automation** and **SIEM data analysis.**
 
 ---
-
-> **Mission Log — System Hardening Sequence (Simulated)**  
 
 ```
 ⚪ ⚪ ⚪                               Terminal — captain@kalilinux: ~/missions
