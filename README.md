@@ -239,12 +239,13 @@ We understand. We secure.
 
 ---
 
-<p align="center">
-  <b>“From data to analysis, from analysis to cyber intelligence.”</b><br>
-  <i>"Curiosity fuels understanding. Understanding builds security."</i><br/>
-  — X99874
-</p>
+## Vision Statement
 
-<p align="center">
-  © 2025 X99874 — All Rights Reserved
-</p>
+**“From data to analysis, from analysis to cyber intelligence.”**  
+*"Curiosity fuels understanding. Understanding builds security."*  
+
+— **X99874**
+
+---
+
+© 2025 X99874 — All Rights Reserved  
