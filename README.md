@@ -142,12 +142,6 @@ Planned certifications and academic milestones include:
 
 ---
 
-## PGP Public Key
-
-`Coming soon — for secure communication and verification`
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacker-%23FF0000.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Python%20Developer-%23000000.svg?style=for-the-badge&logo=python&logoColor=white">
