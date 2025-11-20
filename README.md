@@ -4,7 +4,7 @@
   CyberSecurity & Ethical Hacking Specialist
 </h1>
 
-## Hi, I’m @X99874 — CyberSecurity Specialist Focused on Offensive, Defensive & Applied Security Domains
+## 👋 Hi, I’m @X99874
 
 I'm a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before they can be exploited by malicious actors. My work is driven by a strong commitment to protecting digital assets and understanding adversarial mindsets—not to imitate, but to stay one step ahead.
 
@@ -23,6 +23,16 @@ Alongside my cybersecurity skills, I have a strong background in software develo
 
 ---
 
+## TL;DR
+Quick snapshot of my journey & focus areas:
+- Offensive + Defensive Security  
+- Rust & Python Developer  
+- OSCP Prep | Threat Hunting | SIEM Automation  
+- Red Team & Blue Team Simulations  
+- CTF Builder & Participant
+
+---
+
 ## Vision
 
 My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
@@ -38,7 +48,7 @@ I believe true security comes from curiosity, ethics, and persistence.
 
 ---
 
-## Cybersecurity Focus Areas & Current Learning Path
+## Focus Areas & Current Learning Path
 
 I am actively developing expertise across key cybersecurity domains, emphasizing hands-on experience and continuous learning.
 
@@ -95,7 +105,7 @@ All activities are conducted in controlled lab environments for non-destructive 
 
 ---
 
-## I'm open to collaboration on the following cybersecurity-focused topics
+## Collaboration
 
 - I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support CTF creation and scoring systems.
 - Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
@@ -125,6 +135,13 @@ Planned certifications and academic milestones include:
 
 ---
 
+## Languages
+
+- English
+- German A1 (Beginner Level)
+
+---
+
 ## PGP Public Key
 
 `Coming soon — for secure communication and verification`
@@ -137,31 +154,14 @@ Planned certifications and academic milestones include:
   <img src="https://img.shields.io/badge/OSINT%20Enthusiast-%230066FF.svg?style=for-the-badge&logo=protonmail&logoColor=white">
 </p>
 
----
 
-## Languages I Speak
-
-- English
-- German A1 (Beginner Level)
-
----
-
-## Selected Projects & Professional Contributions
-
-I am currently working on several software-focused projects aimed at strengthening digital resilience and exploring adversarial techniques. These include:
+## Projects & Contributions
 
 ### **Obscuron — Stealth-Grade Cybersecurity Framework**
-
-A modular and stealth-aware platform designed for red teams, security analysts, and incident responders.  
-It provides an integrated environment for system analysis, memory forensics, and controlled offensive operations — all within a secure, traceable, and automation-ready architecture.
-
-**Status:** v1.0.0 — Core modules complete  
-**Development:** Actively maintained  
-**License:** GNU General Public License v3.0
-
-> ⚠️ **Note:** Follow my GitHub profile to receive a notification and access when it becomes publicly available.
-
-Stay tuned — detailed write-ups and repositories will be published soon.
+A modular platform for red teams, analysts, and responders.  
+Provides system analysis, memory forensics, and controlled offensive operations.  
+**Status:** v1.0.0 — Actively maintained  
+**License:** GPL v3.0 
 
 ---
 
@@ -176,17 +176,11 @@ Stay tuned — detailed write-ups and repositories will be published soon.
 
 ---
 
-## References
-
-References available upon request or through my GitHub collaborations.
-
----
-
 ## **Blog Posts & Notes & Research Wiki**
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- [Wiki — Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
+- [Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
 
 ---
 
@@ -202,7 +196,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ---
 
-## Code of Ethics
+## ⚖️ Code of Ethics
 
 - All research and experiments are conducted in controlled environments.  
 - I strictly follow responsible disclosure principles.  
