@@ -193,7 +193,7 @@ Thanks for visiting my profile! 🚀
 
 ---
 
-## Current Mission
+## Ongoing Projects
 
 - Developing Rust-based security tools for automation  
 - Studying advanced malware analysis and reverse engineering  
