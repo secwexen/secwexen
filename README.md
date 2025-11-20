@@ -72,31 +72,23 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 ## Hardware & Security Toolset
 
-**Used strictly for ethical research, penetration testing, and hardware-level security validation.**  
-All activities are conducted in controlled lab environments for non-destructive testing and educational purposes.
+Specialized hardware used strictly in controlled lab environments for ethical research.
 
-- **Flipper Zero** – RF, IR, and RFID experimentation  
-- **HackRF One** – Software-defined radio for wireless analysis  
-- **Proxmark3 RDV4** – Advanced RFID/NFC research  
-- **WiFi Pineapple** – Wireless auditing and rogue AP detection  
-- **Raspberry Pi** – Edge computing & portable pentesting setups  
-
-*Other specialized tools are used only in isolated lab conditions for responsible, ethical security research.*
-
+- Flipper Zero
+- HackRF One
+- Proxmark3 RDV4
+- WiFi Pineapple
+- Raspberry Pi
 
 ---
 
 ## Collaboration
 
-- I am open to collaboration on designing and developing secure Microsoft SQL Server databases to support CTF creation and scoring systems.
-- Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)
-- Real-world penetration testing scenarios (Web, Network, Wireless)
-- Malware analysis, unpacking, and reverse engineering
-- Threat hunting, OSINT, and digital forensics investigations
-- Building and simulating enterprise-grade network labs (Cisco, VLANs, Routing, Firewalls)
-- Developing custom exploits, payloads, and proof-of-concept attacks
-- Secure coding and auditing in Rust, Python, and Bash
-- Contributing to open-source cybersecurity tools and red team utilities
+- Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)  
+- Real-world penetration testing scenarios (Web, Network, Wireless)  
+- Malware analysis, unpacking, and reverse engineering  
+- Secure coding and auditing in Rust, Python, and Bash  
+- Contributing to open-source cybersecurity tools and red team utilities 
 
 ---
 
