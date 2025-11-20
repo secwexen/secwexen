@@ -6,9 +6,13 @@
 
 ## About Me
 
-I'm a cybersecurity-focused professional with a deep passion for ethical hacking, digital defense, and identifying vulnerabilities before they can be exploited by malicious actors. My work is driven by a strong commitment to protecting digital assets and understanding adversarial mindsets—not to imitate, but to stay one step ahead.
+I am a cybersecurity professional specializing in **ethical hacking, digital defense, and vulnerability assessment**.  
+My primary focus is on proactively identifying and mitigating risks before they can be exploited by malicious actors.  
+I am strongly committed to safeguarding digital assets and anticipating adversarial tactics to remain one step ahead.  
 
-Alongside my cybersecurity skills, I have a strong background in software development. I build Python tools for automation, threat intelligence, and SIEM optimization—bridging security and code to create smarter, faster defenses.
+In addition to my cybersecurity expertise, I have a solid background in **software development**.  
+I design and implement Python-based tools for automation, threat intelligence, and SIEM optimization.  
+By integrating security and software engineering, I deliver efficient, resilient, and intelligent defense solutions.  
 
 **I've been pursuing this journey with passion since 2021.** **(Personal milestone marker — cybersecurity journey in progress)**
 
@@ -184,10 +188,10 @@ Professional blog entries focused on hardware security, wireless protocol analys
 ---
 
 ⭐ **If you find my projects useful, don't forget to give them a star!**  
-👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.
-🤝 **For collaboration or inquiries, please reach out via my portfolio or GitHub.**
+👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.  
+🤝 **For collaboration or inquiries, please reach out via my portfolio or GitHub.**  
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 🚀  
 
 ---
 
