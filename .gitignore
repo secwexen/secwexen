@@ -41,3 +41,35 @@ node_modules/
 
 # Misc
 *.dmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Archives and compressed files
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.out
+*.class
+
+# Coverage and reports
+coverage/
+*.lcov
+
+# Package manager artifacts
+*.lock
+
+# Temporary test files
+*.test
+*.spec
+
+# Cache directories
+.cache/
+tmp/
