@@ -50,6 +50,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Malware Analysis & Reverse Engineering
 - Incident Response & Digital Forensics
 - Threat Hunting & OSINT Investigation
+- Social Engineering (Human-based attack simulations & defense strategies)
 - Secure Software Development (Rust, Python, Bash, C)
 - Network Protocol Analysis (Wireshark, Scapy)
 - Rust for Memory-Safe Systems Programming
