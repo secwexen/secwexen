@@ -4,9 +4,6 @@
 # Owner for everything in the repository
 * @X99874
 
-# Owner for scripts folder
-/scripts/ @X99874
-
 # Owner for documentation files
 /docs/ @X99874
 
