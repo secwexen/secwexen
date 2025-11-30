@@ -4,8 +4,14 @@
 # Owner for everything in the repository
 * @X99874
 
+# Owner for blog folder
+/blog/ @X99874
+
 # Owner for documentation files
 /docs/ @X99874
+
+# Owner for portfolio folder
+/portfolio/ @X99874
 
 # Owner for specific file
 README.md @X99874
