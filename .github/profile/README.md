@@ -239,10 +239,9 @@ We understand. We secure.
 
 ---
 
-**“From data to analysis, from analysis to cyber intelligence.”**  
-*"Curiosity fuels understanding. Understanding builds security."*  
+**“Cybersecurity is the discipline that transforms uncertainty into trust, and vigilance into resilience.”**   
 
-— **X99874**
+— **@X99874**
 
 ---
 
