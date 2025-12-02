@@ -235,7 +235,6 @@ We understand. We secure.
 ┌──(captain㉿kalilinux)-[~/missions]
 └─$ _  # Awaiting next command...
 ```
-**Cybersecurity is not just about building defenses; it's about understanding exploitation to engineer stronger, more resilient systems.**
 
 ---
 
