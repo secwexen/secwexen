@@ -241,7 +241,7 @@ We understand. We secure.
 
 **“Cybersecurity is the discipline that transforms uncertainty into trust, and vigilance into resilience.”**   
 
-— **@X99874**
+— **X99874**
 
 ---
 
