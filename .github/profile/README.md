@@ -136,7 +136,7 @@ Planned certifications and academic milestones include:
 
 ---
 
-## Projects & Contributions
+## Projects
 
 ### **Obscuron — Stealth-Grade Cybersecurity Framework**
 A modular platform for red teams, analysts, and responders.  
@@ -193,7 +193,7 @@ Thanks for visiting my profile! 🚀
 
 ---
 
-## Ongoing Projects
+## Ongoing Works
 
 - Developing Rust-based security tools for automation  
 - Studying advanced malware analysis and reverse engineering  
