@@ -67,8 +67,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Security Research and Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
 - Security Automation with CI/CD Integration (GitHub Actions, GitLab CI, Jenkins)
 
-> I believe in continuous experimentation — breaking, fixing, and rebuilding systems to truly understand how security works.
-
 ---
 
 ## Knowledge Stack
