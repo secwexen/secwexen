@@ -102,15 +102,11 @@ Specialized hardware used strictly in controlled lab environments for ethical re
 
 ## Certification Goals & Academic Focus
 
-I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
-
 Planned certifications and academic milestones include:
 
 - **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
 - **Certified Ethical Hacker (CEH)** – Ethical hacking methodologies and threat analysis  
-- **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense  
-- **Cybersecurity Coursework** – Focused on secure system design, malware analysis, and incident response  
-- **MITRE ATTACK & NIST Frameworks** – Studied and applied in lab environments   
+- **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 

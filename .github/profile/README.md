@@ -50,22 +50,19 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Malware Analysis & Reverse Engineering
 - Incident Response & Digital Forensics
 - Threat Hunting & OSINT Investigation
-- Social Engineering (Human-based attack simulations & defense strategies)
+- Social Engineering (Attack Simulations & Defense Strategies)
 - Secure Software Development (Rust, Python, Bash, C)
 - Network Protocol Analysis (Wireshark, Scapy)
-- Rust for Memory-Safe Systems Programming
 - Container & Cloud Security (Docker, Kubernetes, AWS, Azure, GCP)
-- Database Security (MySQL, PostgreSQL, MongoDB)
-- Secure Coding Practices & Auditing
+- Secure Coding Practices & Code Auditing
 - Automation & Tool Development for Pentesting
 - Red Team Simulation & Adversarial Behavior Analysis
-- Building and Hosting CTF Challenges
-- Continuous Learning through CTFs & Collaborative Projects
-- Advanced Threat Modeling and Risk Assessment
-- Zero Trust Architecture Design and Implementation
-- Firmware and Hardware Security Analysis (e.g., UEFI, JTAG, SPI)
-- Security Research and Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
-- Security Automation with CI/CD Integration (GitHub Actions, GitLab CI, Jenkins)
+- Building & Hosting CTF Challenges
+- Advanced Threat Modeling & Risk Assessment
+- Zero Trust Architecture Design & Implementation
+- Firmware & Hardware Security Analysis (UEFI, JTAG, SPI)
+- Security Research & Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
+- Security Automation with CI/CD (GitHub Actions, GitLab CI, Jenkins)
 
 ---
 
@@ -105,15 +102,11 @@ Specialized hardware used strictly in controlled lab environments for ethical re
 
 ## Certification Goals & Academic Focus
 
-I am committed to advancing my cybersecurity expertise through internationally recognized certifications and academic-level training. My goal is to build a strong foundation in both offensive and defensive security, supported by rigorous learning and hands-on experience.
-
 Planned certifications and academic milestones include:
 
 - **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
 - **Certified Ethical Hacker (CEH)** – Ethical hacking methodologies and threat analysis  
-- **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense  
-- **Cybersecurity Coursework** – Focused on secure system design, malware analysis, and incident response  
-- **MITRE ATTACK & NIST Frameworks** – Studied and applied in lab environments   
+- **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 
