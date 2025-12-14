@@ -5,6 +5,6 @@ It provides an integrated environment for system analysis, memory forensics, and
 
 **Status:** v1.0.0 — Core modules complete  
 **Development:** Actively maintained  
-**License:** GNU General Public License v3.0
+**License:** Apache-2.0 License
 
 > Follow my GitHub profile to receive a notification and access when it becomes publicly available.
