@@ -16,7 +16,7 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 ---
 
-### Core Competencies
+## TL;DR
 
 🔐 Cybersecurity Specialist  
 🛠 Offensive & Defensive Security  
