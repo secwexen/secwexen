@@ -16,13 +16,12 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 ---
 
-## Summary of Expertise
+### Core Competencies
 
-- Offensive & Defensive Security  
-- Rust & Python Development  
-- OSCP Preparation | Threat Hunting | SIEM Automation  
-- Red Team & Blue Team Simulations  
-- CTF Builder & Participant
+🔐 Cybersecurity Specialist  
+🛠 Offensive & Defensive Security  
+🐍 Python • 🦀 Rust • 🐧 Linux  
+🎯 Pentesting • Malware Analysis • DFIR  
 
 ---
 
