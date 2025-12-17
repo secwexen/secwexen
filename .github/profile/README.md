@@ -12,7 +12,7 @@ In addition to my cybersecurity expertise, I have a solid background in **softwa
 I design and implement Python-based tools for automation, threat intelligence, and SIEM optimization.  
 By integrating security and software engineering, I deliver efficient, resilient, and intelligent defense solutions.  
 
-**I've been pursuing this journey with passion since 2021.**  
+**I've been pursuing this journey with passion since 2022.**  
 
 ---
 
