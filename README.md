@@ -65,15 +65,17 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 ---
 
-## Knowledge Stack
+## **Skills Matrix**
 
-- **Offensive Security:** Metasploit, Metasploitable 2, Burp Suite, Nmap, SQLMap, Hydra, Gobuster, and more.
-- **Defensive & Monitoring:** Splunk, ELK Stack, Wireshark, Suricata, Zeek, Wazuh  
-- **Forensics:** Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free  
-- **Programming & Scripting:** Rust, Python, Bash, C, PowerShell  
-- **Cloud & Infrastructure:** Docker, Kubernetes, AWS, Azure, GCP  
-- **Operating Systems:** Kali Linux, Parrot OS, Arch Linux, Ubuntu, WSL, Windows Server
-- **OSINT (Open Source Intelligence):** Maltego, theHarvester, SpiderFoot, Shodan, Recon-ng, FOCA, Google Dorks, OSINT Framework
+| Category | Tools / Technologies |
+|---------|----------------------|
+| **Offensive Security** | Metasploit, Metasploitable 2, Burp Suite, Nmap, SQLMap, Hydra, Gobuster |
+| **Defensive Security & Monitoring** | Splunk, ELK Stack, Suricata, Zeek, Wazuh, Wireshark |
+| **Digital Forensics (DFIR)** | Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free |
+| **Programming & Scripting** | Rust, Python, Bash, C, PowerShell |
+| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, GCP |
+| **Operating Systems** | Kali Linux, Parrot OS, Arch Linux, Ubuntu, WSL, Windows Server |
+| **OSINT** | Maltego, theHarvester, SpiderFoot, Shodan, Recon-ng, FOCA, Google Dorks, OSINT Framework |
 
 ---
 
