@@ -18,7 +18,7 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 ## TL;DR
 
-🔐 Cybersecurity Specialist  
+🔐 Cybersecurity Expert  
 🛠 Offensive & Defensive Security  
 🐍 Python • 🦀 Rust • 🐧 Linux  
 🎯 Pentesting • Malware Analysis • DFIR  
