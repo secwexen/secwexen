@@ -22,18 +22,6 @@ This glossary defines technical terms, abbreviations, and concepts used in the X
 
 ---
 
-## Tools & Languages
-
-- **Python Tools** – Custom scripts or applications written in Python for automation, threat intelligence, and SIEM optimization.
-- **Scripts** – Small programs or commands used for system configuration or security tasks.
-- **Automation** – Using scripts or programs to perform tasks automatically rather than manually.
-
----
-
 ## Other Terms
 
 - **Portfolio** – Collection of projects or scripts showcased in the repository.
-
----
-
-> This glossary ensures that any reader of the X99874 profile can understand technical terms, acronyms, and repository-specific concepts without prior knowledge.
