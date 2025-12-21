@@ -22,14 +22,6 @@ This glossary defines technical terms, abbreviations, and concepts used in the X
 
 ---
 
-## Personal / Repository Terms
-
-- **Pulse Marker** – A personal milestone log entry, e.g., `pulse_2026-01-01T00:00:00Z_v06.log`.
-- **Operation Protocol** – Custom command snippet for automation or security testing, e.g., `./.p --zd --cc --et --gh --v`.
-- **Tags** – Hashtags used to categorize skills and areas of expertise in the README, e.g., `#cybersec`, `#netsec`.
-
----
-
 ## Tools & Languages
 
 - **Python Tools** – Custom scripts or applications written in Python for automation, threat intelligence, and SIEM optimization.
@@ -40,9 +32,7 @@ This glossary defines technical terms, abbreviations, and concepts used in the X
 
 ## Other Terms
 
-- **Badge** – Visual marker in README representing skill, achievement, or GitHub statistics.
 - **Portfolio** – Collection of projects or scripts showcased in the repository.
-- **Demo** – Short example or GIF demonstrating functionality of a script or tool.
 
 ---
 
