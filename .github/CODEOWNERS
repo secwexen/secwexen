@@ -7,11 +7,14 @@
 # Owner for blog folder
 /blog/ @X99874
 
-# Owner for documentation files
+# Owner for docs folder
 /docs/ @X99874
 
 # Owner for portfolio folder
 /portfolio/ @X99874
+
+# Owner for reflections folder
+/reflections/ @X99874
 
 # Owner for specific file
 README.md @X99874
