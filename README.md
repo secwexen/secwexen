@@ -144,7 +144,7 @@ Provides system analysis, memory forensics, and controlled offensive operations.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- [Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
+- [Adaptive Security Systems Research Archive](https://github.com/secwexen/secwexen/wiki)
 
 ---
 
