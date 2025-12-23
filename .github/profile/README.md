@@ -188,11 +188,11 @@ Thanks for visiting my profile! 🚀
 ---
 
 **“Cybersecurity is the discipline that transforms uncertainty into trust, and vigilance into resilience.”**    
-— **X99874**  
+— **secwexen**  
 
 ---
 
-© 2025 X99874 — All Rights Reserved.     
+© 2025 secwexen — All Rights Reserved.     
 
 ---
 
