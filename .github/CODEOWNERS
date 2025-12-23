@@ -2,19 +2,19 @@
 # Owners will automatically be requested for review when changes are made to the specified paths.
 
 # Owner for everything in the repository
-* @X99874
+* @secwexen
 
 # Owner for blog folder
-/blog/ @X99874
+/blog/ @secwexen
 
 # Owner for docs folder
-/docs/ @X99874
+/docs/ @secwexen
 
 # Owner for portfolio folder
-/portfolio/ @X99874
+/portfolio/ @secwexen
 
 # Owner for reflections folder
-/reflections/ @X99874
+/reflections/ @secwexen
 
 # Owner for specific file
-README.md @X99874
+README.md @secwexen
