@@ -144,18 +144,18 @@ Provides system analysis, memory forensics, and controlled offensive operations.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- [Adaptive Security Systems Research Archive](https://github.com/X99874/X99874/wiki)
+- [Blog](https://github.com/secwexen/secwexen/blog)
 
 ---
 
 ## Contact Details & Links
 
-- **Website:** [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
+- **Website:** [https://secwexen.github.io/secwexen/](https://secwexen.github.io/secwexen/)
 - **Email:** Coming soon
-- **Portfolio:** [https://x99874.github.io/X99874/](https://x99874.github.io/X99874/)
-- **CTF Writeups & Labs:** [https://github.com/X99874/X99874/tree/main/portfolio](https://github.com/X99874/X99874/tree/main/portfolio)
-- **Research Notes:** [https://github.com/X99874/X99874/tree/main/reflections](https://github.com/X99874/X99874/tree/main/reflections)
-- **GitHub:** [https://github.com/X99874](https://github.com/X99874)
+- **Portfolio:** [https://secwexen.github.io/secwexen/](https://secwexen.github.io/secwexen/)
+- **CTF Writeups & Labs:** [https://github.com/secwexen/secwexen/tree/main/portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
+- **Research Notes:** [https://github.com/secwexen/secwexen/tree/main/reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
+- **GitHub:** [https://github.com/secwexen](https://github.com/secwexen)
 - **PGP Public Key:** `Coming soon — for secure communication and verification`
 
 ---
