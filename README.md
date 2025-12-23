@@ -144,7 +144,7 @@ Provides system analysis, memory forensics, and controlled offensive operations.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- [Blog](https://github.com/secwexen/secwexen/blog)
+- [Blog](https://github.com/secwexen/secwexen/tree/main/blog)
 
 ---
 
