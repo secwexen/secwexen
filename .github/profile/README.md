@@ -1,4 +1,4 @@
-<!-- Cybersecurity Expert | Ethical Hacking | Red & Blue Team | Threat Hunting | SIEM | Rust | Network Security -->
+<!-- Cybersecurity | Red & Blue Team Operations | Threat Hunting | Ethical Hacking | SIEM/SOC | Network Security | Rust -->
 
 # Cybersecurity & Ethical Hacking Expert
 
