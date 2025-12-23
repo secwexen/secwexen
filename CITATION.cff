@@ -1,20 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "X99874"
+title: "secwexen"
 version: "1.0.1"
 date-released: 2025-11-22
 
 authors:
-  - family-names: "X99874"
-    affiliation: "CyberSecurity & Ethical Hacking Specialist"
+  - names: "secwexen"
+    affiliation: "CyberSecurity & Ethical Hacking Expert"
 
-license: "GPL-3.0"
-repository-code: "https://github.com/X99874/X99874"
-url: "https://x99874.github.io/X99874/"
+repository-code: "https://github.com/secwexen/secwexen"
+url: "https://secwexen.github.io/Secwexen/"
 contact:
-  - name: "X99874"
+  - name: "secwexen"
 
-abstract: "X99874 is a Python-based toolkit for cybersecurity research, ethical hacking practices, threat intelligence, and SIEM automation. It provides modular scripts and documentation to support both academic research and professional security operations."
+abstract: "secwexen is a Python-based toolkit for cybersecurity research, ethical hacking practices, threat intelligence, and SIEM automation. It provides modular scripts and documentation to support both academic research and professional security operations."
 
 keywords:
   - cybersecurity
@@ -26,9 +25,9 @@ keywords:
 
 preferred-citation:
   type: article
-  title: "X99874: Python Tools for Ethical Hacking, Threat Detection, and SIEM Automation"
+  title: "secwexen: Python Tools for Ethical Hacking, Threat Detection, and SIEM Automation"
   authors:
-    - name: "X99874"
+    - name: ""
   year: 2025
   journal: "GitHub Repository"
-  url: "https://github.com/X99874/X99874"
+  url: "https://github.com/secwexen/secwexen"
