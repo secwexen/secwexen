@@ -192,7 +192,7 @@ Thanks for visiting my profile! 🚀
 
 ---
 
-© 2025 X99874 — All Rights Reserved.     
+© 2025 secwexen — All Rights Reserved.     
 
 ---
 
