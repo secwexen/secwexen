@@ -21,7 +21,6 @@ Project repositorys stands on the shoulders of many excellent open‑source effo
 
 ## License & Philosophy
 
-This repository is licensed under the [GNU GPL v3.0](https://github.com/X99874/X99874/blob/main/LICENSE) (see LICENSE file). By choosing this license I commit to the same values of shared knowledge, collaboration, transparency, and responsible innovation.
 I believe that security is more than just code — it’s a mindset of understanding systems end‑to‑end (attack, defense, detection, response), and automation is just one tool in that journey.
 
 ## Final Note
@@ -29,5 +28,5 @@ I believe that security is more than just code — it’s a mindset of understan
 Thank you for visiting this repository, exploring my work, and engaging with the tools and documentation here. If you find these scripts, configurations, or notes useful, please consider giving this repository a star (★) on GitHub to show your support, share feedback, and potentially collaborate on future projects.
 Together we can raise the bar for consistency, automation and resilience in open‑source security tooling.
 
-**© 2025 X99874. All rights reserved.**  
-**Creator & Maintainer:** X99874
+**© 2025 secwexen. All rights reserved.**  
+**Creator & Maintainer:** secwexen
