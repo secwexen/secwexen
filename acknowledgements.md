@@ -19,7 +19,7 @@ Project repositorys stands on the shoulders of many excellent open‑source effo
 * My everyone who follows, supports, and encourages me and network of collaborators who have supported my pursuit of cybersecurity excellence — from ISO/OSCP preparation to building secure tooling and lab environments.
 * My lab environment (hardware like Raspberry Pi, Flipper Zero, HackRF, Proxmark3, etc) and the real‑world challenges I’ve explored — each one has ultimately driven improvements to the configuration, scripts and principles captured here.
 
-## License & Philosophy
+## Philosophy
 
 I believe that security is more than just code — it’s a mindset of understanding systems end‑to‑end (attack, defense, detection, response), and automation is just one tool in that journey.
 
