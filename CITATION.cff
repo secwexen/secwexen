@@ -2,18 +2,24 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "secwexen"
 version: "1.0.1"
-date-released: 2025-11-22
+date-released: "2025-12-25"
 
 authors:
-  - names: "secwexen"
-    affiliation: "CyberSecurity & Ethical Hacking Expert"
+  - name: "secwexen"
+    affiliation: "Cybersecurity & Ethical Hacking Expert"
 
 repository-code: "https://github.com/secwexen/secwexen"
 url: "https://secwexen.github.io/Secwexen/"
+
 contact:
   - name: "secwexen"
 
-abstract: "secwexen is a Python-based toolkit for cybersecurity research, ethical hacking practices, threat intelligence, and SIEM automation. It provides modular scripts and documentation to support both academic research and professional security operations."
+abstract: >
+  Personal repository of a Cybersecurity & Ethical Hacking Expert providing Linux
+  configuration files, security-focused scripts, automation utilities, and
+  documentation. Designed to enhance efficiency, resilience, and security in
+  development environments. Includes Python-based tools for threat intelligence,
+  SIEM optimization, and ethical hacking research.
 
 keywords:
   - cybersecurity
@@ -22,12 +28,14 @@ keywords:
   - SIEM
   - Python
   - automation
+  - security scripts
+  - Linux configuration
 
 preferred-citation:
   type: article
-  title: "secwexen: Python Tools for Ethical Hacking, Threat Detection, and SIEM Automation"
+  title: "secwexen: Security-Focused Scripts, Automation Tools, and Ethical Hacking Resources"
   authors:
-    - name: ""
+    - name: "secwexen"
   year: 2025
   journal: "GitHub Repository"
   url: "https://github.com/secwexen/secwexen"
