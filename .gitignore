@@ -1,75 +1,67 @@
-# Backup / temp files
+# BACKUP & TEMPORARY FILES
 *.bak
 *.tmp
 *.old
 *.save
 
-# Log files
+# LOG FILES
 *.log
-*.tmp
-*.bak
 logs/
 
-# Editor / IDE folders
+# EDITOR / IDE CONFIGURATION
 .vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
 *.code-workspace
 
-# Swap and lock files (Linux)
+# SWAP & LOCK FILES (LINUX)
 *.swp
 *.lock
 
-# Environment / secrets
+# ENVIRONMENT VARIABLES & SECRETS
 .env
 *.env
 .env.local
 .env.*.local
 
-# Build / output 
+# BUILD / OUTPUT DIRECTORIES
 build/
 dist/
 out/
 
-# Python cache 
+# PYTHON CACHE & BYTECODE
 __pycache__/
 *.py[cod]
 
-# Node.js dependencies 
+# NODE.JS DEPENDENCIES (if used)
 node_modules/
 
-# Misc
-*.dmp
-
-# System files
+# SYSTEM FILES
 .DS_Store
 Thumbs.db
 
-# Archives and compressed files
+# ARCHIVES & COMPRESSED FILES
 *.zip
 *.tar
 *.gz
 *.7z
 
-# Compiled binaries
+# COMPILED BINARIES
 *.exe
 *.dll
 *.so
 *.out
 *.class
 
-# Coverage and reports
+# COVERAGE & TEST REPORTS
 coverage/
 *.lcov
 
-# Package manager artifacts
-*.lock
-
-# Temporary test files
+# TEMPORARY TEST FILES
 *.test
 *.spec
 
-# Cache directories
+# CACHE DIRECTORIES
 .cache/
 tmp/
