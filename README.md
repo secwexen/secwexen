@@ -170,7 +170,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 ---
 
 ⭐ **If you find my projects useful, don't forget to give them a star!**  
-👥 **Also, consider following me** to stay updated with my latest cybersecurity tools and writeups.  
+👥 **Also, consider following me** to stay updated on my latest cybersecurity tools and write-ups.  
 🤝 **For collaboration or inquiries, please reach out via my portfolio or GitHub.**  
 
 Thanks for visiting my profile! 🚀  
