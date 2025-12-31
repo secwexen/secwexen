@@ -192,7 +192,7 @@ Thanks for visiting my profile! 🚀
 
 ---
 
-© 2025 secwexen — All Rights Reserved.     
+© 2026 secwexen — All Rights Reserved.     
 
 ---
 
