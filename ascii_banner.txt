@@ -27,9 +27,9 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝ 
             
 ───────────────────────────────────────────────────────────────
-   ▓▓  Safeguarding Digital Assets Since 2022
-   ▓▓  Proactive Risk Mitigation & Vulnerability Assessment
-   ▓▓  Ethical Hacking & Adversarial Simulation
-   ▓▓  Python Automation & Threat Intelligence Tools
-   ▓▓  SIEM Optimization & Intelligent Defense Solutions
+       Safeguarding Digital Assets Since 2022
+       Proactive Risk Mitigation & Vulnerability Assessment
+       Ethical Hacking & Adversarial Simulation
+       Python Automation & Threat Intelligence Tools
+       SIEM Optimization & Intelligent Defense Solutions
 ───────────────────────────────────────────────────────────────
