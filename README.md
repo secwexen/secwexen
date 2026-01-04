@@ -49,19 +49,11 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Malware Analysis & Reverse Engineering
 - Incident Response & Digital Forensics
 - Threat Hunting & OSINT Investigation
-- Social Engineering (Attack Simulations & Defense Strategies)
 - Secure Software Development (Rust, Python, Bash, C)
-- Network Protocol Analysis (Wireshark, Scapy)
 - Container & Cloud Security (Docker, Kubernetes, AWS, Azure, GCP)
-- Secure Coding Practices & Code Auditing
-- Automation & Tool Development for Pentesting
 - Red Team Simulation & Adversarial Behavior Analysis
-- Building & Hosting CTF Challenges
-- Advanced Threat Modeling & Risk Assessment
-- Zero Trust Architecture Design & Implementation
 - Firmware & Hardware Security Analysis (UEFI, JTAG, SPI)
 - Security Research & Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
-- Security Automation with CI/CD (GitHub Actions, GitLab CI, Jenkins)
 
 ---
 
