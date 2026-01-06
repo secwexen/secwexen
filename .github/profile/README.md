@@ -149,7 +149,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 - **Research Notes:** [https://github.com/secwexen/secwexen/tree/main/reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
 - **GitHub:** [https://github.com/secwexen](https://github.com/secwexen)
 - **Gist:** [https://gist.github.com/secwexen](https://gist.github.com/secwexen)
-- **PGP Public Key:** `Coming soon — for secure communication and verification`
+- **PGP Public Key:** Coming soon — for secure communication and verification
 
 ---
 
