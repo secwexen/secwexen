@@ -142,12 +142,13 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Contact Details & Links
 
-- **Website:** [https://secwexen.github.io/secwexen/](https://secwexen.github.io/secwexen/)
+- **Website:** [https://secwexen.github.io/secwexen/](https://secwexen.github.io/)
 - **Email:** Coming soon
-- **Portfolio:** [https://secwexen.github.io/secwexen/](https://secwexen.github.io/secwexen/)
+- **Portfolio:** [https://secwexen.github.io/secwexen/](https://secwexen.github.io/)
 - **CTF Writeups & Labs:** [https://github.com/secwexen/secwexen/tree/main/portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
 - **Research Notes:** [https://github.com/secwexen/secwexen/tree/main/reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
 - **GitHub:** [https://github.com/secwexen](https://github.com/secwexen)
+- **Gist:** [https://gist.github.com/secwexen](https://gist.github.com/secwexen)
 - **PGP Public Key:** `Coming soon — for secure communication and verification`
 
 ---
