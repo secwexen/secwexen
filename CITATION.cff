@@ -2,14 +2,14 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "secwexen"
 version: "1.0.1"
-date-released: "2025-12-25"
+date-released: "2026-01-06"
 
 authors:
   - name: "secwexen"
     affiliation: "Cybersecurity & Ethical Hacking Expert"
 
 repository-code: "https://github.com/secwexen/secwexen"
-url: "https://secwexen.github.io/Secwexen/"
+url: "https://secwexen.github.io/"
 
 contact:
   - name: "secwexen"
