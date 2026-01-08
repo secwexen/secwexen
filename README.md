@@ -33,10 +33,9 @@ My goal is to master every domain of cybersecurity — from threat intelligence 
 
 ## Why Cybersecurity?
 
-Because every system hides a story — of trust, logic, and flaws.  
-Exploring these layers isn't just about breaking things;  
-it's about understanding how they fail and how to make them stronger.  
-I believe true security comes from curiosity, ethics, and persistence.
+Cybersecurity is essential for the stability of modern digital systems.  
+Understanding how systems work, where they fail, and how to strengthen them is key to building secure and resilient infrastructures.  
+My focus is to achieve this through engineering, analysis, and continuous research. 
 
 ---
 
