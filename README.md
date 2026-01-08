@@ -114,11 +114,14 @@ Planned certifications and academic milestones include:
 
 ## Projects
 
-### **Obscuron — Stealth-Grade Cybersecurity Framework**
-A modular platform for red teams, analysts, and responders.  
-Provides system analysis, memory forensics, and controlled offensive operations.  
-**Status:** Actively maintained  
-**Version:** v1.0.0
+### Obscuron — Cybersecurity Framework
+
+A modular cybersecurity framework designed for analysts, red teams, and DFIR specialists.  
+Provides system analysis, memory forensics, and controlled offensive operations.
+
+**Status:** Active  
+**Version:** v1.0.0  
+**Language:** Python  
 
 ---
 
