@@ -187,7 +187,7 @@ Thanks for visiting my profile!
 ---
 
 © 2026 secwexen.  
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the MIT License.  
 
 ---
 
