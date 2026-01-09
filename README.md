@@ -186,8 +186,4 @@ Thanks for visiting my profile!
 
 ---
 
-© 2026 secwexen — All Rights Reserved.     
-
----
-
 Disclaimer: All tools and research in this project have been developed solely for educational and ethical purposes, and any misuse is strictly prohibited.
