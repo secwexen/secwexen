@@ -25,12 +25,30 @@ abstract: >
 keywords:
   - cybersecurity
   - ethical hacking
+  - penetration testing
+  - vulnerability assessment
   - threat intelligence
+  - malware analysis
+  - reverse engineering
+  - digital forensics
+  - DFIR
+  - OSINT
   - SIEM
+  - security automation
   - Python
-  - automation
-  - security scripts
-  - Linux configuration
+  - Rust
+  - Bash
+  - Linux security
+  - system hardening
+  - security tools
+  - pentesting tools
+  - security research
+  - cloud security
+  - container security
+  - red team
+  - blue team
+  - adversary simulation
+  - exploit development
 
 preferred-citation:
   type: article
