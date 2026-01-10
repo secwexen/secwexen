@@ -119,7 +119,7 @@ A modular cybersecurity framework designed for analysts, red teams, and DFIR spe
 Provides system analysis, memory forensics, and controlled offensive operations.
 
 **Status:** Active  
-**Version:** v1.0.0   
+**Access:** Private access   
 
 ---
 
