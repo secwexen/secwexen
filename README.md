@@ -186,7 +186,7 @@ Thanks for visiting my profile!
 
 ---
 
-© 2026 secwexen. All rights reserved.  
+© 2026 secwexen. All Rights Reserved.  
 
 ---
 
