@@ -126,7 +126,7 @@ Provides system analysis, memory forensics, and controlled offensive operations.
 ## Achievements & Contributions  
 
 - Conducted research in network security and developed new vulnerability scenarios.  
-- Developed new Rust modules for the open-source security tool **“Obscuron.”**  
+- Developed new Rust modules for the open-source security tool **“Obscuron”**.  
 - Published **technical research notes** on malware reverse engineering and network protocol analysis.  
 - Performed **vulnerability assessments** and created **Proof of Concept (PoC) exploits** in controlled lab environments.  
 - Designed and hosted **CTF challenges** adopted by local cybersecurity communities.  
