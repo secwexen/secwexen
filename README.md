@@ -177,7 +177,7 @@ Thanks for visiting my profile!
 - Studying advanced malware analysis and reverse engineering  
 - Preparing for **OSCP** certification  
 - Building new **CTF challenges** for Red Team simulations  
-- I am experimenting with **threat-hunting automation** and **SIEM data analysis.**
+- I am experimenting with **threat-hunting automation** and **SIEM data analysis**
 
 ---
 
