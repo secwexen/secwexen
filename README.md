@@ -113,13 +113,13 @@ Planned certifications and academic milestones include:
 
 ## Projects
 
-### Obscuron — Cybersecurity Framework
+### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Engine** 
 
-A modular cybersecurity framework designed for analysts, red teams, and DFIR specialists.  
-Provides system analysis, memory forensics, and controlled offensive operations.
+AI‑driven framework for predicting attack paths and simulating them with autonomous red‑team agents.  
+Designed for continuous security testing and adversarial analysis.  
 
 **Status:** Active  
-**Visibility:** Private repository   
+**Repository:** [secwexen/aappmart](https://github.com/secwexen/aappmart)  
 
 ---
 
