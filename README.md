@@ -113,7 +113,7 @@ Planned certifications and academic milestones include:
 
 ## Projects
 
-### **AAPP‑MART — AI Autonomous Attack Path Prediction & Multi‑Agent Red Team Engine** 
+### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Engine** 
 
 AI‑driven framework for predicting attack paths and simulating them with autonomous red‑team agents.  
 Designed for continuous security testing and adversarial analysis.  
