@@ -118,7 +118,6 @@ Planned certifications and academic milestones include:
 AI‑driven framework for predicting attack paths and simulating them with autonomous red‑team agents.  
 Designed for continuous security testing and adversarial analysis.  
 
-**Status:** Active  
 **Repository:** [secwexen/aappmart](https://github.com/secwexen/aappmart)  
 
 ---
