@@ -97,7 +97,6 @@ Specialized hardware used strictly in controlled lab environments for ethical re
 Planned certifications and academic milestones include:
 
 - **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
-- **Certified Ethical Hacker (CEH)** – Ethical hacking methodologies and threat analysis  
 - **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
 - **CISSP – Certified Information Systems Security Professional**
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
