@@ -3,7 +3,6 @@ message: "If you use this software, please cite it as below."
 title: "secwexen"
 version: "1.0.0"
 date-released: "2026-01-09"
-license: "MIT"
 
 authors:
   - name: "secwexen"
