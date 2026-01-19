@@ -62,7 +62,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Threat Hunting & OSINT Investigation
 - Detection Engineering (Sigma, SPL, KQL)
 - MITRE ATT&CK mapping & adversary emulation
-- Detection bypass analysis → rule improvement
+- Detection Evasion Analysis for Rule Improvement
 
 ---
 
