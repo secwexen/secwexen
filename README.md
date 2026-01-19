@@ -108,7 +108,7 @@ Planned certifications and academic milestones include:
 
 - **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
 - **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
-- **CISSP – Certified Information Systems Security Professional**
+- **CISSP – Certified Information Systems Security Professional** - Enterprise security expertise  
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 
 ---
