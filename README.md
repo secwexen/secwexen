@@ -16,18 +16,30 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 ---
 
-## TL;DR
+## Quick Signal
 
-🔐 Cybersecurity Expert  
-🛠 Offensive & Defensive Security  
-🐍 Python • 🦀 Rust • 🐧 Linux  
-🎯 Pentesting • Malware Analysis • DFIR  
+- 🧪 Hands-on DFIR, Malware Analysis & Red Team labs
+- 🦀 Security tooling development with Rust & Python
+- 🔍 Threat Hunting, SIEM & Detection Engineering
+- 🎯 Focus: adversarial simulation and detection bypass → improvement
 
 ---
 
 ## Vision
 
-My goal is to master every domain of cybersecurity — from threat intelligence to digital forensics, protocol analysis to security automation. I believe true expertise comes from understanding the full spectrum: attack, defense, detection, and response. I build tools, study behaviors, and explore systems to uncover how security truly works — end to end.
+### Primary Focus
+Detection Engineering & Threat Hunting with strong Red Team background.
+
+All offensive research is used to improve detection, response, and resilience.
+
+I focus on understanding the full attack lifecycle — from adversary tradecraft to detection and response — and on building tools and workflows that improve real-world defensive capabilities.
+
+---
+
+### How I Think
+- I break systems to understand how to defend them
+- I enjoy turning attacker techniques into detection logic
+- Every exploit is a detection opportunity
 
 ---
 
@@ -48,11 +60,9 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Malware Analysis & Reverse Engineering
 - Incident Response & Digital Forensics
 - Threat Hunting & OSINT Investigation
-- Secure Software Development (Rust, Python, Bash, C)
-- Container & Cloud Security (Docker, Kubernetes, AWS, Azure, GCP)
-- Red Team Simulation & Adversarial Behavior Analysis
-- Firmware & Hardware Security Analysis (UEFI, JTAG, SPI)
-- Security Research & Exploit Development for Emerging Technologies (IoT, ICS/SCADA)
+- Detection Engineering (Sigma, SPL, KQL)
+- MITRE ATT&CK mapping & adversary emulation
+- Detection bypass analysis → rule improvement
 
 ---
 
@@ -118,6 +128,17 @@ AI‑driven framework for predicting attack paths and simulating them with auton
 Designed for continuous security testing and adversarial analysis.  
 
 **Visit Repository:** [secwexen/aappmart](https://github.com/secwexen/aappmart)  
+
+---
+
+## Hands-on Labs & Proof of Work
+
+| Area | Repository | What it Shows |
+|-----|-----------|---------------|
+| Adversary Simulation | enterprise-attack-simulator | Simulation framework leveraging MITRE ATT&CK techniques |
+| Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
+| DFIR Utility | security-incident-artifact-analyzer | DFIR triage tool for common artifacts (Sysmon, registry, browser history) |
+| Toolset | secwexen-toolkit | Collection of offensive/defensive automation tools (Python, Rust, Bash, PowerShell) |
 
 ---
 
