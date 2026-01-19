@@ -21,7 +21,7 @@ By integrating security and software engineering, I deliver efficient, resilient
 - 🧪 Hands-on DFIR, Malware Analysis & Red Team labs
 - 🦀 Security tooling development with Rust & Python
 - 🔍 Threat Hunting, SIEM & Detection Engineering
-- 🎯 Focus: adversarial simulation and detection bypass → improvement
+- 🎯 Focus: adversarial simulation and detection bypass leading to improvement
 
 ---
 
