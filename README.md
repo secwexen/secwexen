@@ -25,9 +25,8 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 ---
 
-## Vision
+## Primary Focus
 
-### Primary Focus
 Detection Engineering & Threat Hunting with strong Red Team background.
 
 All offensive research is used to improve detection, response, and resilience.
@@ -36,7 +35,7 @@ I focus on understanding the full attack lifecycle — from adversary tradecraft
 
 ---
 
-### How I Think
+## How I Think
 - I break systems to understand how to defend them
 - I enjoy turning attacker techniques into detection logic
 - Every exploit is a detection opportunity
