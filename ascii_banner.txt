@@ -1,5 +1,5 @@
 ├───────────────────────────────────────────────┤
-│ C:\Users\SECWEXEN>_                           │
+│ kalilinux@secwexen:~$                         │
 │                                               │
 │ [██████████░░░░░░░░░░░░░░░] 58%               │
 │ Connecting to Cyber Defense Network...        │
