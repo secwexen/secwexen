@@ -1,23 +1,33 @@
+───────────────────────────────────────────────────────────────
+  SYSTEM : SECWEXEN TERMINAL v4.1
+  USER   : kalilinux@secwexen
+  STATUS : ACTIVE MONITORING — ALL SYSTEMS NOMINAL
+───────────────────────────────────────────────────────────────
+
+[██████████████████████░░░░] 84%
+
+• Initializing Threat Analysis Engine...
+• Loading Syslog & Journalctl Streams...
+• Parsing iptables / nftables Events...
+• Syncing Threat Feeds via curl + rsync...
+• Establishing Encrypted SSH Tunnel...
+• Verifying Kernel Modules & Signatures...
+• Activating Zero‑Day Scanner...
+• Starting Anomaly Detection Engine...
+• Deploying Network Sensor Grid...
+
+───────────────────────────────────────────────────────────────
+  Kernel Integrity.............. OK
+  Monitoring Status............. ACTIVE
+  Threat Feed................... ONLINE
+  SELinux Enforcement........... ENABLED
+  Network Sensors............... SYNCED
+  Behavioral AI Engine.......... RUNNING
+───────────────────────────────────────────────────────────────
+
 ┌───────────────────────────────────────────────┐
 │ kalilinux@secwexen:~$                         │
-│                                               │
-│ [██████████████░░░░░░░░░░░] 72%               │
-│ Connecting to Cyber Defense Network...        │
-│ Initializing Threat Analysis Module...        │
-│ Loading Syslog Streams...                     │
-│ Parsing iptables Events...                    │
-│ Updating Threat Feeds via curl...             │
-│ Establishing SSH Tunnel...                    │
-│ Verifying Kernel Modules...                   │
-│                                               │
-│ Kernel Integrity: ██████████ 100%             │
-│ Active Monitoring: ██████████ 100%            │
-│ Threat Feed Status: Online                    │
-│ Zero-Day Scanner: Active                      │
-│ Anomaly Detection Engine: Running             │
-│ SELinux Enforcement: Enabled                  │
-│                                               │
-│ > Awaiting Operator Command...                │
+│ > System Ready. Enter Command...              │
 └───────────────────────────────────────────────┘
             
 ─────────────────────────────────────────────────────────────────────────────
