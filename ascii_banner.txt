@@ -1,19 +1,21 @@
 ├───────────────────────────────────────────────┤
 │ kalilinux@secwexen:~$                         │
 │                                               │
-│ [██████████░░░░░░░░░░░░░░░] 58%               │
+│ [██████████████░░░░░░░░░░░] 72%               │
 │ Connecting to Cyber Defense Network...        │
 │ Initializing Threat Analysis Module...        │
-│ Loading SIEM Logs...                          │
-│ Parsing Firewall Events...                    │
-│ Decrypting Intelligence Feed...               │
-│ Establishing Secure Shell Tunnel...           │
+│ Loading Syslog Streams...                     │
+│ Parsing iptables Events...                    │
+│ Updating Threat Feeds via curl...             │
+│ Establishing SSH Tunnel...                    │
+│ Verifying Kernel Modules...                   │
 │                                               │
-│ System Integrity: ██████████ 100%             │
+│ Kernel Integrity: ██████████ 100%             │
 │ Active Monitoring: ██████████ 100%            │
-│ Threat Intelligence Feed: Online              │
+│ Threat Feed Status: Online                    │
 │ Zero-Day Scanner: Active                      │
 │ Anomaly Detection Engine: Running             │
+│ SELinux Enforcement: Enabled                  │
 │                                               │
 │ > Awaiting Operator Command...                │
 └───────────────────────────────────────────────┘
