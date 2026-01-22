@@ -127,7 +127,7 @@ Designed for continuous security testing and adversarial analysis.
 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
 **Tech:** Python, MITRE ATT&CK framework  
-**Visit Repository:** [aappmart](https://github.com/secwexen/aappmart)  
+**GitHub Repository:** [aappmart](https://github.com/secwexen/aappmart)  
 
 ---
 
