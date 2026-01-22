@@ -175,10 +175,10 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Code of Ethics
 
-- All research and experiments are conducted in controlled environments.  
-- I strictly follow responsible disclosure principles.  
-- I do not engage in or endorse illegal activity of any kind.  
-- The goal is always **learning**, **defense**, and **responsible innovation**.
+- All research, simulations, and tools are conducted in **controlled environments** for learning and defensive purposes.
+- **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
+- Tools are **not intended for illegal use**; misuse is strictly prohibited.
+- The goal is always to **enhance detection, improve defenses, and advance security research**.
 
 ---
 
@@ -190,7 +190,7 @@ Thanks for visiting my profile!
 
 ---
 
-## Ongoing Works
+## Current Work & Execution Focus
 
 - Developing Rust-based security tools for automation  
 - Studying advanced malware analysis and reverse engineering  
@@ -206,7 +206,3 @@ Thanks for visiting my profile!
 ---
 
 © 2026 secwexen. All Rights Reserved.  
-
----
-
-Disclaimer: All tools and research in this project have been developed solely for educational and ethical purposes, and any misuse is strictly prohibited.
