@@ -156,7 +156,10 @@ Designed for continuous security testing and adversarial analysis.
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
+- [Visit Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
 - [Visit Blog](https://github.com/secwexen/secwexen/tree/main/blog)
+- [Visit Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
+
 
 ---
 
