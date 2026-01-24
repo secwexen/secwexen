@@ -162,7 +162,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ---
 
-## Contact Details & Links
+## Contact & Professional Links
 
 - **Website:** [https://secwexen.github.io/](https://secwexen.github.io/)
 - **Email:** Coming soon
