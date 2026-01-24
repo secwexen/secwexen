@@ -138,7 +138,7 @@ Designed for continuous security testing and adversarial analysis.
 | Adversary Simulation | enterprise-attack-simulator | Simulation framework leveraging MITRE ATT&CK techniques |
 | Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
 | DFIR Utility | security-incident-artifact-analyzer | DFIR triage tool for common artifacts (Sysmon, registry, browser history) |
-| Toolset | secwexen-toolkit | Collection of offensive/defensive automation tools (Python, Rust, Bash, PowerShell) |
+| Toolset | secwexen-arsenal | Collection of offensive/defensive automation tools (Python, Rust, Bash, PowerShell) |
 
 ---
 
