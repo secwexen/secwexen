@@ -168,10 +168,10 @@ Professional blog entries focused on hardware security, wireless protocol analys
 - **Website:** [Landing / About](https://secwexen.github.io/)
 - **Email:** Coming soon
 - **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen/tree/main/portfolio)
-- **Blog:** [Blog Posts](https://github.com/secwexen/secwexen/tree/main/blog)
-- **Reflections:** [Research Notes](https://github.com/secwexen/secwexen/tree/main/reflections)
+- **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen/tree/main/blog)
+- **Reflections:** [Security Research & Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
 - **GitHub:** [GitHub Profile](https://github.com/secwexen)
-- **Gist:** [Gist Snippets](https://gist.github.com/secwexen)
+- **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** Coming soon — for secure communication and verification
 
 ---
