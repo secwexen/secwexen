@@ -50,7 +50,7 @@ My focus is to achieve this through engineering, analysis, and continuous resear
 
 ---
 
-## Focus Areas & Current Learning Path
+## Focus Areas & Learning Path
 
 I am actively developing expertise across key cybersecurity domains, emphasizing hands-on experience and continuous learning.
 
@@ -197,7 +197,7 @@ Thanks for visiting my profile!
 
 ---
 
-## Current Work & Execution Focus
+## Current Work
 
 - Developing Rust-based security tools for automation  
 - Studying advanced malware analysis and reverse engineering  
