@@ -183,7 +183,7 @@ Professional blog entries focused on hardware security, wireless protocol analys
 - Tools are **not intended for illegal use**; misuse is strictly prohibited.
 - The goal is always to **enhance detection, improve defenses, and advance security research**.
 
-**Legal Disclaimer:** I am **not responsible** for any misuse or illegal use of all content.  
+**Legal Disclaimer:** I am **not responsible** for any misuse or illegal use of any content.  
 The purpose is solely to **enhance detection, improve defenses, and advance cybersecurity research**.
 
 ---
