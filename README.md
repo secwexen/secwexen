@@ -178,13 +178,14 @@ Professional blog entries focused on hardware security, wireless protocol analys
 
 ## Code of Ethics
 
-- All research, simulations, and tools are conducted in **controlled environments** for learning and defensive purposes.
+- **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
 - **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
 - Tools are **not intended for illegal use**; misuse is strictly prohibited.
-- The goal is always to **enhance detection, improve defenses, and advance security research**.
+- The goal is to **enhance detection, improve defenses, and advance security research**.
 
 **Legal Disclaimer:** I am **not responsible** for any misuse or illegal use of any content.  
-The purpose is solely to **enhance detection, improve defenses, and advance cybersecurity research**.
+All materials are provided solely for educational and defensive security purposes, and 
+users are fully responsible for their own actions.  
 
 ---
 
