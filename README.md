@@ -100,9 +100,9 @@ Specialized hardware used strictly in controlled lab environments for ethical re
 
 ---
 
-## Certification Goals & Academic Focus
+## Certification Goals
 
-Planned certifications and academic milestones include:
+Planned certifications include:
 
 - **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
 - **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
