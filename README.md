@@ -153,9 +153,9 @@ Designed for continuous security testing and adversarial analysis.
 
 ---
 
-## Blog, Notes and Research Wiki
+## Security Research & Technical Notes
 
-Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
+Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.  
 
 - [Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
 - [Blog](https://github.com/secwexen/secwexen/tree/main/blog)
