@@ -153,7 +153,7 @@ Designed for continuous security testing and adversarial analysis.
 
 ---
 
-## Blog, Notes, and Research Wiki
+## Blog, Notes and Research Wiki
 
 Professional blog entries focused on hardware security, wireless protocol analysis, and offensive security tooling.
 
