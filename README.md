@@ -207,9 +207,4 @@ Thanks for visiting my profile!
 
 ---
 
-**“Cybersecurity is the discipline that transforms uncertainty into trust, and vigilance into resilience.”**    
-— **secwexen**  
-
----
-
 © 2026 secwexen. All Rights Reserved.  
