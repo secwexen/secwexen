@@ -189,14 +189,6 @@ users are fully responsible for their own actions.
 
 ---
 
-⭐ **If you find my projects useful, don't forget to give them a star!**  
-🔔 **Also, consider following me** to stay updated on my latest cybersecurity tools and write-ups.  
-🤝 **For collaboration or inquiries, please reach out via my portfolio or GitHub.**  
-
-Thanks for visiting my profile!  
-
----
-
 ## Current Work
 
 - Developing Rust-based security tools for automation  
