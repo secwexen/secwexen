@@ -165,7 +165,7 @@ Applied security research and technical notes on hardware security, wireless pro
 
 ## Contact & Professional Links
 
-- **Website:** [Landing / About](https://secwexen.github.io/)
+- **Website:** [About me & Portfolio](https://secwexen.github.io/)
 - **E-mail:** Coming soon
 - **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen/tree/main/portfolio)
 - **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen/tree/main/blog)
