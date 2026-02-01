@@ -127,7 +127,7 @@ Designed for continuous security testing and adversarial analysis.
 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
 **Tech:** Python, MITRE ATT&CK framework  
-**GitHub Repository:** [secwexen/aappmart](https://github.com/secwexen/aappmart)  
+**GitHub Repository:** [secwexen/aapp-mart](https://github.com/secwexen/aapp-mart)  
 
 ---
 
@@ -135,7 +135,7 @@ Designed for continuous security testing and adversarial analysis.
 
 | Area | Repository | What it Shows |
 |-----|-----------|---------------|
-| Autonomous Red Team | aappmart | AI-driven attack path prediction and multi-agent red-team simulation |
+| Autonomous Red Team | aapp-mart | AI-driven attack path prediction and multi-agent red-team simulation |
 | Adversary Simulation | enterprise-attack-simulator | Simulation framework leveraging MITRE ATT&CK techniques |
 | Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
 | DFIR Utility | security-incident-artifact-analyzer | DFIR triage tool for common artifacts (Sysmon, registry, browser history) |
