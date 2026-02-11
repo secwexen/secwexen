@@ -1,8 +1,11 @@
-# Reflection – Tools Tested
+# Tools Tested
 
-Tested:
-- Shodan filters
-- Rust async runtime
-- Basic log parsing in Python
+List of cybersecurity tools I have tested and used in my research:
 
-Notes: need to compare performance differences.
+- Nmap
+- Metasploit
+- Burp Suite
+- Wireshark
+- BloodHound
+- Empire
+- Cobalt Strike
