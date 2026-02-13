@@ -111,13 +111,6 @@ Planned certifications include:
 
 ---
 
-## Languages
-
-- English  
-- German — A1 (Beginner)    
-
----
-
 ## Selected Projects
 
 ### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Framework** 
