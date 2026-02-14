@@ -113,10 +113,10 @@ Planned certifications include:
 
 ## Selected Projects
 
-### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Framework** 
+### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Engine** 
 
-AI‑driven framework for predicting attack paths and simulating them with autonomous red‑team agents.  
-Designed for continuous security testing and adversarial analysis.  
+AI-driven engine for predicting attack paths and simulating them with autonomous red-team agents.  
+Built for continuous security testing, threat modeling, and adversarial analysis.  
 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
 **Tech:** Python, MITRE ATT&CK framework  
