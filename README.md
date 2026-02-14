@@ -132,7 +132,6 @@ Built for continuous security testing, threat modeling, and adversarial analysis
 | Autonomous Red Team | aapp-mart | AI-driven attack path prediction and multi-agent red-team simulation |
 | Adversary Simulation | enterprise-attack-simulator | Simulation framework leveraging MITRE ATT&CK techniques |
 | Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
-| DFIR Utility | security-incident-artifact-analyzer | DFIR triage tool for common artifacts (Sysmon, registry, browser history) |
 | Toolset | secwexen-arsenal | Collection of offensive/defensive automation tools (Python, Rust, Bash, PowerShell) |
 
 ---
