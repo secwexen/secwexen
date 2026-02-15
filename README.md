@@ -78,18 +78,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 ---
 
-## Hardware & Security Toolset
-
-Specialized hardware used strictly in controlled lab environments for ethical research.
-
-- Flipper Zero
-- HackRF One
-- Proxmark3 RDV4
-- WiFi Pineapple
-- Raspberry Pi
-
----
-
 ## Collaboration
 
 - Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)  
@@ -108,6 +96,13 @@ Planned certifications include:
 - **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
 - **CISSP – Certified Information Systems Security Professional** - Enterprise security expertise  
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
+
+---
+
+## Languages
+
+- English  
+- German    
 
 ---
 
