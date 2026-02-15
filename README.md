@@ -101,8 +101,7 @@ Planned certifications include:
 
 ## Languages
 
-- English  
-- German    
+- English   
 
 ---
 
