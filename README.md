@@ -31,7 +31,9 @@ Detection Engineering & Threat Hunting with strong Red Team background.
 
 All offensive research is used to improve detection, response, and resilience.
 
-I focus on understanding the full attack lifecycle — from adversary tradecraft to detection and response — and on building tools and workflows that improve real-world defensive capabilities.
+I focus on understanding the full attack lifecycle — from adversary tradecraft to detection and response — and on building tools and workflows that improve real-world defensive capabilities.  
+
+I design and operate controlled adversary infrastructure simulations to validate detection engineering assumptions, telemetry coverage, and adversarial visibility gaps.
 
 ---
 
