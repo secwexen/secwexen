@@ -111,11 +111,12 @@ Planned certifications include:
 
 ### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Engine** 
 
-AI-driven engine for predicting attack paths and simulating them with autonomous red-team agents.  
-Built for continuous security testing, threat modeling, and adversarial analysis.  
+AI‑driven offensive security engine that predicts attack paths and simulates adversarial behavior using autonomous red‑team agents. 
+Built for continuous security testing, adversary emulation, and high‑fidelity attack graph analysis.
 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
-**Tech:** Python, MITRE ATT&CK framework  
+**Tech:** Python, MITRE ATT&CK, autonomous agents  
+**Capabilities:** Multi-agent simulation, attack graph generation, risk scoring  
 **Official Site:** [AAPP-MART](https://secwexen.github.io/aapp-mart/)  
 **GitHub Repository:** [secwexen/aapp-mart](https://github.com/secwexen/aapp-mart)  
 
