@@ -1,4 +1,5 @@
 # Documentation Overview
+
 This directory provides high-level documentation for the **secwexen/secwexen** repository.
 
 This repository is **not a software project**.  
@@ -11,6 +12,7 @@ Published, curated, and reader-facing content is intentionally hosted on GitHub 
 ---
 
 ## Purpose
+
 The purpose of this directory is to:
 
 - Clarify the intent and scope of the repository
@@ -20,6 +22,7 @@ The purpose of this directory is to:
 ---
 
 ## Scope and Separation
+
 A deliberate separation is maintained between content types:
 
 | Area | Description |
@@ -33,6 +36,7 @@ This separation ensures a **single source of publication** while keeping the rep
 ---
 
 ## Notes
+
 This directory:
 - Is not a blog
 - Is not a second documentation site
