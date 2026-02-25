@@ -3,6 +3,7 @@
 # Cybersecurity & Ethical Hacking Expert
 
 ## About Me
+
 I am a cybersecurity expert specializing in **ethical hacking, digital defense, and vulnerability assessment**.  
 My primary focus is on proactively identifying and mitigating risks before they can be exploited by malicious actors.  
 I am strongly committed to safeguarding digital assets and anticipating adversarial tactics to remain one step ahead.  
@@ -16,6 +17,7 @@ By integrating security and software engineering, I deliver efficient, resilient
 ---
 
 ## Quick Signal
+
 - Hands-on DFIR, Malware Analysis & Red Team labs
 - Security tooling development with Rust & Python
 - Threat Hunting, SIEM & Detection Engineering
@@ -24,6 +26,7 @@ By integrating security and software engineering, I deliver efficient, resilient
 ---
 
 ## Primary Focus
+
 Detection Engineering & Threat Hunting with strong Red Team background.
 
 All offensive research is used to improve detection, response, and resilience.
@@ -35,6 +38,7 @@ I design and operate controlled adversary infrastructure simulations to validate
 ---
 
 ## How I Think
+
 - I break systems to understand how to defend them
 - I enjoy turning attacker techniques into detection logic
 - Every exploit is a detection opportunity
@@ -42,6 +46,7 @@ I design and operate controlled adversary infrastructure simulations to validate
 ---
 
 ## Why Cybersecurity?
+
 Cybersecurity is essential for the stability of modern digital systems.  
 Understanding how systems work, where they fail, and how to strengthen them is key to building secure and resilient infrastructures.  
 My focus is to achieve this through engineering, analysis, and continuous research. 
@@ -49,6 +54,7 @@ My focus is to achieve this through engineering, analysis, and continuous resear
 ---
 
 ## Focus Areas & Learning Path
+
 I am actively developing expertise across key cybersecurity domains, emphasizing hands-on experience and continuous learning.
 
 - Penetration Testing (Web, Network, Wireless)
@@ -63,6 +69,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 ---
 
 ## **Skills Matrix**
+
 | Category | Tools / Technologies |
 |---------|----------------------|
 | **Offensive Security** | Metasploit, Burp Suite, Nmap, SQLMap, Hydra, Gobuster |
@@ -75,6 +82,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 ---
 
 ## Collaboration
+
 - Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)  
 - Real-world penetration testing scenarios (Web, Network, Wireless)  
 - Malware analysis, unpacking, and reverse engineering  
@@ -84,6 +92,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 ---
 
 ## Certification Goals
+
 Planned certifications include:
 
 - **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
@@ -94,6 +103,7 @@ Planned certifications include:
 ---
 
 ## Languages
+
 - English   
 
 ---
@@ -114,6 +124,7 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 ---
 
 ## Hands-on Labs & Proof of Work
+
 | Area | Repository | What it Shows |
 |-----|-----------|---------------|
 | Autonomous Red Team | aapp-mart | AI-driven attack path prediction and multi-agent red-team simulation |
@@ -124,6 +135,7 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 ---
 
 ## Achievements & Contributions  
+
 - Conducted research in network security and developed new vulnerability scenarios.  
 - Developed new Python modules for the open-source security tool **“AAPP-MART”**.  
 - Published **technical research notes** on malware reverse engineering and network protocol analysis.  
@@ -133,6 +145,7 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 ---
 
 ## Security Research & Technical Notes
+
 Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.  
 
 - [Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
@@ -142,6 +155,7 @@ Applied security research and technical notes on hardware security, wireless pro
 ---
 
 ## Contact & Professional Links
+
 - **Website:** [About Me & Portfolio](https://secwexen.github.io/)
 - **E-mail:** Coming soon
 - **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen/tree/main/portfolio)
@@ -154,6 +168,7 @@ Applied security research and technical notes on hardware security, wireless pro
 ---
 
 ## Code of Ethics
+
 - **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
 - **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
 - Tools are **not intended for illegal use**; misuse is strictly prohibited.
@@ -166,6 +181,7 @@ users are fully responsible for their own actions.
 ---
 
 ## Current Work
+
 - Developing Rust-based security tools for automation  
 - Studying advanced malware analysis and reverse engineering  
 - Preparing for **OSCP** certification  
