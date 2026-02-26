@@ -14,16 +14,12 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 **I've been pursuing this journey with passion since 2022.**  
 
----
-
 ## Quick Signal
 
 - Hands-on DFIR, Malware Analysis & Red Team labs
 - Security tooling development with Rust & Python
 - Threat Hunting, SIEM & Detection Engineering
 - Focus: adversarial simulation and detection bypass leading to improvement
-
----
 
 ## Primary Focus
 
@@ -35,23 +31,17 @@ I focus on understanding the full attack lifecycle — from adversary tradecraft
 
 I design and operate controlled adversary infrastructure simulations to validate detection engineering assumptions, telemetry coverage, and adversarial visibility gaps.
 
----
-
 ## How I Think
 
 - I break systems to understand how to defend them
 - I enjoy turning attacker techniques into detection logic
 - Every exploit is a detection opportunity
 
----
-
 ## Why Cybersecurity?
 
 Cybersecurity is essential for the stability of modern digital systems.  
 Understanding how systems work, where they fail, and how to strengthen them is key to building secure and resilient infrastructures.  
 My focus is to achieve this through engineering, analysis, and continuous research. 
-
----
 
 ## Focus Areas & Learning Path
 
@@ -66,8 +56,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - MITRE ATT&CK mapping & adversary emulation
 - Detection Evasion Analysis for Rule Improvement
 
----
-
 ## **Skills Matrix**
 
 | Category | Tools / Technologies |
@@ -79,8 +67,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 | **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, GCP |
 | **Operating Systems** | Kali Linux, Parrot OS, Arch Linux, Ubuntu, WSL, Windows Server |
 
----
-
 ## Collaboration
 
 - Designing and hosting CTF challenges (Jeopardy & Attack-Defense style)  
@@ -88,8 +74,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Malware analysis, unpacking, and reverse engineering  
 - Secure coding and auditing in Rust, Python, and Bash  
 - Contributing to open-source cybersecurity tools and red team utilities 
-
----
 
 ## Certification Goals
 
@@ -100,13 +84,9 @@ Planned certifications include:
 - **CISSP – Certified Information Systems Security Professional** - Enterprise security expertise  
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
 
----
-
 ## Languages
 
 - English   
-
----
 
 ## Selected Projects
 
@@ -121,8 +101,6 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 **Official Site:** [AAPP-MART](https://secwexen.github.io/aapp-mart/)  
 **GitHub Repository:** [secwexen/aapp-mart](https://github.com/secwexen/aapp-mart)  
 
----
-
 ## Hands-on Labs & Proof of Work
 
 | Area | Repository | What it Shows |
@@ -132,8 +110,6 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 | Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
 | Toolset | secwexen-arsenal | Collection of offensive/defensive automation tools (Python, Rust, Bash, PowerShell) |
 
----
-
 ## Achievements & Contributions  
 
 - Conducted research in network security and developed new vulnerability scenarios.  
@@ -142,8 +118,6 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 - Performed **vulnerability assessments** and created **Proof of Concept (PoC) exploits** in controlled lab environments.  
 - Designed and hosted **CTF challenges** adopted by local cybersecurity communities.  
 
----
-
 ## Security Research & Technical Notes
 
 Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.  
@@ -151,8 +125,6 @@ Applied security research and technical notes on hardware security, wireless pro
 - [Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
 - [Blog](https://github.com/secwexen/secwexen/tree/main/blog)
 - [Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
-
----
 
 ## Contact & Professional Links
 
@@ -165,8 +137,6 @@ Applied security research and technical notes on hardware security, wireless pro
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** Coming soon  
 
----
-
 ## Code of Ethics
 
 - **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
@@ -177,8 +147,6 @@ Applied security research and technical notes on hardware security, wireless pro
 **Legal Disclaimer:** I am **not responsible** for any misuse or illegal use of any content.  
 All materials are provided solely for educational and defensive security purposes, and 
 users are fully responsible for their own actions.  
-
----
 
 ## Current Work
 
@@ -193,7 +161,5 @@ users are fully responsible for their own actions.
 ⭐ If you find my projects useful, consider giving them a star.  
 🔔 You may follow for updates on new tools and research.  
 🤝 For professional collaboration and technical work, feel free to reach out via GitHub.  
-
----
 
 © 2026 secwexen. All Rights Reserved.  
