@@ -5,8 +5,6 @@
 This blog is a curated space where I document my continuous growth in cybersecurity, ethical hacking, and technical research.  
 My goal is to share clear, structured, and practical knowledge that helps both beginners and experienced professionals navigate real-world security challenges.
 
----
-
 ## **What You’ll Find Here**
 
 ### **• Security Tutorials**  
@@ -24,14 +22,10 @@ Insights from personal experiments, OSINT investigations, threat intelligence st
 ### **• Ethical Hacking Practices**  
 A strong focus on responsible testing, safe lab environments, and non-destructive experimentation.
 
----
-
 ## **My Approach**
 
 I combine hands‑on experimentation with continuous learning.  
 Every post aims to turn complex cybersecurity concepts into practical, actionable knowledge — always with an ethical mindset.
-
----
 
 ## **Join the Journey**
 
