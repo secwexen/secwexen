@@ -160,7 +160,6 @@ users are fully responsible for their own actions.
 
 ⭐ If you find my projects useful, consider giving them a star.  
 🔔 You may follow for updates on new tools and research.  
-🤝 For professional collaboration and technical work, feel free to reach out via GitHub.  
 
 ---
 
