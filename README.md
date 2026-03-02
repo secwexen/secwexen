@@ -162,4 +162,4 @@ users are fully responsible for their own actions.
 🔔 You may follow for updates on new tools and research.  
 🤝 For professional collaboration and technical work, feel free to reach out via GitHub.  
 
-© 2026 secwexen. All Rights Reserved.  
+Copyright © 2026 secwexen. All Rights Reserved.  
