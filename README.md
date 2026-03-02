@@ -2,7 +2,7 @@
 
 # Cybersecurity & Ethical Hacking Expert
 
-## About Me
+## About
 
 I am a cybersecurity expert specializing in **ethical hacking, digital defense, and vulnerability assessment**.  
 My primary focus is on proactively identifying and mitigating risks before they can be exploited by malicious actors.  
