@@ -115,9 +115,9 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 
 Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.  
 
-- [Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio)
-- [Blog](https://github.com/secwexen/secwexen/tree/main/blog)
-- [Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
+- [Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio) – CTF writeups & labs
+- [Blog](https://github.com/secwexen/secwexen/tree/main/blog) – Technical articles
+- [Reflections](https://github.com/secwexen/secwexen/tree/main/reflections) – Personal insights on security
 
 ## Contact & Professional Links
 
