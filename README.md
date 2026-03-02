@@ -79,14 +79,9 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 Planned certifications include:
 
-- **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development  
-- **GIAC Security Essentials (GSEC)** – Foundational security concepts and enterprise defense    
+- **Offensive Security Certified Professional (OSCP)** – Advanced penetration testing and exploit development    
 - **CISSP – Certified Information Systems Security Professional** - Enterprise security expertise  
-- **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition
-
-## Languages
-
-- English   
+- **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition 
 
 ## Selected Projects
 
