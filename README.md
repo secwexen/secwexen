@@ -149,7 +149,7 @@ users are fully responsible for their own actions.
 - Building new **CTF challenges** for Red Team simulations  
 - I am experimenting with **threat-hunting automation** and **SIEM data analysis**
 
-## Support & Connect
+## Support
 
 ⭐ If you find my projects useful, you can support them by giving a star.  
 🔔 Follow my profile to stay informed about new updates and announcements.  
