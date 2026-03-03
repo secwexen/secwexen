@@ -156,4 +156,4 @@ users are fully responsible for their own actions.
 
 ---
 
-Copyright © 2026 secwexen. All Rights Reserved.  
+Copyright © 2025-2026 secwexen. All Rights Reserved.  
