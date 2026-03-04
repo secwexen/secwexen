@@ -7,7 +7,7 @@ This repository provides a PGP public key for private, encrypted personal commun
 If you need to share confidential or sensitive information with me, you may use the following PGP public key:
 
 - Public Key: `/security/pgp.asc`
-- Fingerprint: `Coming Soon`
+- Fingerprint: Coming Soon
 
 ## Scope
 
