@@ -128,7 +128,7 @@ Applied security research and technical notes on hardware security, wireless pro
 - **Reflections:** [Security Research & Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
 - **GitHub:** [GitHub Profile](https://github.com/secwexen)
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
-- **PGP Public Key:** [Download](https://secwexen.github.io/pgp.asc)
+- **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
 
 ## Code of Ethics
 
