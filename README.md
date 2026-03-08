@@ -130,7 +130,7 @@ Applied security research and technical notes on hardware security, wireless pro
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
 
-## Code of Ethics
+## Code of Ethics & Legal
 
 - **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
 - **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
