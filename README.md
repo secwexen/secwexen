@@ -81,7 +81,7 @@ Planned certifications include:
 - **CISSP – Certified Information Systems Security Professional** - Enterprise security expertise  
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition 
 
-## Selected Projects
+## Key Projects
 
 ### **AAPP‑MART — Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Engine** 
 
