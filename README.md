@@ -91,7 +91,7 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
 **Tech:** Python, MITRE ATT&CK, autonomous agents  
 **Capabilities:** Multi-agent simulation, attack graph generation, risk scoring  
-**Official Site:** [Explore Project](https://secwexen.github.io/aapp-mart/)  
+**Official Website:** [Explore Project](https://secwexen.github.io/aapp-mart/)  
 **GitHub Repo:** [Source Code](https://github.com/secwexen/aapp-mart)  
 
 ## Hands-on Labs & Proof of Work
