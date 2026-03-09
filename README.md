@@ -49,9 +49,10 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Vulnerability Assessment & Exploit Development
 - Malware Analysis & Reverse Engineering
 - Incident Response & Digital Forensics
-- Threat Hunting
+- Threat Hunting & OSINT Investigation
 - Detection Engineering (Sigma, SPL, KQL)
 - MITRE ATT&CK mapping & adversary emulation
+- Detection Evasion Analysis for Rule Improvement
 
 ## **Skills Matrix**
 
