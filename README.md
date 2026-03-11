@@ -42,12 +42,6 @@ I design and operate controlled adversary infrastructure simulations to validate
 - I enjoy turning attacker techniques into detection logic
 - Every exploit is a detection opportunity
 
-## Why Cybersecurity?
-
-Cybersecurity is essential for the stability of modern digital systems.  
-Understanding how systems work, where they fail, and how to strengthen them is key to building secure and resilient infrastructures.  
-My focus is to achieve this through engineering, analysis, and continuous research. 
-
 ## Focus Areas & Learning Path
 
 I am actively developing expertise across key cybersecurity domains, emphasizing hands-on experience and continuous learning.
@@ -80,7 +74,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Secure coding and auditing in Rust, Python, and Bash  
 - Contributing to open-source cybersecurity tools and red team utilities 
 
-## Certification Goals
+## Future Certification
 
 Planned certifications include:
 
