@@ -12,6 +12,13 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 **I've been pursuing this journey with passion since 2022.**  
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true" height="150"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=10&theme=dark&hide_border=true" height="150"/>
+</p>
+
 ## Quick Signal
 
 - Hands-on DFIR, Malware Analysis & Red Team labs
