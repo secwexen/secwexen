@@ -57,7 +57,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 ## **Skills Matrix**
 
 | Category | Tools / Technologies |
-|---------|----------------------|
+|----------|----------------------|
 | **Offensive Security** | Metasploit, Burp Suite, Nmap, SQLMap, Hydra, Gobuster |
 | **Defensive Security & Monitoring** | Splunk, ELK Stack, Suricata, Zeek, Wazuh, Wireshark |
 | **Digital Forensics (DFIR)** | Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free |
