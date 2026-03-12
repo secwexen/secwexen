@@ -15,9 +15,9 @@ By integrating security and software engineering, I deliver efficient, resilient
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true&cache_seconds=7200" height="150" alt="GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=10&theme=dark&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=10&theme=dark&hide_border=true&cache_seconds=7200" height="150" alt="Top Languages"/>
 </p>
 
 ## Quick Signal
