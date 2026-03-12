@@ -12,14 +12,6 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 **I've been pursuing this journey with passion since 2022.**  
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true&cache_seconds=7200" height="150" alt="GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=10&theme=dark&hide_border=true&cache_seconds=7200" height="150" alt="Top Languages"/>
-</p>
-
 ## Quick Signal
 
 - Hands-on DFIR, Malware Analysis & Red Team labs
@@ -66,6 +58,14 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 | **Programming & Scripting** | Rust, Python, Bash, PowerShell |
 | **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, GCP |
 | **Operating Systems** | Kali Linux, Parrot OS, Arch Linux, Ubuntu, WSL, Windows Server |
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true&cache_seconds=7200" height="150" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=10&theme=dark&hide_border=true&cache_seconds=7200" height="150" alt="Top Languages"/>
+</p>
 
 ## Collaboration
 
