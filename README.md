@@ -153,9 +153,9 @@ users are fully responsible for their own actions.
 
 ## Support
 
-⭐ If you find my projects useful, you can support them by giving a star.  
-🔔 Follow my profile to stay informed about new updates and announcements.  
-🤝 For professional collaboration or technical inquiries, feel free to reach out via GitHub.
+- If you find my projects useful, you can support them by giving a star.  
+- Follow my profile to stay informed about new updates and announcements.  
+- For professional collaboration or technical inquiries, feel free to reach out via GitHub.
 
 ---
 
