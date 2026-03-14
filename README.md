@@ -135,14 +135,14 @@ Applied security research and technical notes on hardware security, wireless pro
 
 ## Code of Ethics & Legal
 
-### **Code of Ethics**
+### Code of Ethics
 
 - **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
 - **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
 - Tools are **not intended for illegal use**; misuse is strictly prohibited.
 - The goal is to **enhance detection, improve defenses, and advance security research**.
 
-### **Legal Disclaimer**
+### Legal Disclaimer
 
 - I am **not responsible** for any misuse or illegal use of any content.  
 - All materials are provided solely for educational and defensive security purposes, and users are fully responsible for their own actions.  
