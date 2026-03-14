@@ -135,7 +135,7 @@ Applied security research and technical notes on hardware security, wireless pro
 
 ## Code of Ethics & Legal
 
-### **Ethical Principles**
+### **Code of Ethics**
 
 - **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
 - **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
