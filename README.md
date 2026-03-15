@@ -146,7 +146,8 @@ Applied security research and technical notes on hardware security, wireless pro
 
 - I am **not responsible** for any misuse or illegal use of any content.  
 - All materials are provided solely for educational and defensive security purposes, and users are fully responsible for their own actions.
-- All materials or contents is provided **"as-is" without any warranties**; I make no guarantees regarding accuracy, functionality, or suitability for any particular purpose.
+- All content is provided **"as-is" without any warranties**; I make no guarantees regarding accuracy, functionality, or suitability for any particular purpose.
+- By accessing or using the information and materials provided here, you agree to use them responsibly, ethically, and in compliance with all applicable laws.
 
 ## Current Work
 
