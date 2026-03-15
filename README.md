@@ -133,7 +133,7 @@ Applied security research and technical notes on hardware security, wireless pro
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
 
-## Code of Ethics & Legal
+## Code of Ethics & Legal Disclaimer
 
 ### Code of Ethics
 
