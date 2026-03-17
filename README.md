@@ -105,7 +105,7 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 | Adversary Simulation | enterprise-attack-simulator | Simulation framework leveraging MITRE ATT&CK techniques |
 | Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
 | Toolset | secwexen-arsenal | Collection of offensive/defensive automation tools |
-| Playbook | cyber-threat-playbook | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
+| Playbook | security-playbook | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
 
 ## Achievements & Contributions  
 
