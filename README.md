@@ -48,7 +48,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - MITRE ATT&CK mapping & adversary emulation
 - Detection Evasion Analysis for Rule Improvement
 
-## **Skills Matrix**
+## Skills Matrix
 
 | Category | Tools / Technologies |
 |----------|----------------------|
