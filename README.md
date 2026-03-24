@@ -12,6 +12,10 @@ By integrating security and software engineering, I deliver efficient, resilient
 
 **I've been pursuing this journey with passion since 2022.**  
 
+## Overview
+
+Portfolio showcasing Secwexen’s expertise in cybersecurity, ethical hacking, threat hunting, and detection engineering, highlighting key projects, hands-on labs, and practical experience in adversary simulation, log analysis, and security tool development.
+
 ## Quick Signal
 
 - Hands-on DFIR, Malware Analysis & Red Team labs
