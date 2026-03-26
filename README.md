@@ -168,6 +168,6 @@ Applied security research and technical notes on hardware security, wireless pro
 - Follow my profile to stay informed about new updates and announcements.  
 - For professional collaboration or technical inquiries, feel free to reach out via GitHub.
 
----
+## Legal
 
 Copyright © 2025-2026 secwexen. All Rights Reserved.  
