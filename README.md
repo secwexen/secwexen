@@ -67,11 +67,11 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 <p align="center">
   <a href="https://github.com/secwexen">
-  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true&cache_seconds=7200" height="165" alt="GitHub Stats" loading="lazy" decoding="async"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=secwexen&show_icons=true&hide_title=true&theme=dark&hide_border=true&cache_seconds=7200" height="165" alt="GitHub Stats"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/secwexen">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=5&theme=dark&hide_border=true&cache_seconds=7200" height="165" alt="Top Languages" loading="lazy" decoding="async"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secwexen&layout=compact&hide_title=true&langs_count=5&theme=dark&hide_border=true&cache_seconds=7200" height="165" alt="Top Languages"/>
   </a>
 </p>
 
