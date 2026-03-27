@@ -127,17 +127,14 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 
 Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.  
 
-- [Portfolio](https://github.com/secwexen/secwexen/tree/main/portfolio) – CTF writeups & labs
-- [Blog](https://github.com/secwexen/secwexen/tree/main/blog) – Technical articles
-- [Reflections](https://github.com/secwexen/secwexen/tree/main/reflections) – Personal insights on security
+- **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen/tree/main/portfolio)
+- **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen/tree/main/blog)
+- **Reflections:** [Security Research & Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
 
 ## Contact & Professional Links
 
 - **Website:** [About & Portfolio](https://secwexen.github.io/)
 - **E-mail:** Coming Soon
-- **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen/tree/main/portfolio)
-- **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen/tree/main/blog)
-- **Reflections:** [Security Research & Reflections](https://github.com/secwexen/secwexen/tree/main/reflections)
 - **GitHub:** [GitHub Profile](https://github.com/secwexen)
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
