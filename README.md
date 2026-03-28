@@ -19,9 +19,9 @@ Portfolio showcasing Secwexen’s expertise in cybersecurity, ethical hacking, t
 ## Quick Signal
 
 - Hands-on DFIR, Malware Analysis & Red Team labs
-- Security tooling development with Rust & Python
+- Security tooling development with (Rust & Python)
 - Threat Hunting, SIEM & Detection Engineering
-- Focus: adversarial simulation and detection bypass leading to improvement
+- **Focus:** adversarial simulation & detection bypass leading to improvement
 
 ## Primary Focus
 
