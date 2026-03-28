@@ -56,12 +56,12 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 
 | Category | Tools / Technologies |
 |----------|----------------------|
-| **Offensive Security** | Metasploit, Burp Suite, Nmap, SQLMap, Hydra, Gobuster |
-| **Defensive Security & Monitoring** | Splunk, ELK Stack, Suricata, Zeek, Wazuh, Wireshark |
-| **Digital Forensics (DFIR)** | Autopsy, Volatility, FTK Imager, Binwalk, Ghidra, IDA Free |
-| **Programming & Scripting** | Rust, Python, Bash, PowerShell |
-| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, GCP |
-| **Operating Systems** | Kali Linux, Parrot OS, Arch Linux, Ubuntu, WSL, Windows Server |
+| **Offensive Security** | Metasploit, Burp Suite, Nmap, SQLMap, Gobuster |
+| **Defensive Security & SIEM** | Splunk, ELK Stack, Zeek, Wazuh, |
+| **Digital Forensics (DFIR)** | Autopsy, Volatility, FTK Imager, Ghidra |
+| **Programming & Scripting** | Python, Bash, PowerShell |
+| **Cloud & Infrastructure** | Docker, Kubernetes, AWS |
+| **Operating Systems** | Kali Linux, Ubuntu, Windows Server |
 
 ## GitHub Stats
 
