@@ -112,11 +112,11 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 
 | Area | Repository | What it Shows |
 |------|------------|---------------|
-| Autonomous Red Team | aapp-mart | AI-driven attack path prediction and multi-agent red-team simulation |
-| Adversary Simulation | enterprise-attack-simulator | Simulation framework leveraging MITRE ATT&CK techniques |
-| Anomaly Detection | log-anomaly-detector | Machine learning-based log anomaly detection for SOC & threat hunting |
-| Security Automation Toolkit | secwexen-arsenal | Collection of offensive/defensive automation tools |
-| Security Playbooks | security-playbooks | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
+| Autonomous Red Team | **aapp-mart** | AI-driven attack path prediction and multi-agent red-team simulation |
+| Adversary Simulation | **enterprise-attack-simulator** | Simulation framework leveraging MITRE ATT&CK techniques |
+| Anomaly Detection | **log-anomaly-detector** | Machine learning-based log anomaly detection for SOC & threat hunting |
+| Security Automation Toolkit | **secwexen-arsenal** | Collection of offensive/defensive automation tools |
+| Security Playbooks | **security-playbooks** | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
 
 ## Achievements & Contributions  
 
