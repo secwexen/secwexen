@@ -107,6 +107,8 @@ Built for continuous security testing, adversary emulation, and high‑fidelity 
 
 ## Hands-on Labs & Proof of Work
 
+> All repositories include hands-on labs, detection logic, and real-world simulation scenarios.
+
 | Area | Repository | What it Shows |
 |------|------------|---------------|
 | Autonomous Red Team | aapp-mart | AI-driven attack path prediction and multi-agent red-team simulation |
