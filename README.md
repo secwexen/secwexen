@@ -57,7 +57,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 | Category | Tools / Technologies |
 |----------|----------------------|
 | **Offensive Security** | Metasploit, Burp Suite, Nmap, SQLMap, Gobuster |
-| **Defensive Security & SIEM** | Splunk, ELK Stack, Zeek, Wazuh, |
+| **Defensive Security & SIEM** | Splunk, ELK Stack, Zeek, Wazuh |
 | **Digital Forensics (DFIR)** | Autopsy, Volatility, FTK Imager, Ghidra |
 | **Programming & Scripting** | Python, Bash, PowerShell |
 | **Cloud & Infrastructure** | Docker, Kubernetes, AWS |
