@@ -12,10 +12,6 @@ By integrating **security and software engineering**, I deliver efficient, resil
 
 I've been pursuing this journey with passion since 2022.
 
-## Overview
-
-Portfolio showcasing Secwexen’s expertise in cybersecurity, ethical hacking, threat hunting, and detection engineering, highlighting key projects, hands-on labs, and practical experience in adversary simulation, log analysis, and security tool development.
-
 ## Quick Signal
 
 - Hands-on DFIR, Malware Analysis & Red Team Labs
@@ -95,8 +91,6 @@ Planned certifications include:
 - Designed and hosted **CTF challenges** adopted by local cybersecurity communities.  
 
 ## Security Research & Technical Notes
-
-Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.  
 
 - **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen.github.io/tree/main/portfolio)
 - **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen.github.io/tree/main/blog)
