@@ -69,7 +69,7 @@ Planned certifications include:
 **Tech:** Python, MITRE ATT&CK, Multi‑Agent Simulation, Graph Analysis
 
 **Official Website:** [Explore Project](https://secwexen.github.io/aapp-mart/)  
-**GitHub Repo:** [Source Code](https://github.com/secwexen/aapp-mart)  
+**GitHub Repository:** [Source Code](https://github.com/secwexen/aapp-mart)  
 
 ## Hands-on Labs & Proof of Work
 
