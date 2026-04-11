@@ -1,4 +1,4 @@
-# Legal Disclaimer
+# Disclaimer
 
 All tools, scripts, research notes, and security resources in this repository are provided strictly for **educational, research, and defensive security purposes**.  
 They are intended to support learning, threat analysis, detection engineering, and the improvement of cybersecurity defenses.
