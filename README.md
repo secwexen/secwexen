@@ -66,7 +66,7 @@ Planned certifications include:
 **AAPP‑MART** is an open‑source Python security engine designed for offensive security research, adversarial modeling, and automated risk assessment.
 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
-**Tech:** Python, MITRE ATT&CK, Multi‑Agent Simulation, Graph Analysis
+**Technology:** Python, MITRE ATT&CK, Multi‑Agent Simulation, Graph Analysis
 
 **Official Website:** [Explore Project](https://secwexen.github.io/aapp-mart/)  
 **GitHub Repository:** [Source Code](https://github.com/secwexen/aapp-mart)  
