@@ -103,7 +103,7 @@ Applied security research and technical notes on hardware security, wireless pro
 For professional collaboration or technical inquiries, feel free to reach.
 
 - **Website:** [About & Portfolio](https://secwexen.github.io/)
-- **E-mail:** Coming Soon
+- **E-mail:** Not available
 - **GitHub:** [GitHub Profile](https://github.com/secwexen)
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
