@@ -77,7 +77,7 @@ Planned certifications include:
 
 | Area | Repository | What it Shows |
 |------|------------|---------------|
-| Autonomous Red Team | **aapp-mart** | AI-driven attack path prediction and multi-agent red-team simulation |
+| Autonomous Red Team | **aapp-mart** | AI-Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Engine |
 | Security Playbooks | **security-playbooks** | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
 | Adversary Simulation | **enterprise-attack-simulator** | Simulation framework leveraging MITRE ATT&CK techniques |
 | Security Automation Toolkit | **secwexen-arsenal** | Collection of offensive/defensive automation tools |
