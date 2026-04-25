@@ -94,9 +94,9 @@ Planned certifications include:
 
 Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.
 
-- **Portfolio:** [CTF Writeups & Labs](https://github.com/secwexen/secwexen.github.io/tree/main/portfolio)
+- **Projects:** [Security Tools](https://github.com/secwexen/secwexen.github.io/tree/main/projects)
 - **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen.github.io/tree/main/blog)
-- **Reflections:** [Security Research & Reflections](https://github.com/secwexen/secwexen.github.io/tree/main/reflections)
+- **Notes:** [Security Notes](https://github.com/secwexen/secwexen.github.io/tree/main/notes)
 
 ## Contact & Professional Links
 
