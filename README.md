@@ -90,7 +90,7 @@ Planned certifications include:
 - Performed **vulnerability assessments** and created **Proof of Concept (PoC) exploits** in controlled lab environments.  
 - Designed and hosted **CTF challenges** adopted by local cybersecurity communities.  
 
-## Security Research & Technical Notes
+## Security Research Hub
 
 Applied security research and technical notes on hardware security, wireless protocol analysis, and offensive security tooling.
 
