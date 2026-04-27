@@ -65,7 +65,7 @@ Planned certifications include:
 
 **AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine**
 
-**AAPP‑MART** is an open‑source Python security engine designed for offensive security research, adversarial modeling, and automated risk assessment.
+**AAPP‑MART** is designed for attack simulation, automated threat modeling, adversary emulation, and enterprise‑grade cybersecurity validation aligned with MITRE ATT&CK.
 
 **Focus:** Adversary emulation, detection validation, attack path analysis  
 **Technology:** Python, MITRE ATT&CK, Multi‑Agent Simulation, Graph Analysis
