@@ -110,21 +110,6 @@ For professional collaboration or technical inquiries, feel free to reach.
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
 - **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
 
-## Code of Ethics & Legal Disclaimer
-
-### Code of Ethics
-
-- **All research, simulations, and tools** are conducted in controlled environments for learning and defensive purposes.
-- **Responsible disclosure** is strictly followed for any vulnerabilities discovered.
-- Tools are **not intended for illegal use**; misuse is strictly prohibited.
-- The goal is to **enhance detection, improve defenses, and advance security research**.
-
-### Legal Disclaimer
-
-- All materials are provided solely for educational and defensive security purposes, and users are fully responsible for their own actions.
-- All content is provided **"as-is" without any warranties**; I make no guarantees regarding accuracy, functionality, or suitability for any particular purpose.
-- By accessing or using the information and materials provided here, you agree to use them responsibly, ethically, and in compliance with all applicable laws.
-
 ## Current Work
 
 - Developing Rust-based security tools for automation  
