@@ -2,7 +2,7 @@
 
 ## Purpose
 
-All research, tools, scripts, and security resources are provided strictly for **educational, research, and defensive security purposes**.  
+All materials, research, tools, scripts, and security resources are provided strictly for **educational, research, and defensive security purposes**.  
 Materials are intended to support threat analysis, detection engineering, penetration testing practice in controlled environments, and improving cybersecurity defenses.
 
 ## Responsibility
