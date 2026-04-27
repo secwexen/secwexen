@@ -61,7 +61,9 @@ Planned certifications include:
 
 ## Key Projects
 
-### AAPP‑MART | AI-Autonomous Attack Path Prediction & Multi‑Agent Red Team Simulation Engine
+### AAPP‑MART
+
+**AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine**
 
 **AAPP‑MART** is an open‑source Python security engine designed for offensive security research, adversarial modeling, and automated risk assessment.
 
