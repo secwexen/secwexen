@@ -1,6 +1,6 @@
 # Ethics Statement
 
-All research, tools, and security resources shared in this profile are created with a commitment to ethical cybersecurity practices. The purpose of these materials is to support defensive security, threat analysis, detection engineering, and the improvement of cyber resilience.
+All materials, research, tools, and security resources shared in this profile are created with a commitment to ethical cybersecurity practices. The purpose of these materials is to support defensive security, threat analysis, detection engineering, and the improvement of cyber resilience.
 
 I do not condone or support the misuse of security knowledge, offensive tools, or research findings for malicious, illegal, or unethical activities. All content is intended to be used responsibly, in environments where explicit authorization has been granted.
 
