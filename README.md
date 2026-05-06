@@ -17,7 +17,7 @@ I've been pursuing this journey with passion since 2022.
 - Hands-on DFIR, Malware Analysis & Red Team Labs
 - Security Tooling Development with (Rust & Python)
 - Threat Hunting, SIEM & Detection Engineering
-- **Focus:** Adversarial simulation & detection bypass leading to improvement 
+- **Focus:** Adversarial simulation and detection bypass leading to improvement 
 
 ## Focus Areas
 
@@ -63,7 +63,7 @@ Planned certifications include:
 
 ### AAPP‑MART
 
-**AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine**
+AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 
 **AAPP‑MART** is designed for attack simulation, automated threat modeling, adversary emulation, and enterprise‑grade cybersecurity validation aligned with MITRE ATT&CK.
 
