@@ -4,13 +4,11 @@
 
 I am a cybersecurity expert specializing in ethical hacking, digital defense, and vulnerability assessment.  
 My primary focus is on proactively identifying and mitigating risks before they can be exploited by malicious actors.  
-I am strongly committed to safeguarding digital assets and anticipating adversarial tactics to remain one step ahead.  
+I am strongly committed to safeguarding digital assets and anticipating adversarial tactics to remain one step ahead.
 
 In addition to my cybersecurity expertise, I have a solid background in software development.  
 I design and implement **Python-based** tools for automation, **threat intelligence**, and **SIEM optimization**.  
-By integrating **security and software engineering**, I deliver efficient, resilient, and intelligent defense solutions.  
-
-I've been pursuing this journey with passion since 2022.
+By integrating **security and software engineering**, I deliver efficient, resilient, and intelligent defense solutions.
 
 ## Quick Signal
 
