@@ -77,9 +77,9 @@ AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 
 | Area | Repository | What it Shows |
 |------|------------|---------------|
-| Offensive Security (Red Teaming) | **aapp-mart** | The AAPP-MART AI-based cybersecurity engine that simulates attack paths and analyzes system security |
-| Detection Engineering (Defensive Security) | **security-playbooks** | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
-| Adversary Emulation / BAS | **attack-simulator-framework** | Simulation framework leveraging MITRE ATT&CK techniques |
+| Offensive Security (Red Teaming) | [aapp-mart](https://github.com/secwexen/aapp-mart) | The AAPP-MART AI-based cybersecurity engine that simulates attack paths and analyzes system security |
+| Detection Engineering (Defensive Security) | [security-playbooks](https://github.com/secwexen/security-playbooks) | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
+| Adversary Emulation / BAS | [attack-simulator-framework](https://github.com/secwexen/attack-simulator-framework) | Simulation framework leveraging MITRE ATT&CK techniques |
 
 ## Achievements & Contributions  
 
