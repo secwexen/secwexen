@@ -73,8 +73,6 @@ AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 
 ## Hands-on Labs & Proof of Work
 
-> All repositories include hands-on labs, detection logic, and real-world simulation scenarios.
-
 | Area | Repository | What it Shows |
 |------|------------|---------------|
 | Offensive Security (Red Teaming) | [aapp-mart](https://github.com/secwexen/aapp-mart) | The AAPP-MART AI-based cybersecurity engine that simulates attack paths and analyzes system security |
