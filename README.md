@@ -95,15 +95,13 @@ Applied security research and technical notes on hardware security, wireless pro
 - **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen.github.io/tree/main/blog)
 - **Notes:** [Security Notes](https://github.com/secwexen/secwexen.github.io/tree/main/notes)
 
-## Contact & Professional Links
-
-For professional collaboration or technical inquiries, feel free to reach.
+## Contact
 
 - **Website:** [About & Portfolio](https://secwexen.github.io/)
 - **E-mail:** Not available
 - **GitHub:** [GitHub Profile](https://github.com/secwexen)
 - **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
-- **PGP Public Key:** [Download PGP Public Key](https://secwexen.github.io/pgp.asc)
+- **PGP:** [PGP Public Key](https://secwexen.github.io/pgp.asc)
 
 ## Current Work
 
