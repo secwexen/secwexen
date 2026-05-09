@@ -49,7 +49,7 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Secure coding and auditing in Rust, Python, and Bash  
 - Contributing to open-source cybersecurity tools and red team utilities 
 
-## Certifications & Learning
+## Certifications
 
 Planned certifications include:
 
