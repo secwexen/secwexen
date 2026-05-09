@@ -78,13 +78,13 @@ AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 | Detection Engineering (Defensive Security) | [security-playbooks](https://github.com/secwexen/security-playbooks) | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
 | Adversary Emulation / BAS | [attack-simulator-framework](https://github.com/secwexen/attack-simulator-framework) | Simulation framework leveraging MITRE ATT&CK techniques |
 
-## Achievements & Contributions  
+## Contributions
 
 - Conducted research in network security and developed new vulnerability scenarios.  
 - Developed new Python modules for the open-source security tool **“AAPP-MART”**.  
 - Published **technical research notes** on malware reverse engineering and network protocol analysis.  
 - Performed **vulnerability assessments** and created **Proof of Concept (PoC) exploits** in controlled lab environments.  
-- Designed and hosted **CTF challenges** adopted by local cybersecurity communities.  
+- Designed and hosted **CTF challenges** adopted by local cybersecurity communities.
 
 ## Security Research Hub
 
