@@ -57,7 +57,7 @@ Planned certifications include:
 - **Certified Information Systems Security Professional (CISSP)** - Enterprise security expertise  
 - **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition 
 
-## Key Projects
+## Featured Project
 
 ### AAPP‑MART
 
@@ -71,11 +71,10 @@ AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 **Official Website:** [Explore Project](https://secwexen.github.io/aapp-mart/)  
 **GitHub Repository:** [Source Code](https://github.com/secwexen/aapp-mart)  
 
-## Hands-on Labs & Proof of Work
+## Security Labs
 
 | Area | Repository | What it Shows |
 |------|------------|---------------|
-| Offensive Security (Red Teaming) | [aapp-mart](https://github.com/secwexen/aapp-mart) | The AAPP-MART AI-based cybersecurity engine that simulates attack paths and analyzes system security |
 | Detection Engineering (Defensive Security) | [security-playbooks](https://github.com/secwexen/security-playbooks) | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
 | Adversary Emulation / BAS | [attack-simulator-framework](https://github.com/secwexen/attack-simulator-framework) | Simulation framework leveraging MITRE ATT&CK techniques |
 
