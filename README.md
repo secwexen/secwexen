@@ -112,4 +112,4 @@ Applied security research and technical notes on hardware security, wireless pro
 
 ## Legal
 
-Copyright © 2025-2026 secwexen. All Rights Reserved.  
+Copyright © 2026 secwexen. All Rights Reserved.  
