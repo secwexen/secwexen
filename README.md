@@ -86,14 +86,6 @@ Applied security research and technical notes on hardware security, wireless pro
 - **Blog:** [Technical Blog Posts](https://github.com/secwexen/secwexen.github.io/tree/main/blog)
 - **Notes:** [Security Notes](https://github.com/secwexen/secwexen.github.io/tree/main/notes)
 
-## Contact
-
-- **Website:** [About & Portfolio](https://secwexen.github.io/)
-- **E-mail:** Not available
-- **GitHub:** [GitHub Profile](https://github.com/secwexen)
-- **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
-- **PGP:** [PGP Public Key](https://secwexen.github.io/pgp.asc)
-
 ## Current Work
 
 - Developing Rust-based security tools for automation  
@@ -101,3 +93,11 @@ Applied security research and technical notes on hardware security, wireless pro
 - Preparing for **OSCP** certification  
 - Building new **CTF challenges** for Red Team simulations  
 - I am experimenting with **threat-hunting automation** and **SIEM data analysis**
+
+## Contact
+
+- **Website:** [About & Portfolio](https://secwexen.github.io/)
+- **E-mail:** Not available
+- **GitHub:** [GitHub Profile](https://github.com/secwexen)
+- **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
+- **PGP:** [PGP Public Key](https://secwexen.github.io/pgp.asc)
