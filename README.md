@@ -49,14 +49,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 - Secure coding and auditing in Rust, Python, and Bash  
 - Contributing to open-source cybersecurity tools and red team utilities 
 
-## Certifications
-
-Planned certifications include:
-
-- **Offensive Security Certified Professional (OSCP)** - Advanced penetration testing and exploit development    
-- **Certified Information Systems Security Professional (CISSP)** - Enterprise security expertise  
-- **CompTIA Security+** - Foundational cybersecurity knowledge with global recognition 
-
 ## Featured Project
 
 ### AAPP‑MART
