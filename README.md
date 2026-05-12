@@ -101,7 +101,3 @@ Applied security research and technical notes on hardware security, wireless pro
 - Preparing for **OSCP** certification  
 - Building new **CTF challenges** for Red Team simulations  
 - I am experimenting with **threat-hunting automation** and **SIEM data analysis**
-
-## Legal
-
-Copyright © 2026 secwexen. All Rights Reserved.  
