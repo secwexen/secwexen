@@ -39,7 +39,6 @@ I am actively developing expertise across key cybersecurity domains, emphasizing
 | **Programming & Security Engineering** | Python, JavaScript, Bash, PowerShell |
 | **Cloud & Infrastructure** | Docker, Kubernetes, AWS |
 | **Operating Systems** | Kali Linux, Ubuntu, Windows Server |
-| **OSINT** | Maltego, theHarvester, SpiderFoot, Shodan |
 
 ## Collaboration
 
