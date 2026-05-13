@@ -56,11 +56,10 @@ AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 
 **AAPP‑MART** is designed for attack simulation, automated threat modeling, adversary emulation, and enterprise‑grade cybersecurity validation aligned with MITRE ATT&CK.
 
-**Focus:** Adversary emulation, detection validation, attack path analysis  
 **Technology:** Python, MITRE ATT&CK, Multi‑Agent Simulation, Graph Analysis
 
 **Official Website:** [Explore Project](https://secwexen.github.io/aapp-mart/)  
-**GitHub Repository:** [Source Code](https://github.com/secwexen/aapp-mart)  
+**GitHub Repository:** [Source Code](https://github.com/secwexen/aapp-mart)
 
 ## Security Labs
 
