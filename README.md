@@ -65,7 +65,7 @@ AI‑Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine
 
 | Area | Repository | What it Shows |
 |------|------------|---------------|
-| Detection Engineering (Defensive Security) | [security-playbooks](https://github.com/secwexen/security-playbooks) | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
+| Detection Engineering | [security-playbooks](https://github.com/secwexen/security-playbooks) | MITRE ATT&CK–based scenarios, detection rules (Sigma, YARA, Suricata), PoCs, labs, and learning material |
 | Adversary Emulation / BAS | [attack-simulator-framework](https://github.com/secwexen/attack-simulator-framework) | Simulation framework leveraging MITRE ATT&CK techniques |
 
 ## Contributions
