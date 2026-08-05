@@ -36,7 +36,7 @@ Working on cybersecurity since 2022.
 | Offensive Security | Metasploit, Burp Suite, Nmap, SQLMap |
 | Defensive Security | Splunk, ELK Stack, Wazuh, Wireshark |
 | Digital Forensics & Reverse Engineering (DFIR / RE) | Autopsy, Volatility, FTK Imager, Ghidra |
-| Programming & Security Engineering | Python, C, Bash, PowerShell |
+| Programming & Automation | Python, C, Bash, PowerShell |
 | Cloud & Infrastructure | Docker, Kubernetes, AWS, Terraform |
 
 ## Featured Project
