@@ -7,7 +7,7 @@ Experienced in penetration testing, detection engineering, identifying attack pa
 
 Strong background in **Python, Bash, and PowerShell security engineering**, with practical experience in SIEM optimization, incident response (DFIR), malware analysis, threat hunting, secure code review (SAST/DAST), threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation. Focused on building scalable security automation, improving detection capabilities, and advancing real world attack simulation methodologies.
 
-Working on cybersecurity since 2022.
+Working in cybersecurity since 2022.
 
 ## TL;DR
 
