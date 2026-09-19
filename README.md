@@ -5,7 +5,7 @@
 **Cybersecurity**, **offensive security**, **defensive security**, **application security (AppSec)**, **DevSecOps**, **cloud security**, and **security research**.  
 Experienced in penetration testing, detection engineering, identifying attack paths, analyzing complex threat activity, and developing security tooling for both offensive research and defensive operations.
 
-Strong background in **Python, Bash, and PowerShell security engineering**, with practical experience in SIEM optimization, incident response (DFIR), malware analysis, threat hunting, secure code review (SAST/DAST), threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation. Focused on building scalable security automation, improving detection capabilities, and advancing real world attack simulation methodologies.
+Strong background in **Python, Bash, and PowerShell security engineering**, with practical experience in SIEM optimization, incident response (DFIR), malware analysis, threat hunting, secure code review (SAST/DAST), threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation.
 
 Working in cybersecurity since 2022.
 
