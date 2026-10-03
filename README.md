@@ -11,20 +11,20 @@ Working in cybersecurity since 2022.
 
 ## TL;DR
 
-- Hands-on DFIR, Malware Analysis, and Red Team Labs  
-- Security Tooling Development (Rust & Python)  
-- Application Security (AppSec) and Secure Code Review  
-- Threat Hunting, SIEM & Detection Engineering   
-- Adversarial Simulation and Detection Bypass Leading to Improvement  
+- Hands-on DFIR, Malware Analysis, and Red Team Labs
+- Security Tooling Development (Rust & Python)
+- Application Security (AppSec) and Secure Code Review
+- Threat Hunting, SIEM & Detection Engineering
+- Adversarial Simulation and Detection Bypass Leading to Improvement
 - Security research, Vulnerability Analysis, and PoC Development in Lab Environments
 
 ## Focus Areas
 
-- Application Security (AppSec) & Secure Code Review  
-- Penetration Testing (Web, Network, Wireless)  
-- Malware Analysis & Reverse Engineering (RE)  
-- Digital Forensics & Incident Response (DFIR)  
-- Threat Hunting & OSINT Investigation  
+- Application Security (AppSec) & Secure Code Review
+- Penetration Testing (Web, Network, Wireless)
+- Malware Analysis & Reverse Engineering (RE)
+- Digital Forensics & Incident Response (DFIR)
+- Threat Hunting & OSINT Investigation
 - Detection Engineering (Sigma, SPL, KQL)
 
 ## Skills Matrix
@@ -55,11 +55,11 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 
 ## Contributions
 
-- Conducted research in network security and developed new vulnerability scenarios.  
-- Developed new Python modules for the cybersecurity engine AAPP-MART.  
-- Published technical research notes on malware reverse engineering and network protocol analysis.  
-- Performed vulnerability assessments and created Proof of Concept (PoC) exploits in controlled lab environments.  
-- Designed and hosted CTF challenges adopted by local cybersecurity communities.  
+- Conducted research in network security and developed new vulnerability scenarios.
+- Developed new Python modules for the cybersecurity engine AAPP-MART.
+- Published technical research notes on malware reverse engineering and network protocol analysis.
+- Performed vulnerability assessments and created Proof of Concept (PoC) exploits in controlled lab environments.
+- Designed and hosted CTF challenges adopted by local cybersecurity communities.
 - Integrated automated AppSec testing pipelines into secure development lifecycles.
 
 ## Security Research
@@ -68,11 +68,11 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 
 ## Current Work
 
-- Developing Rust-based security tools for automation  
-- Studying advanced malware analysis and reverse engineering  
-- Preparing for **OSCP** certification  
-- Building new CTF challenges for Red Team simulations  
-- Experimenting with threat hunting automation and SIEM data analysis  
+- Developing Rust-based security tools for automation
+- Studying advanced malware analysis and reverse engineering
+- Preparing for **OSCP** certification
+- Building new CTF challenges for Red Team simulations
+- Experimenting with threat hunting automation and SIEM data analysis
 - Researching advanced application security and secure coding practices
 
 ## Contact
