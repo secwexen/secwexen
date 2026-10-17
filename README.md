@@ -2,7 +2,7 @@
 
 ## About Me
 
-Cybersecurity, **offensive security**, **defensive security**, application security (AppSec), DevSecOps, cloud security, and **security research**.  
+Cybersecurity, **ethical hacking**, **offensive security**, **defensive security**, application security (AppSec), DevSecOps, cloud security, and **security research**.  
 Experienced in penetration testing, detection engineering, identifying attack paths, analyzing complex threat activity, and developing security tooling for both offensive research and defensive operations.
 
 Strong background in **Python, Rust, Bash, and PowerShell security engineering**, with practical experience in SIEM optimization, incident response, malware analysis, threat hunting, secure code review (SAST/DAST), threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation.
