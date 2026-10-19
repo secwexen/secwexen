@@ -5,7 +5,7 @@
 Cybersecurity, **ethical hacking**, **offensive security**, **defensive security**, application security (AppSec), cloud security, and **security research**.  
 Experienced in penetration testing, detection engineering, identifying attack paths, analyzing complex threat activity, and developing security tooling for both offensive research and defensive operations.
 
-Strong background in **Python, Rust, Bash, and PowerShell security engineering**, with practical experience in SIEM optimization, incident response, malware analysis, threat hunting, secure code review (SAST/DAST), threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation.
+Strong background in **Python, Bash, Shell, and PowerShell security engineering**, with practical experience in SIEM optimization, incident response, malware analysis, threat hunting, secure code review (SAST/DAST), threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation.
 
 Working in cybersecurity since 2023.
 
@@ -26,7 +26,7 @@ Working in cybersecurity since 2023.
 | Offensive Security                      | Metasploit, Burp Suite, Nmap, SQLMap    |
 | Defensive Security                      | Splunk, ELK Stack, Wazuh, Wireshark     |
 | Digital Forensics & Reverse Engineering | Autopsy, Volatility, FTK Imager, Ghidra |
-| Programming & Automation                | Python, Rust, Bash, PowerShell          |
+| Programming & Automation                | Python, Bash, Shell, PowerShell         |
 | Cloud & Infrastructure                  | Docker, Kubernetes, AWS, Terraform      |
 
 ## Featured Project
@@ -55,7 +55,7 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 
 ## Current Work
 
-- Developing Rust-based security tools for automation
+- Developing Python-based security tools for automation
 - Studying advanced malware analysis and reverse engineering
 - Preparing for **OSCP** certification
 - Building new CTF challenges for Red Team simulations
