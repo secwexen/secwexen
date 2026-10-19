@@ -56,11 +56,8 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 ## Current Work
 
 - Developing Python-based security tools for automation
-- Studying advanced malware analysis and reverse engineering
 - Preparing for **OSCP** certification
 - Building new CTF challenges for Red Team simulations
-- Experimenting with threat hunting automation and SIEM data analysis
-- Researching advanced application security and secure coding practices
 
 ## Contact
 
