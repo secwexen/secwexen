@@ -50,14 +50,8 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 - Developed new Python modules for the cybersecurity engine AAPP-MART.
 - Published technical research notes on malware reverse engineering and network protocol analysis.
 - Performed vulnerability assessments and created Proof of Concept (PoC) exploits in controlled lab environments.
-- Designed and hosted CTF challenges adopted by local cybersecurity communities.
+- Designed CTF challenges adopted by local cybersecurity communities.
 - Integrated automated AppSec testing pipelines into secure development lifecycles.
-
-## Current Work
-
-- Developing Python-based security tools for automation
-- Preparing for **OSCP** certification
-- Building new CTF challenges for Red Team simulations
 
 ## Contact
 
