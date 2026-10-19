@@ -9,15 +9,6 @@ Strong background in **Python, Rust, Bash, and PowerShell security engineering**
 
 Working in cybersecurity since 2023.
 
-## TL;DR
-
-- Hands-on DFIR, Malware Analysis, and Red Team Labs
-- Security Tooling Development (Rust & Python)
-- Application Security (AppSec) and Secure Code Review
-- Threat Hunting, SIEM & Detection Engineering
-- Adversarial Simulation and Detection Bypass Leading to Improvement
-- Security research, Vulnerability Analysis, and PoC Development in Lab Environments
-
 ## Focus Areas
 
 - Application Security (AppSec) & Secure Code Review
@@ -46,7 +37,7 @@ AAPP-MART (AI-Powered Autonomous Attack Path Prediction & Multi-Agent Red Team S
 
 GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 
-## Security Labs
+## Security Repositories
 
 | GitHub Repository                                                    | Description                                                                                                      |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
