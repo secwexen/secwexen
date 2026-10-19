@@ -62,10 +62,6 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 - Designed and hosted CTF challenges adopted by local cybersecurity communities.
 - Integrated automated AppSec testing pipelines into secure development lifecycles.
 
-## Security Research
-
-- **Gist:** [Code Snippets & PoCs](https://gist.github.com/secwexen)
-
 ## Current Work
 
 - Developing Rust-based security tools for automation
