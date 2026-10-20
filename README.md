@@ -33,7 +33,7 @@ Working in cybersecurity since 2023.
 
 ### AAPP-MART
 
-AAPP-MART (AI-Powered Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine) is a cybersecurity engine designed for offensive security and purple team.
+AAPP-MART (AI-Powered Autonomous Attack Path Prediction & Multi-Agent Red Team Simulation Engine) is a cybersecurity engine designed for offensive security and purple teaming.
 
 GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 
