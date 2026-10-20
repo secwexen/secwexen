@@ -53,6 +53,12 @@ GitHub Repository: [AAPP-MART](https://github.com/secwexen/aapp-mart)
 - Designed CTF challenges for cybersecurity training and red team simulations.
 - Integrated automated AppSec testing pipelines into secure development lifecycles.
 
+## Current Work
+
+- Developing Python-based security tools for automation
+- Preparing for **OSCP** certification
+- Building new CTF challenges for Red Team simulations
+
 ## Contact
 
 - **PGP:** [PGP Public Key](https://secwexen.github.io/pgp.asc)
