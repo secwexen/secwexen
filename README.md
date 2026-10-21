@@ -2,7 +2,7 @@
 
 ## About Me
 
-Cybersecurity focused on **ethical hacking**, **offensive security**, **defensive security**, cloud security, and **security research**.  
+Focused on **cybersecurity**, **ethical hacking**, **offensive security**, **defensive security**, cloud security, and **security research**.  
 Experienced in identifying attack paths, analyzing complex threat activity, and developing security tooling for both offensive research and defensive operations.
 
 Strong background in **Python, Bash, Shell, and PowerShell security engineering**, with practical experience in SIEM optimization, threat modeling, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation.
