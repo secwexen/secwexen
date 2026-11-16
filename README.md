@@ -20,14 +20,14 @@ Working in cybersecurity since 2023.
 
 ## Skills Matrix
 
-| Category                                | Tools & Technologies                    |
-| --------------------------------------- | --------------------------------------- |
-| DevSecOps & AppSec                      | SonarQube, Semgrep, OWASP ZAP, Trivy    |
-| Offensive Security                      | Metasploit, Burp Suite, Nmap, SQLMap    |
-| Defensive Security                      | Splunk, ELK Stack, Wazuh, Wireshark     |
-| Digital Forensics & Reverse Engineering | Autopsy, Volatility, FTK Imager, Ghidra |
-| Programming & Automation                | Python, Bash, PowerShell                |
-| Cloud & Infrastructure                  | Docker, Kubernetes, AWS, Terraform      |
+| Category                                | Tools & Technologies          |
+| --------------------------------------- | ----------------------------- |
+| DevSecOps & Application Security        | SonarQube, Semgrep, OWASP ZAP |
+| Offensive Security                      | Metasploit, Burp Suite, Nmap  |
+| Defensive Security                      | Splunk, ELK Stack, Wazuh      |
+| Digital Forensics & Reverse Engineering | Autopsy, Volatility, Ghidra   |
+| Programming & Scripting                 | Python, Bash, PowerShell      |
+| Cloud & Infrastructure                  | Docker,  AWS, Terraform       |
 
 ## Featured Project
 
@@ -55,8 +55,8 @@ AAPP-MART (AI-Powered Autonomous Attack Path Prediction & Multi-Agent Red Team S
 
 ## Current Work
 
+- Expanding AAPP-MART
 - Developing Python-based security tools for automation
-- Preparing for **OSCP** certification
 - Building new CTF challenges for Red Team simulations
 
 ## Contact
