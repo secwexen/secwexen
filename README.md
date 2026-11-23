@@ -42,7 +42,7 @@ AAPP-MART (AI-Powered Autonomous Attack Path Prediction & Multi-Agent Red Team S
 | GitHub Repository                                                    | Description                                                                                                                            |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [Security Playbooks](https://github.com/secwexen/security-playbooks) | Security Playbooks is a defensive security repository designed for cybersecurity professionals, detection engineers, and SOC analysts. |
-| [Secwexen Arsenal](https://github.com/secwexen/secwexen-arsenal)     | Secwexen Arsenal is a defensive security repository designed for security research.                                                    |
+| [Secwexen Arsenal](https://github.com/secwexen/secwexen-arsenal)     | A cybersecurity toolkit for security research, featuring OSINT and system automation tools.                                            |
 
 ## Contributions
 
