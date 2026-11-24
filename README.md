@@ -7,8 +7,6 @@ Experienced in identifying attack paths, analyzing complex threat activity, and 
 
 Strong background in **Python programming, Bash and PowerShell scripting**, and security engineering, with experience in SIEM optimization, threat modeling, cloud security, DevSecOps, CI/CD security, and MITRE ATT&CK driven adversary emulation.
 
-Working in cybersecurity since 2023.
-
 ## Focus Areas
 
 - Application Security (AppSec) & Secure Code Review (SAST/DAST)
