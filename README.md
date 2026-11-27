@@ -56,7 +56,3 @@ AAPP-MART (AI-Powered Autonomous Attack Path Prediction & Multi-Agent Red Team S
 - Expanding AAPP-MART
 - Developing Python-based security tools for automation
 - Building new CTF challenges for Red Team simulations
-
-## Contact
-
-- **PGP:** [PGP Public Key](https://secwexen.github.io/pgp.asc)
